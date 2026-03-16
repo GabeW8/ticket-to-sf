@@ -1,0 +1,33 @@
+name: Monthly H-1B Data Refresh
+
+on:
+  schedule:
+    - cron: '0 12 1 * *' # 1st of each month at noon UTC
+  workflow_dispatch: {} # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-h1b:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Process H-1B data
+        run: npx tsx scripts/h1b-processor.ts
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/h1b-sponsors.json
+          git diff --staged --quiet || git commit -m "chore: monthly H-1B sponsor data refresh"
+          git push
