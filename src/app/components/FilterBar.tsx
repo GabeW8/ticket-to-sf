@@ -15,7 +15,7 @@ export interface Filters {
 export const DEFAULT_FILTERS: Filters = {
   search: "",
   categories: [],
-  experienceLevels: ["intern", "new_grad", "junior", "unknown"],
+  experienceLevels: ["intern", "new_grad", "junior", "mid", "unknown"],
   companies: [],
   h1bOnly: true,
   remoteOnly: false,

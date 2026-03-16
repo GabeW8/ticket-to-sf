@@ -4,6 +4,7 @@ import { fileURLToPath } from "url";
 import { CompanyConfig, NormalizedJob, SponsorshipStatus } from "./adapters/types.js";
 import { fetchGreenhouseJobs } from "./adapters/greenhouse.js";
 import { fetchAshbyJobs } from "./adapters/ashby.js";
+import { fetchLeverJobs } from "./adapters/lever.js";
 import { filterAndEnrichJobs, detectVisaSponsorship } from "./filters.js";
 import { delay } from "./utils.js";
 
@@ -95,6 +96,8 @@ async function scrapeCompany(
     return fetchGreenhouseJobs(company);
   } else if (company.ats === "ashby") {
     return fetchAshbyJobs(company);
+  } else if (company.ats === "lever") {
+    return fetchLeverJobs(company);
   }
   throw new Error(`Unknown ATS type: ${company.ats}`);
 }

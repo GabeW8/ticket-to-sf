@@ -27,14 +27,14 @@ export interface NormalizedJob {
   experienceLevel: ExperienceLevel;
   category: JobCategory;
   h1bSponsorship: SponsorshipStatus;
-  atsSource: "greenhouse" | "ashby";
+  atsSource: "greenhouse" | "ashby" | "lever";
   scrapedAt: string;
 }
 
 export interface CompanyConfig {
   name: string;
   slug: string;
-  ats: "greenhouse" | "ashby";
+  ats: "greenhouse" | "ashby" | "lever";
   atsSlug: string;
   hq: string;
   h1bOverride?: SponsorshipStatus;

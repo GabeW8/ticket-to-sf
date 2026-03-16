@@ -166,10 +166,11 @@ export function deriveExperienceLevel(title: string, description?: string): Expe
   // 2. Title keyword-based detection
   if (/\bintern\b/.test(t)) return "intern";
   if (
-    /\b(new grad|new graduate|entry level|entry-level|early career|university|fresh graduate|junior)\b/.test(t)
+    /\b(new grad|new graduate|entry level|entry-level|early career|university grad|fresh graduate|junior)\b/.test(t)
   )
     return "new_grad";
-  if (/\bassociate\b/.test(t) || /\b[, ]i\b/.test(t) || /\bl3\b/.test(t) || /\be3\b/.test(t))
+  // "Engineer I" / "Engineer 1" / "SWE I" — match roman numeral I or digit 1 at end of title
+  if (/\b(engineer|developer|scientist)\s+(i|1)\s*$/i.test(t) || /\bassociate\b/.test(t) || /\bl3\b/.test(t) || /\be3\b/.test(t))
     return "junior";
   if (
     /\b(senior|sr\.?|sr )\b/.test(t) ||
@@ -190,17 +191,24 @@ export function deriveExperienceLevel(title: string, description?: string): Expe
 
   // 3. Description-based detection (for titles that don't specify level)
   if (description) {
+    const desc = description.toLowerCase();
+
     // Parse years of experience from description (most reliable signal)
     const years = extractYearsFromDescription(description);
     if (years !== null) {
       return yearsToLevel(years);
     }
 
-    // Check for explicit new grad / entry level mentions in description
-    // Only if no years requirement was found
-    const desc = description.toLowerCase();
+    // Check for explicit new grad / entry level mentions
     if (
-      /\b(new grad|new graduate|recent graduate|early[- ]career|early in your career)\b/.test(desc)
+      /\b(new grad|new graduate|recent graduate|early[- ]career|early in your career|no prior experience|no experience required|0 years)\b/.test(desc)
+    )
+      return "new_grad";
+
+    // "Bachelor's degree" or "BS/MS" mentioned without years of experience → likely new_grad
+    if (
+      /\b(bachelor'?s?\s+degree|bs\s*\/\s*ms|b\.?s\.?\s+in)\b/.test(desc) &&
+      !/\byears?\b/.test(desc)
     )
       return "new_grad";
   }
@@ -241,13 +249,30 @@ export function deriveCategory(title: string): JobCategory {
   return "other";
 }
 
+function departmentToExperience(department: string | null, team: string | null): ExperienceLevel | null {
+  const combined = [department, team].filter(Boolean).join(" ").toLowerCase();
+  if (/\b(university|new grad|early career|campus|graduate)\b/.test(combined)) return "new_grad";
+  if (/\bintern\b/.test(combined)) return "intern";
+  return null;
+}
+
 export function filterAndEnrichJobs(jobs: NormalizedJob[]): NormalizedJob[] {
   return jobs
     .filter(matchesLocation)
     .filter(matchesRole)
-    .map((job) => ({
-      ...job,
-      experienceLevel: deriveExperienceLevel(job.title, job._description),
-      category: deriveCategory(job.title),
-    }));
+    .map((job) => {
+      let experienceLevel = deriveExperienceLevel(job.title, job._description);
+
+      // If still unknown, check department/team signals
+      if (experienceLevel === "unknown") {
+        const deptLevel = departmentToExperience(job.department, job.team);
+        if (deptLevel) experienceLevel = deptLevel;
+      }
+
+      return {
+        ...job,
+        experienceLevel,
+        category: deriveCategory(job.title),
+      };
+    });
 }

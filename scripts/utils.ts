@@ -6,7 +6,7 @@ export async function fetchWithRetry(
   url: string,
   options: { retries?: number; timeout?: number; delayMs?: number } = {}
 ): Promise<Response> {
-  const { retries = 3, timeout = 10000, delayMs = 1000 } = options;
+  const { retries = 3, timeout = 30000, delayMs = 1000 } = options;
 
   for (let attempt = 0; attempt <= retries; attempt++) {
     try {

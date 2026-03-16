@@ -27,7 +27,7 @@ export interface NormalizedJob {
   experienceLevel: ExperienceLevel;
   category: JobCategory;
   h1bSponsorship: SponsorshipStatus;
-  atsSource: "greenhouse" | "ashby";
+  atsSource: "greenhouse" | "ashby" | "lever";
   scrapedAt: string;
   _description?: string; // Used during enrichment only, stripped before saving
 }
@@ -35,7 +35,7 @@ export interface NormalizedJob {
 export interface CompanyConfig {
   name: string;
   slug: string;
-  ats: "greenhouse" | "ashby";
+  ats: "greenhouse" | "ashby" | "lever";
   atsSlug: string;
   hq: string;
   h1bOverride?: SponsorshipStatus;
@@ -52,6 +52,22 @@ export interface RawGreenhouseJob {
   updated_at: string;
   requisition_id: string | null;
   content: string | null;
+}
+
+export interface RawLeverJob {
+  id: string;
+  text: string;
+  categories: {
+    team: string | null;
+    department: string | null;
+    location: string | null;
+    commitment: string | null;
+  };
+  applyUrl: string;
+  hostedUrl: string;
+  createdAt: number;
+  updatedAt: number;
+  descriptionPlain: string;
 }
 
 export interface RawAshbyJob {
