@@ -4,7 +4,7 @@ import { fileURLToPath } from "url";
 import { CompanyConfig, NormalizedJob, SponsorshipStatus } from "./adapters/types.js";
 import { fetchGreenhouseJobs } from "./adapters/greenhouse.js";
 import { fetchAshbyJobs } from "./adapters/ashby.js";
-import { filterAndEnrichJobs } from "./filters.js";
+import { filterAndEnrichJobs, detectVisaSponsorship } from "./filters.js";
 import { delay } from "./utils.js";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -61,10 +61,31 @@ function enrichSponsorship(
   jobs: NormalizedJob[],
   sponsorMap: Map<string, SponsorshipStatus>
 ): NormalizedJob[] {
-  return jobs.map((job) => ({
-    ...job,
-    h1bSponsorship: sponsorMap.get(job.companySlug) || "unknown",
-  }));
+  let perJobSponsors = 0;
+  let perJobNoSponsor = 0;
+
+  const enriched = jobs.map((job) => {
+    // Per-job detection from description (highest priority)
+    const descriptionSignal = detectVisaSponsorship(job._description || "");
+
+    let status: SponsorshipStatus;
+    if (descriptionSignal === "no_sponsor") {
+      status = "unknown"; // Explicitly says no sponsorship — mark unknown (not confirmed)
+      perJobNoSponsor++;
+    } else if (descriptionSignal === "sponsors") {
+      status = "confirmed"; // Job description explicitly mentions sponsorship
+      perJobSponsors++;
+    } else {
+      // Fall back to company-level data
+      status = sponsorMap.get(job.companySlug) || "unknown";
+    }
+
+    return { ...job, h1bSponsorship: status };
+  });
+
+  console.log(`  Per-job visa detection: ${perJobSponsors} sponsor, ${perJobNoSponsor} no-sponsor, ${enriched.length - perJobSponsors - perJobNoSponsor} fallback to company-level`);
+
+  return enriched;
 }
 
 async function scrapeCompany(
@@ -135,9 +156,12 @@ async function main() {
 
   console.log(`After dedup: ${deduplicated.length}`);
 
+  // Strip _description before saving (used only for enrichment)
+  const cleaned = deduplicated.map(({ _description, ...rest }) => rest);
+
   // Write jobs.json
   const jobsData = {
-    jobs: deduplicated,
+    jobs: cleaned,
     lastUpdated: new Date().toISOString(),
     totalCompanies: companiesScraped,
   };

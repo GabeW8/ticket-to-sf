@@ -5,10 +5,22 @@ interface GreenhouseResponse {
   jobs: RawGreenhouseJob[];
 }
 
+function stripHtml(html: string): string {
+  return html
+    .replace(/<[^>]*>/g, " ")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&#\d+;/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 export async function fetchGreenhouseJobs(
   company: CompanyConfig
 ): Promise<NormalizedJob[]> {
-  const url = `https://boards-api.greenhouse.io/v1/boards/${company.atsSlug}/jobs`;
+  const url = `https://boards-api.greenhouse.io/v1/boards/${company.atsSlug}/jobs?content=true`;
   const response = await fetchWithRetry(url);
 
   if (!response.ok) {
@@ -30,6 +42,8 @@ export async function fetchGreenhouseJobs(
     const departmentName =
       job.departments?.[0]?.name || getDepartmentFromMetadata(job.metadata);
 
+    const description = job.content ? stripHtml(job.content) : "";
+
     return {
       id: `${company.slug}_${job.id}`,
       title: job.title,
@@ -48,6 +62,7 @@ export async function fetchGreenhouseJobs(
       h1bSponsorship: "unknown" as const,
       atsSource: "greenhouse" as const,
       scrapedAt: now,
+      _description: description,
     };
   });
 }

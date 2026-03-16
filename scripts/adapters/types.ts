@@ -29,6 +29,7 @@ export interface NormalizedJob {
   h1bSponsorship: SponsorshipStatus;
   atsSource: "greenhouse" | "ashby";
   scrapedAt: string;
+  _description?: string; // Used during enrichment only, stripped before saving
 }
 
 export interface CompanyConfig {
@@ -50,6 +51,7 @@ export interface RawGreenhouseJob {
   departments: { id: number; name: string }[];
   updated_at: string;
   requisition_id: string | null;
+  content: string | null;
 }
 
 export interface RawAshbyJob {

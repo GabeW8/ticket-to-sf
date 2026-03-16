@@ -1,4 +1,4 @@
-import { NormalizedJob, ExperienceLevel, JobCategory } from "./adapters/types.js";
+import { NormalizedJob, ExperienceLevel, JobCategory, SponsorshipStatus } from "./adapters/types.js";
 
 const LOCATION_PATTERNS = [
   /san francisco/i,
@@ -65,29 +65,108 @@ const ROLE_EXCLUDE_PATTERNS = [
   /\bbusiness development\b/i,
 ];
 
-export function matchesLocation(job: NormalizedJob): boolean {
-  const allLocations = [job.location, ...job.locations].join(" ");
-  return LOCATION_PATTERNS.some((p) => p.test(allLocations));
+// --- Visa sponsorship detection ---
+
+const VISA_POSITIVE_PATTERNS = [
+  /\bvisa sponsorship\b/i,
+  /\bsponsor(?:s|ing|ed)?\s+(?:h-?1b|visa|work)/i,
+  /\bh-?1b\s+sponsor/i,
+  /\bh-?1b1?\b/i,
+  /\bimmigration sponsorship\b/i,
+  /\bwill(?:ing to)?\s+sponsor\b/i,
+  /\bopen to sponsoring\b/i,
+  /\bprovide(?:s)?\s+(?:visa|immigration)\s+sponsor/i,
+  /\bwork authorization.*sponsor/i,
+  /\bsponsorship(?:\s+is)?\s+available\b/i,
+];
+
+const VISA_NEGATIVE_PATTERNS = [
+  /\bunable to sponsor\b/i,
+  /\bwill not sponsor\b/i,
+  /\bcannot sponsor\b/i,
+  /\bdo(?:es)? not sponsor\b/i,
+  /\bno(?:t)?\s+(?:visa|immigration)\s+sponsor/i,
+  /\bwithout\s+(?:visa|immigration)\s+sponsor/i,
+  /\bnot\s+(?:able|willing)\s+to\s+sponsor\b/i,
+  /\bmust\s+be\s+(?:legally\s+)?authorized\s+to\s+work\b/i,
+  /\bauthoriz(?:ed|ation)\s+to\s+work\s+(?:in\s+the\s+)?(?:us|united states)(?:\s+(?:is\s+)?required)/i,
+  /\bus\s+citizen(?:s)?\s+(?:or|and)\s+(?:permanent\s+)?resident/i,
+  /\bsponsorship\s+(?:is\s+)?not\s+available\b/i,
+  /\bdoes not provide sponsorship\b/i,
+];
+
+export function detectVisaSponsorship(description: string): "sponsors" | "no_sponsor" | "unmentioned" {
+  if (!description) return "unmentioned";
+
+  const hasNegative = VISA_NEGATIVE_PATTERNS.some((p) => p.test(description));
+  if (hasNegative) return "no_sponsor";
+
+  const hasPositive = VISA_POSITIVE_PATTERNS.some((p) => p.test(description));
+  if (hasPositive) return "sponsors";
+
+  return "unmentioned";
 }
 
-export function matchesRole(job: NormalizedJob): boolean {
-  const title = job.title;
-  if (ROLE_EXCLUDE_PATTERNS.some((p) => p.test(title))) {
-    // Exception: keep "engineering manager"
-    if (/engineering manager/i.test(title)) return true;
-    return false;
+// --- Experience level detection (title + description) ---
+
+function extractYearsFromDescription(description: string): number | null {
+  if (!description) return null;
+
+  // Try range pattern first: "2-8 years" → use the LOWER bound as minimum requirement
+  // But for ranges like "2-8", the midpoint is more representative
+  const rangeMatch = description.match(
+    /(\d+)\s*[-–]\s*(\d+)\s*(?:years?|yrs?)(?:\s+of)?\s+(?:relevant\s+|professional\s+|industry\s+|hands[- ]on\s+|practical\s+)?(?:experience|work)/i
+  );
+  if (rangeMatch) {
+    const low = parseInt(rangeMatch[1], 10);
+    const high = parseInt(rangeMatch[2], 10);
+    // Use midpoint of range for classification
+    return Math.round((low + high) / 2);
   }
-  return ROLE_INCLUDE_PATTERNS.some((p) => p.test(title));
+
+  // Single number patterns: "5+ years", "at least 3 years", "minimum 2 years"
+  const patterns = [
+    /(\d+)\+?\s*(?:years?|yrs?)(?:\s+of)?\s+(?:relevant\s+|professional\s+|industry\s+|hands[- ]on\s+|practical\s+)?(?:experience|work)/i,
+    /(?:at\s+least|minimum|min\.?)\s+(\d+)\s*(?:years?|yrs?)/i,
+    /(?:experience|background)(?:\s+of)?\s+(\d+)\+?\s*(?:years?|yrs?)/i,
+  ];
+
+  for (const pattern of patterns) {
+    const match = description.match(pattern);
+    if (match) {
+      return parseInt(match[1], 10);
+    }
+  }
+
+  return null;
 }
 
-export function deriveExperienceLevel(title: string): ExperienceLevel {
+function yearsToLevel(years: number): ExperienceLevel {
+  if (years === 0) return "new_grad";
+  if (years <= 2) return "new_grad";
+  if (years <= 4) return "mid";
+  if (years <= 7) return "senior";
+  return "staff";
+}
+
+export function deriveExperienceLevel(title: string, description?: string): ExperienceLevel {
   const t = title.toLowerCase();
 
+  // 1. Check for explicit YOE in the title first (e.g., "(8+ YOE)", "(2-8 YOE)")
+  const titleRangeMatch = t.match(/(\d+)\s*[-–]\s*(\d+)\s*(?:yoe|years?|yrs?)/);
+  if (titleRangeMatch) {
+    const mid = Math.round((parseInt(titleRangeMatch[1]) + parseInt(titleRangeMatch[2])) / 2);
+    return yearsToLevel(mid);
+  }
+  const titleYoeMatch = t.match(/(\d+)\+?\s*(?:yoe|years?\s+(?:of\s+)?experience)/);
+  if (titleYoeMatch) {
+    return yearsToLevel(parseInt(titleYoeMatch[1]));
+  }
+
+  // 2. Title keyword-based detection
   if (/\bintern\b/.test(t)) return "intern";
   if (
-    /\b(new grad|new graduate|entry level|entry-level|early career|university|fresh graduate|junior)\b/.test(
-      t
-    )
+    /\b(new grad|new graduate|entry level|entry-level|early career|university|fresh graduate|junior)\b/.test(t)
   )
     return "new_grad";
   if (/\bassociate\b/.test(t) || /\b[, ]i\b/.test(t) || /\bl3\b/.test(t) || /\be3\b/.test(t))
@@ -109,28 +188,53 @@ export function deriveExperienceLevel(title: string): ExperienceLevel {
   if (/\bii\b/.test(t) || /\bl4\b/.test(t) || /\be4\b/.test(t) || /\bmid[- ]level\b/.test(t))
     return "mid";
 
+  // 3. Description-based detection (for titles that don't specify level)
+  if (description) {
+    // Parse years of experience from description (most reliable signal)
+    const years = extractYearsFromDescription(description);
+    if (years !== null) {
+      return yearsToLevel(years);
+    }
+
+    // Check for explicit new grad / entry level mentions in description
+    // Only if no years requirement was found
+    const desc = description.toLowerCase();
+    if (
+      /\b(new grad|new graduate|recent graduate|early[- ]career|early in your career)\b/.test(desc)
+    )
+      return "new_grad";
+  }
+
   return "unknown";
+}
+
+export function matchesLocation(job: NormalizedJob): boolean {
+  const allLocations = [job.location, ...job.locations].join(" ");
+  return LOCATION_PATTERNS.some((p) => p.test(allLocations));
+}
+
+export function matchesRole(job: NormalizedJob): boolean {
+  const title = job.title;
+  if (ROLE_EXCLUDE_PATTERNS.some((p) => p.test(title))) {
+    if (/engineering manager/i.test(title)) return true;
+    return false;
+  }
+  return ROLE_INCLUDE_PATTERNS.some((p) => p.test(title));
 }
 
 export function deriveCategory(title: string): JobCategory {
   const t = title.toLowerCase();
 
   if (
-    /\b(ml|machine learning|ai|artificial intelligence|research scientist|research engineer|applied scientist|nlp|computer vision|deep learning|llm)\b/.test(
-      t
-    )
+    /\b(ml|machine learning|ai|artificial intelligence|research scientist|research engineer|applied scientist|nlp|computer vision|deep learning|llm)\b/.test(t)
   )
     return "ai_ml";
   if (/\b(data scientist|data engineer|data analytics|analytics engineer)\b/.test(t))
     return "data";
-  if (
-    /\b(product manager|product engineer|product lead)\b/.test(t)
-  )
+  if (/\b(product manager|product engineer|product lead)\b/.test(t))
     return "product";
   if (
-    /\b(software|swe|frontend|front-end|backend|back-end|full[- ]?stack|developer|platform|infrastructure|devops|sre|mobile|ios|android|security|cloud|systems|engineering manager|solutions engineer)\b/.test(
-      t
-    )
+    /\b(software|swe|frontend|front-end|backend|back-end|full[- ]?stack|developer|platform|infrastructure|devops|sre|mobile|ios|android|security|cloud|systems|engineering manager|solutions engineer)\b/.test(t)
   )
     return "swe";
 
@@ -143,7 +247,7 @@ export function filterAndEnrichJobs(jobs: NormalizedJob[]): NormalizedJob[] {
     .filter(matchesRole)
     .map((job) => ({
       ...job,
-      experienceLevel: deriveExperienceLevel(job.title),
+      experienceLevel: deriveExperienceLevel(job.title, job._description),
       category: deriveCategory(job.title),
     }));
 }

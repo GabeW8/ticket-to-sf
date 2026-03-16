@@ -45,6 +45,7 @@ export async function fetchAshbyJobs(
       h1bSponsorship: "unknown" as const,
       atsSource: "ashby" as const,
       scrapedAt: now,
+      _description: job.descriptionPlain || "",
     };
   });
 }
