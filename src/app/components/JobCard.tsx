@@ -1,6 +1,14 @@
 import type { NormalizedJob } from "../lib/types";
 import SponsorBadge from "./SponsorBadge";
 
+function safeUrl(url: string): string {
+  try {
+    const parsed = new URL(url);
+    if (parsed.protocol === "https:" || parsed.protocol === "http:") return url;
+  } catch {}
+  return "#";
+}
+
 const CATEGORY_LABELS: Record<string, string> = {
   swe: "SWE",
   ai_ml: "AI/ML",
@@ -50,7 +58,7 @@ export default function JobCard({ job }: { job: NormalizedJob }) {
           </div>
           <h3 className="mt-1 text-base font-medium leading-snug">
             <a
-              href={job.url}
+              href={safeUrl(job.url)}
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-(--color-primary) hover:underline"
@@ -96,7 +104,7 @@ export default function JobCard({ job }: { job: NormalizedJob }) {
 
       <div className="mt-3 flex justify-end">
         <a
-          href={job.url}
+          href={safeUrl(job.url)}
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-1 rounded-md bg-(--color-primary) px-3 py-1.5 text-xs font-medium text-white transition-colors hover:bg-(--color-primary-hover)"
