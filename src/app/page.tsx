@@ -12,7 +12,7 @@ export default function Home() {
           SF Tech Jobs
         </h1>
         <p className="mt-1 text-(--color-text-muted)">
-          AI & Software Engineering positions from H-1B sponsoring companies
+          Entry-level AI & Software Engineering positions (0-3 YOE) from H-1B sponsoring companies
         </p>
         <div className="mt-2">
           <LastUpdated date={lastUpdated} />
@@ -23,8 +23,8 @@ export default function Home() {
 
       <footer className="mt-12 border-t border-(--color-border) pt-6 text-center text-xs text-(--color-text-muted)">
         <p>
-          Data from public ATS APIs (Greenhouse, Ashby). Updated daily via
-          GitHub Actions.
+          Data from public ATS APIs (Greenhouse, Ashby, Lever). Updated daily via
+          GitHub Actions. Only showing 0-3 YOE positions.
         </p>
         <p className="mt-1">
           H-1B sponsorship data from DOL OFLC Labor Condition Applications.

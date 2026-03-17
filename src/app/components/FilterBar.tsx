@@ -15,7 +15,7 @@ export interface Filters {
 export const DEFAULT_FILTERS: Filters = {
   search: "",
   categories: [],
-  experienceLevels: ["intern", "new_grad", "junior", "mid", "unknown"],
+  experienceLevels: [],
   companies: [],
   h1bOnly: true,
   remoteOnly: false,
@@ -34,9 +34,7 @@ const EXPERIENCE_OPTIONS: { value: ExperienceLevel; label: string }[] = [
   { value: "intern", label: "Intern" },
   { value: "new_grad", label: "New Grad" },
   { value: "junior", label: "Junior" },
-  { value: "mid", label: "Mid" },
-  { value: "senior", label: "Senior" },
-  { value: "staff", label: "Staff+" },
+  { value: "mid", label: "Mid (0-4 YOE)" },
   { value: "unknown", label: "Not Specified" },
 ];
 
@@ -101,7 +99,7 @@ export default function FilterBar({
     filters.categories.length > 0 ||
     filters.experienceLevels.length > 0 ||
     filters.companies.length > 0 ||
-    filters.h1bOnly ||
+    !filters.h1bOnly ||
     filters.remoteOnly;
 
   return (
@@ -206,17 +204,7 @@ export default function FilterBar({
 
         {hasActiveFilters && (
           <button
-            onClick={() =>
-              onFiltersChange({
-                ...DEFAULT_FILTERS,
-                search: "",
-                categories: [],
-                experienceLevels: [],
-                companies: [],
-                h1bOnly: false,
-                remoteOnly: false,
-              })
-            }
+            onClick={() => onFiltersChange(DEFAULT_FILTERS)}
             className="text-xs text-(--color-primary) hover:underline"
           >
             Clear All Filters

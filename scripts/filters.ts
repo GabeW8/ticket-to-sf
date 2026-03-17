@@ -256,6 +256,8 @@ function departmentToExperience(department: string | null, team: string | null):
   return null;
 }
 
+const JUNIOR_LEVELS: Set<ExperienceLevel> = new Set(["intern", "new_grad", "junior", "mid", "unknown"]);
+
 export function filterAndEnrichJobs(jobs: NormalizedJob[]): NormalizedJob[] {
   return jobs
     .filter(matchesLocation)
@@ -274,5 +276,6 @@ export function filterAndEnrichJobs(jobs: NormalizedJob[]): NormalizedJob[] {
         experienceLevel,
         category: deriveCategory(job.title),
       };
-    });
+    })
+    .filter((job) => JUNIOR_LEVELS.has(job.experienceLevel));
 }

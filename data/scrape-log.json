@@ -1,13 +1,8 @@
 {
-  "timestamp": "2026-03-16T17:52:01.249Z",
-  "totalScraped": 9916,
-  "totalAfterFilter": 1661,
-  "companiesScraped": 55,
-  "companiesFailed": 1,
-  "errors": [
-    {
-      "company": "Netflix",
-      "error": "This operation was aborted"
-    }
-  ]
+  "timestamp": "2026-03-17T03:08:31.050Z",
+  "totalScraped": 9926,
+  "totalAfterFilter": 631,
+  "companiesScraped": 56,
+  "companiesFailed": 0,
+  "errors": []
 }
