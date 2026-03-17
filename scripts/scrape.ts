@@ -5,6 +5,7 @@ import { CompanyConfig, NormalizedJob, SponsorshipStatus } from "./adapters/type
 import { fetchGreenhouseJobs } from "./adapters/greenhouse.js";
 import { fetchAshbyJobs } from "./adapters/ashby.js";
 import { fetchLeverJobs } from "./adapters/lever.js";
+import { fetchJobspyJobs, JobspySearchConfig } from "./adapters/jobspy.js";
 import { filterAndEnrichJobs, detectVisaSponsorship, Region } from "./filters.js";
 import { delay } from "./utils.js";
 
@@ -135,7 +136,35 @@ async function main() {
     await delay(200);
   }
 
-  console.log(`\nTotal raw jobs: ${allJobs.length}`);
+  console.log(`\nATS raw jobs: ${allJobs.length}`);
+
+  // Phase 2: Indeed searches via ts-jobspy
+  console.log("\n--- Indeed (ts-jobspy) ---\n");
+  try {
+    const searches = loadJson<JobspySearchConfig[]>(
+      resolve(DATA_DIR, "jobspy-searches.json")
+    );
+
+    for (const search of searches) {
+      try {
+        const jobs = await fetchJobspyJobs(search);
+        allJobs.push(...jobs);
+        console.log(
+          `  ✓ [${search.region}] "${search.searchTerm}" in ${search.location}: ${jobs.length} jobs`
+        );
+      } catch (error) {
+        const message = error instanceof Error ? error.message : String(error);
+        console.log(
+          `  ✗ [${search.region}] "${search.searchTerm}": ${message}`
+        );
+      }
+      await delay(2000); // Be polite to Indeed
+    }
+  } catch {
+    console.log("  Note: jobspy-searches.json not found, skipping Indeed searches");
+  }
+
+  console.log(`\nTotal raw jobs (ATS + Indeed): ${allJobs.length}`);
 
   // Process each region
   const regions: Region[] = ["sf", "sg"];
@@ -152,10 +181,18 @@ async function main() {
       (a, b) => new Date(b.postedAt).getTime() - new Date(a.postedAt).getTime()
     );
 
-    const seen = new Set<string>();
+    // Deduplicate by ID and by title+company (cross-source dedup)
+    const seenIds = new Set<string>();
+    const seenTitleCompany = new Set<string>();
     const deduplicated = enriched.filter((job) => {
-      if (seen.has(job.id)) return false;
-      seen.add(job.id);
+      if (seenIds.has(job.id)) return false;
+      seenIds.add(job.id);
+
+      // Cross-source dedup: same title + company = same job
+      const key = `${job.title.toLowerCase().trim()}|${job.company.toLowerCase().trim()}`;
+      if (seenTitleCompany.has(key)) return false;
+      seenTitleCompany.add(key);
+
       return true;
     });
 

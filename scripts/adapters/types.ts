@@ -27,7 +27,7 @@ export interface NormalizedJob {
   experienceLevel: ExperienceLevel;
   category: JobCategory;
   h1bSponsorship: SponsorshipStatus;
-  atsSource: "greenhouse" | "ashby" | "lever";
+  atsSource: "greenhouse" | "ashby" | "lever" | "indeed";
   scrapedAt: string;
   _description?: string; // Used during enrichment only, stripped before saving
 }

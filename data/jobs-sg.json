@@ -19,7 +19,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:28:52.059Z"
+      "scrapedAt": "2026-03-17T03:42:26.633Z"
     },
     {
       "id": "stripe_7176977",
@@ -40,7 +40,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:28:52.059Z"
+      "scrapedAt": "2026-03-17T03:42:26.633Z"
     },
     {
       "id": "stripe_7206401",
@@ -61,7 +61,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:28:52.059Z"
+      "scrapedAt": "2026-03-17T03:42:26.633Z"
     },
     {
       "id": "stripe_7555999",
@@ -82,7 +82,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:28:52.059Z"
+      "scrapedAt": "2026-03-17T03:42:26.633Z"
     },
     {
       "id": "stripe_7529787",
@@ -103,7 +103,154 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:28:52.059Z"
+      "scrapedAt": "2026-03-17T03:42:26.633Z"
+    },
+    {
+      "id": "jobspy_indeed_2f3f4da0b130",
+      "title": "Data Scientist (AI)",
+      "company": "CMC APAC",
+      "companySlug": "cmc-apac",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "http://sg.indeed.com/job/data-scientist-ai-ac54fa8083b0258a",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:50.153Z"
+    },
+    {
+      "id": "jobspy_indeed_f93c4ea6fd4a",
+      "title": "Algo Java Developer",
+      "company": "Synechron",
+      "companySlug": "synechron",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "http://sg.indeed.com/job/algo-java-developer-8482d5ea529df519",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:50.153Z"
+    },
+    {
+      "id": "jobspy_indeed_c94d2fdfa551",
+      "title": "Welpay backend developer",
+      "company": "FUKU",
+      "companySlug": "fuku",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://apply.workable.com/j/A702D962CF",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:50.153Z"
+    },
+    {
+      "id": "jobspy_indeed_1fd6b5d812bc",
+      "title": "#EG AI Engineer",
+      "company": "NCS",
+      "companySlug": "ncs",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.ncs.co/careers/job-details/?jobSource=sm&jobId=6000000000935276",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:55.142Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:55.142Z"
+    },
+    {
+      "id": "jobspy_indeed_1d4de6627166",
+      "title": "Mobile Engineer (iOS)",
+      "company": "Shield",
+      "companySlug": "shield",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://apply.workable.com/j/7A8F00028A",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:55.142Z",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:55.142Z"
+    },
+    {
+      "id": "jobspy_indeed_02926a521901",
+      "title": "Systems Engineer 2",
+      "company": "Skyworks Solutions",
+      "companySlug": "skyworks-solutions",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://careers.skyworksinc.com/job/Singapore-Systems-Engineer-2-04/1373479600/?feedId=177100&utm_source=Indeed&utm_campaign=Skyworks_Indeed",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:55.142Z",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:55.142Z"
+    },
+    {
+      "id": "jobspy_indeed_bb51de2270d8",
+      "title": "Trading Desk Full Stack Developer",
+      "company": "ExxonMobil",
+      "companySlug": "exxonmobil",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://jobs.exxonmobil.com/ExxonMobil/job/Singapore-Trading-Desk-Full-Stack-Developer-01/1356090100/?feedId=204100&utm_source=Indeed&utm_campaign=XOM_Indeed",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:50.153Z"
     },
     {
       "id": "coupang_7374703",
@@ -125,7 +272,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:29:59.104Z"
+      "scrapedAt": "2026-03-17T03:43:36.113Z"
     },
     {
       "id": "coupang_7374701",
@@ -147,7 +294,280 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:29:59.104Z"
+      "scrapedAt": "2026-03-17T03:43:36.113Z"
+    },
+    {
+      "id": "jobspy_indeed_e594a778871e",
+      "title": "Software Engineer, Android AI Acceleration",
+      "company": "Google",
+      "companySlug": "google",
+      "location": "Singapore, SG",
+      "locations": [
+        "Singapore, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://careers.google.com/jobs/results/143301797996307142-software-engineer/",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:50.153Z"
+    },
+    {
+      "id": "jobspy_indeed_38a3797b362f",
+      "title": "Software Engineer, Mobile",
+      "company": "Google",
+      "companySlug": "google",
+      "location": "Singapore, SG",
+      "locations": [
+        "Singapore, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://careers.google.com/jobs/results/85990853910110918-software-engineer/",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:50.153Z"
+    },
+    {
+      "id": "jobspy_indeed_1da5bf638a77",
+      "title": "DevOps Engineer",
+      "company": "Encora",
+      "companySlug": "encora",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://grnh.se/a0c6j5pn7us",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:50.153Z"
+    },
+    {
+      "id": "jobspy_indeed_b2824aa560d7",
+      "title": "Full Stack Engineer (Nuxt, Node JS, Angular, React JS, Go) - A26100",
+      "company": "Activate Interactive Pte Ltd",
+      "companySlug": "activate-interactive-pte-ltd",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://apply.workable.com/j/CD231D9645",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:50.153Z"
+    },
+    {
+      "id": "jobspy_indeed_715e6dab8a66",
+      "title": "AI Solutions Engineer",
+      "company": "Cloudera",
+      "companySlug": "cloudera",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://cloudera.wd5.myworkdayjobs.com/en-US/External_Career/job/Singapore--Singapore/AI-Solutions-Engineer_260465",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:50.153Z"
+    },
+    {
+      "id": "jobspy_indeed_fa66fb3b4304",
+      "title": "Machine Learning Engineer - E-commerce Merchant Growth (LLM & Agentic Systems)",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://joinbytedance.com/search/7616680923447527733",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:57.746Z"
+    },
+    {
+      "id": "jobspy_indeed_8983b731cd4b",
+      "title": "Machine Learning Engineer, Supply Chain Forecasting",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://joinbytedance.com/search/7616682027854088501",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:57.746Z"
+    },
+    {
+      "id": "jobspy_indeed_ef3470da41bd",
+      "title": "Machine Learning Engineer, Supply Chain Forecasting",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://lifeattiktok.com/search/7616682163138005253",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:57.746Z"
+    },
+    {
+      "id": "jobspy_indeed_96d09673c5eb",
+      "title": "OpenClaw Multi-Agent Systems Engineer Intern (AI Agents / OpenClaw)",
+      "company": "VARSITY HOLDINGS",
+      "companySlug": "varsity-holdings",
+      "location": "Singapore, SG",
+      "locations": [
+        "Singapore, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.internsg.com/job/varsity-holdings-openclaw-multi-agent-systems-engineer-intern-ai-agents-openclaw/?f_pg=4",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:57.746Z"
+    },
+    {
+      "id": "jobspy_indeed_f06b8c7857a6",
+      "title": "Cyber Security Engineer – IAM (SailPoint Implementation)",
+      "company": "Encora",
+      "companySlug": "encora",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://grnh.se/f8tce8ut7us",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:44:00.165Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:44:00.165Z"
+    },
+    {
+      "id": "jobspy_indeed_6d9ec0f01a39",
+      "title": "Junior Backend Software Engineer",
+      "company": "Delivery Hero",
+      "companySlug": "delivery-hero",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000114328642-junior-backend-software-engineer",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:52.749Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:52.749Z"
+    },
+    {
+      "id": "jobspy_indeed_e9b2d2f27b19",
+      "title": "Machine Learning Engineer, Business Integrity",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://lifeattiktok.com/search/7616171061901805829",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:44:00.165Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:44:00.165Z"
+    },
+    {
+      "id": "jobspy_indeed_a2db43bcb4c5",
+      "title": "AWS Cloud Security Engineer",
+      "company": "Encora",
+      "companySlug": "encora",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://grnh.se/ku1scnme7us",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:44:00.165Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:44:00.165Z"
     },
     {
       "id": "govtechsg_4000975201",
@@ -168,7 +588,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:29:55.186Z"
+      "scrapedAt": "2026-03-17T03:43:32.139Z"
     },
     {
       "id": "govtechsg_4000976201",
@@ -189,7 +609,133 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:29:55.186Z"
+      "scrapedAt": "2026-03-17T03:43:32.139Z"
+    },
+    {
+      "id": "jobspy_indeed_d93aee6bbd12",
+      "title": "AI Software Engineer Intern (Full-Stack)",
+      "company": "Indexync",
+      "companySlug": "indexync",
+      "location": "Singapore, SG",
+      "locations": [
+        "Singapore, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.internsg.com/job/indexync-ai-software-engineer-intern-full-stack/?f_pg=7",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:52.749Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:52.749Z"
+    },
+    {
+      "id": "jobspy_indeed_3a6f25d5b417",
+      "title": "Software Engineer, Google Pay Agent Infrastructure",
+      "company": "Google",
+      "companySlug": "google",
+      "location": "Singapore, SG",
+      "locations": [
+        "Singapore, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://careers.google.com/jobs/results/81602106003202758-software-engineer/",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:57.746Z"
+    },
+    {
+      "id": "jobspy_indeed_18e57a37a935",
+      "title": "Data Engineers (Familiar with LLM, ML or GenAI apps)",
+      "company": "Assurity Trusted Solutions",
+      "companySlug": "assurity-trusted-solutions",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://apply.workable.com/j/C42CB85AD2",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:57.746Z"
+    },
+    {
+      "id": "jobspy_indeed_3bc90961cac6",
+      "title": "Gen AI Engineer",
+      "company": "NCS",
+      "companySlug": "ncs",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.ncs.co/careers/job-details/?jobSource=sm&jobId=6000000000922245",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:57.746Z"
+    },
+    {
+      "id": "jobspy_indeed_023af683055d",
+      "title": "Global Factory IT Intern, Machine Learning and Generative AI",
+      "company": "Seagate Technology",
+      "companySlug": "seagate-technology",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://seagatecareers.com/job/Singapore-Global-Factory-IT-Intern%2C-Machine-Learning-and-Generative-AI/1371809200/?feedId=325900&utm_source=Indeed&utm_campaign=Seagate_Indeed",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:44:02.493Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:44:02.493Z"
+    },
+    {
+      "id": "jobspy_indeed_0819fd63742b",
+      "title": "Machine Learning Engineer - Search Ranking",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://joinbytedance.com/search/7612538034627037493",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:44:02.493Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:44:02.493Z"
     },
     {
       "id": "databricks_8437018002",
@@ -210,7 +756,70 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:28:55.267Z"
+      "scrapedAt": "2026-03-17T03:42:29.890Z"
+    },
+    {
+      "id": "jobspy_indeed_370feb55030e",
+      "title": "Software Engineer, Generative AI & ML",
+      "company": "Apple",
+      "companySlug": "apple",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200645480-3278_rxr-662&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-sg%2Fdetails%2F200645480-3278%2Fsoftware-engineer-generative-ai-ml%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Def8126b7-1c3c-11f1-8590-f10bf5cd56bf%26rx_job%3D200645480-3278_rxr-662%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260316T223804Z%26rx_vp%3Dcpc%26team%3DMLAI",
+      "postedAt": "2026-03-09T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:43:57.746Z"
+    },
+    {
+      "id": "jobspy_indeed_a844c0f260b6",
+      "title": "Generative AI Engineer, Camera Algorithms",
+      "company": "Apple",
+      "companySlug": "apple",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200635051-3278_rxr-662&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-sg%2Fdetails%2F200635051-3278%2Fgenerative-ai-engineer-camera-algorithms%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Df23a536b-1c3c-11f1-8590-a13deddac2c3%26rx_job%3D200635051-3278_rxr-662%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260316T223804Z%26rx_vp%3Dcpc%26team%3DHRDWR",
+      "postedAt": "2026-03-09T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:44:02.493Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:44:02.493Z"
+    },
+    {
+      "id": "jobspy_indeed_61c58d408a61",
+      "title": "Machine Learning Researcher, Image/ Video Generation",
+      "company": "Apple",
+      "companySlug": "apple",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200633003-3278_rxr-662&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-sg%2Fdetails%2F200633003-3278%2Fmachine-learning-researcher-image-video-generation%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Df0d91565-1c3c-11f1-8590-c36592a36172%26rx_job%3D200633003-3278_rxr-662%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260316T223804Z%26rx_vp%3Dcpc%26team%3DHRDWR",
+      "postedAt": "2026-03-09T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:44:02.493Z",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:44:02.493Z"
     },
     {
       "id": "palantir_0b2dbe51-0d9f-47ee-9f24-82bff4654048",
@@ -225,13 +834,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/0b2dbe51-0d9f-47ee-9f24-82bff4654048",
       "postedAt": "2026-03-03T13:07:16.077Z",
-      "updatedAt": "2026-03-17T03:29:48.923Z",
+      "updatedAt": "2026-03-17T03:43:25.681Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:29:48.923Z"
+      "scrapedAt": "2026-03-17T03:43:25.681Z"
     },
     {
       "id": "notion_be7e3aa0-22de-4ff9-b406-fb101d40cc04",
@@ -252,7 +861,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:28:57.811Z"
+      "scrapedAt": "2026-03-17T03:42:30.981Z"
     },
     {
       "id": "cohere_9c18b199-cd1f-4ef3-9fab-ce05589348ae",
@@ -273,9 +882,9 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:29:02.586Z"
+      "scrapedAt": "2026-03-17T03:42:36.559Z"
     }
   ],
-  "lastUpdated": "2026-03-17T03:30:08.725Z",
-  "totalCompanies": 7
+  "lastUpdated": "2026-03-17T03:44:04.957Z",
+  "totalCompanies": 26
 }

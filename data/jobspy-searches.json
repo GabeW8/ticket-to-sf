@@ -1,0 +1,11 @@
+[
+  { "id": "sf-swe", "searchTerm": "software engineer entry level", "location": "San Francisco, CA", "country": "USA", "region": "sf" },
+  { "id": "sf-ai", "searchTerm": "AI engineer", "location": "San Francisco, CA", "country": "USA", "region": "sf" },
+  { "id": "sf-swe-new-grad", "searchTerm": "software engineer new grad", "location": "San Francisco, CA", "country": "USA", "region": "sf" },
+  { "id": "sg-swe", "searchTerm": "software engineer", "location": "Singapore", "country": "Singapore", "region": "sg" },
+  { "id": "sg-swe-junior", "searchTerm": "software engineer junior", "location": "Singapore", "country": "Singapore", "region": "sg" },
+  { "id": "sg-ai", "searchTerm": "AI engineer", "location": "Singapore", "country": "Singapore", "region": "sg" },
+  { "id": "sg-ai-agent", "searchTerm": "AI agent engineer", "location": "Singapore", "country": "Singapore", "region": "sg" },
+  { "id": "sg-llm", "searchTerm": "LLM engineer", "location": "Singapore", "country": "Singapore", "region": "sg" },
+  { "id": "sg-genai", "searchTerm": "generative AI engineer", "location": "Singapore", "country": "Singapore", "region": "sg" }
+]

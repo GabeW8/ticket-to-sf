@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-03-17T03:30:08.726Z",
-  "totalScraped": 10550,
-  "sfJobs": 631,
-  "sgJobs": 13,
+  "timestamp": "2026-03-17T03:44:04.957Z",
+  "totalScraped": 10965,
+  "sfJobs": 551,
+  "sgJobs": 42,
   "companiesScraped": 61,
   "companiesFailed": 0,
   "errors": []
