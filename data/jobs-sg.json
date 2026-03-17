@@ -1,27 +1,6 @@
 {
   "jobs": [
     {
-      "id": "jobspy_linkedin_e734135598ac",
-      "title": "Software Engineer, Generative AI & ML",
-      "company": "Apple",
-      "companySlug": "apple",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4368969634",
-      "postedAt": "2026-03-17T03:55:45.852Z",
-      "updatedAt": "2026-03-17T03:55:45.852Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "ai_ml",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:55:45.852Z"
-    },
-    {
       "id": "jobspy_linkedin_c13dcb63b6dc",
       "title": "Generative AI Engineer",
       "company": "Evolution Singapore",
@@ -33,14 +12,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384243255",
-      "postedAt": "2026-03-17T03:55:45.852Z",
-      "updatedAt": "2026-03-17T03:55:45.852Z",
+      "postedAt": "2026-03-17T07:01:25.161Z",
+      "updatedAt": "2026-03-17T07:01:25.161Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:55:45.852Z"
+      "scrapedAt": "2026-03-17T07:01:25.161Z"
     },
     {
       "id": "jobspy_linkedin_865245cc589a",
@@ -54,14 +33,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384975951",
-      "postedAt": "2026-03-17T03:55:45.852Z",
-      "updatedAt": "2026-03-17T03:55:45.852Z",
+      "postedAt": "2026-03-17T07:01:25.161Z",
+      "updatedAt": "2026-03-17T07:01:25.161Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:55:45.852Z"
+      "scrapedAt": "2026-03-17T07:01:25.161Z"
     },
     {
       "id": "jobspy_linkedin_b3bcf4f4fd85",
@@ -75,56 +54,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4283852592",
-      "postedAt": "2026-03-17T03:54:51.259Z",
-      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "postedAt": "2026-03-17T07:00:28.915Z",
+      "updatedAt": "2026-03-17T07:00:28.915Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:54:51.259Z"
-    },
-    {
-      "id": "jobspy_linkedin_39523d443085",
-      "title": "Machine Learning Engineer",
-      "company": "Apple",
-      "companySlug": "apple",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4382218154",
-      "postedAt": "2026-03-17T03:53:41.614Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "ai_ml",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
-    },
-    {
-      "id": "jobspy_linkedin_96fac69c250c",
-      "title": "Software Engineer (Data), Ai & Data Platforms",
-      "company": "Apple",
-      "companySlug": "apple",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4360082431",
-      "postedAt": "2026-03-17T03:53:41.614Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "ai_ml",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T07:00:28.915Z"
     },
     {
       "id": "jobspy_linkedin_da4fb94a7acd",
@@ -138,14 +75,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384026384",
-      "postedAt": "2026-03-17T03:53:41.614Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "postedAt": "2026-03-17T06:59:19.740Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "junior",
       "category": "data",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_0bb2723bc165",
@@ -159,14 +96,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4378839419",
-      "postedAt": "2026-03-17T03:53:41.614Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "postedAt": "2026-03-17T06:59:19.740Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_d1f9a527eb2d",
@@ -180,35 +117,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4378845252",
-      "postedAt": "2026-03-17T03:53:41.614Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "postedAt": "2026-03-17T06:59:19.740Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
-    },
-    {
-      "id": "jobspy_linkedin_869fe383aa87",
-      "title": "Machine Learning Engineer",
-      "company": "TEKsystems",
-      "companySlug": "teksystems",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4384046675",
-      "postedAt": "2026-03-17T03:53:41.614Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "ai_ml",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_b067077d060f",
@@ -222,14 +138,56 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384996404",
-      "postedAt": "2026-03-17T03:53:41.614Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "postedAt": "2026-03-17T06:59:19.740Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
+    },
+    {
+      "id": "jobspy_linkedin_607eaf352786",
+      "title": "Machine Learning Engineer",
+      "company": "Wingfin Singapore",
+      "companySlug": "wingfin-singapore",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385662454",
+      "postedAt": "2026-03-17T06:59:19.740Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
+    },
+    {
+      "id": "jobspy_linkedin_869fe383aa87",
+      "title": "Machine Learning Engineer",
+      "company": "TEKsystems",
+      "companySlug": "teksystems",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384046675",
+      "postedAt": "2026-03-17T06:59:19.740Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_90bae4a1b1f2",
@@ -243,14 +201,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4386317259",
-      "postedAt": "2026-03-17T03:53:41.614Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "postedAt": "2026-03-17T06:59:19.740Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_6581248adda1",
@@ -264,14 +222,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4386397679",
-      "postedAt": "2026-03-17T03:53:41.614Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "postedAt": "2026-03-17T06:59:19.740Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "data",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_01ff5c103c09",
@@ -285,17 +243,17 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4304817933",
-      "postedAt": "2026-03-17T03:53:41.614Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "postedAt": "2026-03-17T06:59:19.740Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "data",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
-      "id": "jobspy_linkedin_f1cb8825d89c",
+      "id": "jobspy_linkedin_6c42d161691f",
       "title": "AI Research Engineer – Reinforcement Learning",
       "company": "Gaming Company",
       "companySlug": "gaming-company",
@@ -305,15 +263,15 @@
       ],
       "department": null,
       "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4385634829",
-      "postedAt": "2026-03-17T03:53:41.614Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "url": "https://www.linkedin.com/jobs/view/4384423889",
+      "postedAt": "2026-03-17T06:59:19.740Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_85b2c9a5f800",
@@ -327,35 +285,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4385209036",
-      "postedAt": "2026-03-17T03:53:41.614Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "postedAt": "2026-03-17T06:59:19.740Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "data",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
-    },
-    {
-      "id": "jobspy_linkedin_bb6f19d1d830",
-      "title": "Software Engineer, Apple Online Store",
-      "company": "Apple",
-      "companySlug": "apple",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4360083767",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_4220e6ca31b1",
@@ -369,14 +306,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4295076975",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_32d1ab3ba106",
@@ -390,14 +327,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4385200177",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_f2cfb8425a07",
@@ -411,35 +348,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4386322423",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
-    },
-    {
-      "id": "jobspy_linkedin_a1ef5f16688b",
-      "title": "Software Developer",
-      "company": "TEKsystems",
-      "companySlug": "teksystems",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4374285060",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_1d276296cbb5",
@@ -453,14 +369,35 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4385217512",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
+    },
+    {
+      "id": "jobspy_linkedin_a1ef5f16688b",
+      "title": "Software Developer",
+      "company": "TEKsystems",
+      "companySlug": "teksystems",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374285060",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_af219bde243f",
@@ -474,14 +411,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4330112722",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_ecb6e0e13028",
@@ -495,14 +432,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4233683700",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_a855fd40b735",
@@ -516,14 +453,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4266886553",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_154e5d3217d7",
@@ -537,14 +474,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4386383323",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_064407c0a6b9",
@@ -558,14 +495,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4385207356",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_235adb88e3c2",
@@ -579,35 +516,35 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4386383088",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
-      "id": "jobspy_linkedin_e2a865bf5cee",
-      "title": "Full Stack Engineer",
-      "company": "CareCone Group",
-      "companySlug": "carecone-group",
+      "id": "jobspy_linkedin_620ecfc84c7e",
+      "title": "Software Engineer - Front Office",
+      "company": "Gravitas Recruitment Group (Global) Ltd",
+      "companySlug": "gravitas-recruitment-group-global-ltd",
       "location": "Singapore, Singapore",
       "locations": [
         "Singapore, Singapore"
       ],
       "department": null,
       "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4386097453",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "url": "https://www.linkedin.com/jobs/view/4385673263",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_f707c3b2d900",
@@ -621,14 +558,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4386399209",
-      "postedAt": "2026-03-17T03:52:38.538Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "postedAt": "2026-03-17T06:58:21.117Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_66685db33875",
@@ -642,14 +579,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384042027",
-      "postedAt": "2026-03-17T03:51:41.082Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "postedAt": "2026-03-17T06:57:24.931Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_30f669c78b6d",
@@ -663,35 +600,14 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384098608",
-      "postedAt": "2026-03-17T03:51:41.082Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "postedAt": "2026-03-17T06:57:24.931Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_d91b9855d472",
-      "title": "Software Engineer, Payment Systems",
-      "company": "Zig by ComfortDelGro",
-      "companySlug": "zig-by-comfortdelgro",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4384999378",
-      "postedAt": "2026-03-17T03:51:41.082Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_fde5b0ad657b",
@@ -705,14 +621,56 @@
       "department": null,
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4365258486",
-      "postedAt": "2026-03-17T03:51:41.082Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "postedAt": "2026-03-17T06:57:24.931Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
+    },
+    {
+      "id": "jobspy_linkedin_99459a1303bf",
+      "title": "Robotics Software Engineer",
+      "company": "DSO National Laboratories",
+      "companySlug": "dso-national-laboratories",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4260006109",
+      "postedAt": "2026-03-17T06:57:24.931Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
+    },
+    {
+      "id": "jobspy_linkedin_806e1efde541",
+      "title": "Software Engineer",
+      "company": "Wingfin Singapore",
+      "companySlug": "wingfin-singapore",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385661346",
+      "postedAt": "2026-03-17T06:57:24.931Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "stripe_7567506",
@@ -733,7 +691,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:48:24.367Z"
+      "scrapedAt": "2026-03-17T06:55:06.468Z"
     },
     {
       "id": "stripe_7176977",
@@ -754,7 +712,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:48:24.367Z"
+      "scrapedAt": "2026-03-17T06:55:06.468Z"
     },
     {
       "id": "stripe_7206401",
@@ -775,7 +733,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:48:24.367Z"
+      "scrapedAt": "2026-03-17T06:55:06.468Z"
     },
     {
       "id": "stripe_7529787",
@@ -796,7 +754,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:48:24.367Z"
+      "scrapedAt": "2026-03-17T06:55:06.468Z"
     },
     {
       "id": "jobspy_indeed_2f3f4da0b130",
@@ -811,13 +769,13 @@
       "team": null,
       "url": "http://sg.indeed.com/job/data-scientist-ai-ac54fa8083b0258a",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_f93c4ea6fd4a",
@@ -832,13 +790,13 @@
       "team": null,
       "url": "http://sg.indeed.com/job/algo-java-developer-8482d5ea529df519",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_c94d2fdfa551",
@@ -853,34 +811,76 @@
       "team": null,
       "url": "https://apply.workable.com/j/A702D962CF",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
-      "id": "jobspy_linkedin_8b922faadf18",
-      "title": "Development Engineer (Software Development – Frontend)",
-      "company": "Nityo Infotech",
-      "companySlug": "nityo-infotech",
+      "id": "jobspy_linkedin_bb6f19d1d830",
+      "title": "Software Engineer, Apple Online Store",
+      "company": "Apple",
+      "companySlug": "apple",
       "location": "Singapore, Singapore",
       "locations": [
         "Singapore, Singapore"
       ],
       "department": null,
       "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4384978009",
+      "url": "https://www.linkedin.com/jobs/view/4360083767",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
+    },
+    {
+      "id": "jobspy_linkedin_96fac69c250c",
+      "title": "Software Engineer (Data), Ai & Data Platforms",
+      "company": "Apple",
+      "companySlug": "apple",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4360082431",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
+    },
+    {
+      "id": "jobspy_linkedin_e734135598ac",
+      "title": "Software Engineer, Generative AI & ML",
+      "company": "Apple",
+      "companySlug": "apple",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4368969634",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_d37d67cb9b51",
@@ -895,76 +895,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384000622",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_f06f6916610c",
-      "title": "Full Stack Developer",
-      "company": "Crédit Agricole CIB",
-      "companySlug": "cr-dit-agricole-cib",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4382415349",
-      "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
-    },
-    {
-      "id": "jobspy_linkedin_751118467620",
-      "title": "Full Stack Developer",
-      "company": "Nityo Infotech",
-      "companySlug": "nityo-infotech",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4384968294",
-      "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
-    },
-    {
-      "id": "jobspy_linkedin_e2eb0481b5b3",
-      "title": "Software Engineer (Atlassian Platform)",
-      "company": "HCLTech",
-      "companySlug": "hcltech",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4384966747",
-      "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_f9b25821b36d",
@@ -979,13 +916,118 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384973269",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
+    },
+    {
+      "id": "jobspy_linkedin_f06f6916610c",
+      "title": "Full Stack Developer",
+      "company": "Crédit Agricole CIB",
+      "companySlug": "cr-dit-agricole-cib",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382415349",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
+    },
+    {
+      "id": "jobspy_linkedin_8b922faadf18",
+      "title": "Development Engineer (Software Development – Frontend)",
+      "company": "Nityo Infotech",
+      "companySlug": "nityo-infotech",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384978009",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
+    },
+    {
+      "id": "jobspy_linkedin_751118467620",
+      "title": "Full Stack Developer",
+      "company": "Nityo Infotech",
+      "companySlug": "nityo-infotech",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384968294",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
+    },
+    {
+      "id": "jobspy_linkedin_e2a865bf5cee",
+      "title": "Full Stack Engineer",
+      "company": "CareCone Group",
+      "companySlug": "carecone-group",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4386097453",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
+    },
+    {
+      "id": "jobspy_linkedin_e2eb0481b5b3",
+      "title": "Software Engineer (Atlassian Platform)",
+      "company": "HCLTech",
+      "companySlug": "hcltech",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384966747",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_indeed_1fd6b5d812bc",
@@ -1000,13 +1042,13 @@
       "team": null,
       "url": "https://www.ncs.co/careers/job-details/?jobSource=sm&jobId=6000000000935276",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_indeed_1d4de6627166",
@@ -1021,13 +1063,13 @@
       "team": null,
       "url": "https://apply.workable.com/j/7A8F00028A",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_indeed_02926a521901",
@@ -1042,13 +1084,34 @@
       "team": null,
       "url": "https://careers.skyworksinc.com/job/Singapore-Systems-Engineer-2-04/1373479600/?feedId=177100&utm_source=Indeed&utm_campaign=Skyworks_Indeed",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
+    },
+    {
+      "id": "jobspy_linkedin_39523d443085",
+      "title": "Machine Learning Engineer",
+      "company": "Apple",
+      "companySlug": "apple",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382218154",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_6de408e36c5e",
@@ -1063,13 +1126,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384978033",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_0f7fe4348413",
@@ -1084,13 +1147,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4386084540",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_indeed_bb51de2270d8",
@@ -1105,13 +1168,13 @@
       "team": null,
       "url": "https://jobs.exxonmobil.com/ExxonMobil/job/Singapore-Trading-Desk-Full-Stack-Developer-01/1356090100/?feedId=204100&utm_source=Indeed&utm_campaign=XOM_Indeed",
       "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_01cbe52cb837",
@@ -1126,13 +1189,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4245409317",
       "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_6563de107685",
@@ -1147,13 +1210,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4334409249",
       "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_656567f100ff",
@@ -1168,34 +1231,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4315372015",
       "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_39d31bdd1352",
-      "title": "Software Developer",
-      "company": "TG Singapore",
-      "companySlug": "tg-singapore",
-      "location": "Central Singapore Community Development Council, Singapore",
-      "locations": [
-        "Central Singapore Community Development Council, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4384934377",
-      "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_0c5d18ffad57",
@@ -1210,13 +1252,34 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4376061055",
       "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
+    },
+    {
+      "id": "jobspy_linkedin_39d31bdd1352",
+      "title": "Software Developer",
+      "company": "TG Singapore",
+      "companySlug": "tg-singapore",
+      "location": "Central Singapore Community Development Council, Singapore",
+      "locations": [
+        "Central Singapore Community Development Council, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384934377",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_52fe0db8e9ec",
@@ -1231,13 +1294,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/3992961031",
       "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_5773e1e4ebd1",
@@ -1252,13 +1315,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4182761050",
       "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_1dbbfb2d1c4f",
@@ -1273,13 +1336,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384948559",
       "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "data",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_2a3233539e4b",
@@ -1294,13 +1357,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4184156975",
       "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_9edb6cfbec9a",
@@ -1315,13 +1378,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4304825814",
       "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_2a32717a1e90",
@@ -1336,13 +1399,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384949514",
       "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "updatedAt": "2026-03-17T07:00:28.915Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:54:51.259Z"
+      "scrapedAt": "2026-03-17T07:00:28.915Z"
     },
     {
       "id": "jobspy_linkedin_28a1381c3a40",
@@ -1357,13 +1420,34 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4374399283",
       "postedAt": "2026-03-14T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
+    },
+    {
+      "id": "jobspy_linkedin_9f0e736020bb",
+      "title": "Software Engineer",
+      "company": "Doodle Labs",
+      "companySlug": "doodle-labs",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4368828444",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_088cd6c6e935",
@@ -1378,13 +1462,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4373498114",
       "postedAt": "2026-03-14T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_439b10ae428b",
@@ -1399,13 +1483,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4070735187",
       "postedAt": "2026-03-14T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_194dcb876e40",
@@ -1420,13 +1504,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4337417005",
       "postedAt": "2026-03-14T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_ecb987838e6e",
@@ -1441,13 +1525,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4361369907",
       "postedAt": "2026-03-14T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_126f135111d6",
@@ -1462,13 +1546,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4304683431",
       "postedAt": "2026-03-14T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "coupang_7374703",
@@ -1490,7 +1574,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:50:02.588Z"
+      "scrapedAt": "2026-03-17T06:55:57.776Z"
     },
     {
       "id": "coupang_7374701",
@@ -1512,7 +1596,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:50:02.588Z"
+      "scrapedAt": "2026-03-17T06:55:57.776Z"
     },
     {
       "id": "jobspy_indeed_e594a778871e",
@@ -1527,13 +1611,13 @@
       "team": null,
       "url": "https://careers.google.com/jobs/results/143301797996307142-software-engineer/",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_38a3797b362f",
@@ -1548,13 +1632,13 @@
       "team": null,
       "url": "https://careers.google.com/jobs/results/85990853910110918-software-engineer/",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_1da5bf638a77",
@@ -1569,13 +1653,13 @@
       "team": null,
       "url": "https://grnh.se/a0c6j5pn7us",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_b2824aa560d7",
@@ -1590,13 +1674,13 @@
       "team": null,
       "url": "https://apply.workable.com/j/CD231D9645",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_715e6dab8a66",
@@ -1611,13 +1695,13 @@
       "team": null,
       "url": "https://cloudera.wd5.myworkdayjobs.com/en-US/External_Career/job/Singapore--Singapore/AI-Solutions-Engineer_260465",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_34cff9186180",
@@ -1632,13 +1716,13 @@
       "team": null,
       "url": "https://apply.workable.com/j/D26FB2810B",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_5f387eb8d8e4",
@@ -1653,13 +1737,13 @@
       "team": null,
       "url": "https://apply.workable.com/j/156B6831F7",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_d0fc86b34e64",
@@ -1674,13 +1758,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4319454236",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_9a55b479c357",
@@ -1695,13 +1779,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4344781215",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_231f5a8a4090",
@@ -1716,13 +1800,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4267927857",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_979c7bd8ba28",
@@ -1737,13 +1821,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4296094786",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_3ec51ea56fcf",
@@ -1758,13 +1842,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383078297",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_eb0d65111c32",
@@ -1779,13 +1863,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4385192830",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_9eb6a5fd8164",
@@ -1800,13 +1884,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4367200422",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_a6981855279f",
@@ -1821,181 +1905,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384235056",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_a692adfd03ea",
-      "title": "Software Developer",
-      "company": "AvePoint",
-      "companySlug": "avepoint",
-      "location": "Singapore",
-      "locations": [
-        "Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4384222185",
-      "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_ea2b854e145b",
-      "title": "Full Stack Web Developer, APAC",
-      "company": "Zurich Insurance",
-      "companySlug": "zurich-insurance",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4367208316",
-      "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_d50e64a44abb",
-      "title": "C++ Software Engineer",
-      "company": "Citadel Securities",
-      "companySlug": "citadel-securities",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4281726042",
-      "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_a0457f85e1b4",
-      "title": "Software Engineer (.NET, Java, Node.js)",
-      "company": "TG Singapore",
-      "companySlug": "tg-singapore",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4384239317",
-      "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_ff901305a2a8",
-      "title": "Android Software Engineer",
-      "company": "A1",
-      "companySlug": "a1",
-      "location": "Singapore",
-      "locations": [
-        "Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4383148200",
-      "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_10334879aef4",
-      "title": "Software Engineer / System Analyst",
-      "company": "Omega 365 Singapore",
-      "companySlug": "omega-365-singapore",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4385182514",
-      "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_3992e453c931",
-      "title": "Full Stack Developer (Java+Javascript/Typescript)",
-      "company": "Thoughtworks",
-      "companySlug": "thoughtworks",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4384222549",
-      "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
-    },
-    {
-      "id": "jobspy_linkedin_770fc524a392",
-      "title": "Full Stack Engineer",
-      "company": "Ambition",
-      "companySlug": "ambition",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4383080783",
-      "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_63230b0393e5",
@@ -2010,38 +1926,17 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383144249",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
-      "id": "jobspy_linkedin_b1fd531a475d",
-      "title": "Full Stack Engineer (Gen AI)",
-      "company": "Capgemini",
-      "companySlug": "capgemini",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4384201856",
-      "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "ai_ml",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
-    },
-    {
-      "id": "jobspy_linkedin_fa0fbf8db7b3",
-      "title": "Full Stack Engineer",
+      "id": "jobspy_linkedin_a692adfd03ea",
+      "title": "Software Developer",
       "company": "AvePoint",
       "companySlug": "avepoint",
       "location": "Singapore",
@@ -2050,36 +1945,99 @@
       ],
       "department": null,
       "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4384224078",
+      "url": "https://www.linkedin.com/jobs/view/4384222185",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
-      "id": "jobspy_linkedin_1ae62b4bc38a",
-      "title": "Full-Stack Engineer Intern (Mobile Experience Platform) - 2026 Start (BS/MS)",
-      "company": "TikTok",
-      "companySlug": "tiktok",
+      "id": "jobspy_linkedin_ea2b854e145b",
+      "title": "Full Stack Web Developer, APAC",
+      "company": "Zurich Insurance",
+      "companySlug": "zurich-insurance",
       "location": "Singapore, Singapore",
       "locations": [
         "Singapore, Singapore"
       ],
       "department": null,
       "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4330953804",
+      "url": "https://www.linkedin.com/jobs/view/4367208316",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
-      "experienceLevel": "intern",
+      "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
+    },
+    {
+      "id": "jobspy_linkedin_d50e64a44abb",
+      "title": "C++ Software Engineer",
+      "company": "Citadel Securities",
+      "companySlug": "citadel-securities",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4281726042",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
+    },
+    {
+      "id": "jobspy_linkedin_a0457f85e1b4",
+      "title": "Software Engineer (.NET, Java, Node.js)",
+      "company": "TG Singapore",
+      "companySlug": "tg-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384239317",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
+    },
+    {
+      "id": "jobspy_linkedin_10334879aef4",
+      "title": "Software Engineer / System Analyst",
+      "company": "Omega 365 Singapore",
+      "companySlug": "omega-365-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385182514",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_a735bd83addc",
@@ -2094,13 +2052,118 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383082296",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
+    },
+    {
+      "id": "jobspy_linkedin_3992e453c931",
+      "title": "Full Stack Developer (Java+Javascript/Typescript)",
+      "company": "Thoughtworks",
+      "companySlug": "thoughtworks",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384222549",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
+    },
+    {
+      "id": "jobspy_linkedin_b1fd531a475d",
+      "title": "Full Stack Engineer (Gen AI)",
+      "company": "Capgemini",
+      "companySlug": "capgemini",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384201856",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
+    },
+    {
+      "id": "jobspy_linkedin_fbfc6e2de04d",
+      "title": "Freelance AI Evaluation Engineer (Python/Full-Stack)",
+      "company": "Mindrift",
+      "companySlug": "mindrift",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385338298",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
+    },
+    {
+      "id": "jobspy_linkedin_fa0fbf8db7b3",
+      "title": "Full Stack Engineer",
+      "company": "AvePoint",
+      "companySlug": "avepoint",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384224078",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
+    },
+    {
+      "id": "jobspy_linkedin_1ae62b4bc38a",
+      "title": "Full-Stack Engineer Intern (Mobile Experience Platform) - 2026 Start (BS/MS)",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4330953804",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_2b9cbd1e1223",
@@ -2115,13 +2178,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4292809871",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_indeed_fa66fb3b4304",
@@ -2136,13 +2199,13 @@
       "team": null,
       "url": "https://joinbytedance.com/search/7616680923447527733",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_indeed_8983b731cd4b",
@@ -2157,13 +2220,13 @@
       "team": null,
       "url": "https://joinbytedance.com/search/7616682027854088501",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_indeed_ef3470da41bd",
@@ -2178,13 +2241,13 @@
       "team": null,
       "url": "https://lifeattiktok.com/search/7616682163138005253",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_indeed_96d09673c5eb",
@@ -2199,34 +2262,13 @@
       "team": null,
       "url": "https://www.internsg.com/job/varsity-holdings-openclaw-multi-agent-systems-engineer-intern-ai-agents-openclaw/?f_pg=4",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
-    },
-    {
-      "id": "jobspy_indeed_f06b8c7857a6",
-      "title": "Cyber Security Engineer – IAM (SailPoint Implementation)",
-      "company": "Encora",
-      "companySlug": "encora",
-      "location": "Singapore, S00, SG",
-      "locations": [
-        "Singapore, S00, SG"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://grnh.se/f8tce8ut7us",
-      "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_6dd8d2337f3e",
@@ -2241,13 +2283,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384217887",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "data",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_91b307463823",
@@ -2262,13 +2304,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384247411",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_21447d6612c6",
@@ -2283,13 +2325,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384231592",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_4cfd93b1c179",
@@ -2304,13 +2346,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4332200228",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_25dbd07a2777",
@@ -2325,13 +2367,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4371815207",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_b5f453c7cc96",
@@ -2346,13 +2388,34 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384277781",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
+    },
+    {
+      "id": "jobspy_linkedin_b40efea860a2",
+      "title": "Data Analytics Engineer/Data Scientist",
+      "company": "Dyson",
+      "companySlug": "dyson",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385361831",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_a1b2448104eb",
@@ -2367,13 +2430,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4367202466",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "data",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_992eaf170144",
@@ -2388,13 +2451,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384269268",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "data",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_7000ef5f5822",
@@ -2409,13 +2472,34 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4304878015",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
+    },
+    {
+      "id": "jobspy_indeed_f06b8c7857a6",
+      "title": "Cyber Security Engineer – IAM (SailPoint Implementation)",
+      "company": "Encora",
+      "companySlug": "encora",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://grnh.se/f8tce8ut7us",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T07:00:28.915Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T07:00:28.915Z"
     },
     {
       "id": "jobspy_linkedin_2f59414a0456",
@@ -2430,13 +2514,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4293502179",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "updatedAt": "2026-03-17T07:00:28.915Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:54:51.259Z"
+      "scrapedAt": "2026-03-17T07:00:28.915Z"
     },
     {
       "id": "jobspy_linkedin_6f4b95da1cda",
@@ -2451,13 +2535,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4367203479",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "updatedAt": "2026-03-17T07:00:28.915Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "data",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:54:51.259Z"
+      "scrapedAt": "2026-03-17T07:00:28.915Z"
     },
     {
       "id": "jobspy_indeed_388a3a4de732",
@@ -2472,13 +2556,13 @@
       "team": null,
       "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/SGP-Singapore-1-Raffles-Quay/Site-Reliability-Engineer_R0116241-1",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "other",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_ec44fd661a8c",
@@ -2493,13 +2577,13 @@
       "team": null,
       "url": "https://careers.google.com/jobs/results/137990985035457222-software-engineer/",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_3c05c94eaee9",
@@ -2514,13 +2598,13 @@
       "team": null,
       "url": "https://careers.google.com/jobs/results/76570959837831878-software-engineer/",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_6d9ec0f01a39",
@@ -2535,13 +2619,13 @@
       "team": null,
       "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000114328642-junior-backend-software-engineer",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_a816c51ca955",
@@ -2556,13 +2640,13 @@
       "team": null,
       "url": "http://sg.indeed.com/job/full-stack-developer-net-react-301796657aa3119c",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_a2db43bcb4c5",
@@ -2577,13 +2661,13 @@
       "team": null,
       "url": "https://grnh.se/ku1scnme7us",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_b958ec53671d",
@@ -2598,13 +2682,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383549254",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_39f27e5f3d68",
@@ -2619,13 +2703,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4304021557",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_8a9ef6f7bc80",
@@ -2640,13 +2724,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4366968898",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_50a264174754",
@@ -2661,13 +2745,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383030604",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_0567e77d1291",
@@ -2682,13 +2766,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4324316993",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_d435fa80d52f",
@@ -2703,13 +2787,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/3902508733",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_ad98d9f93b7a",
@@ -2724,13 +2808,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4196532835",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_6be5cea8ad2e",
@@ -2745,13 +2829,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4335721539",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_4a6f94ad5fbb",
@@ -2766,13 +2850,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383956941",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_e81a934d9c2a",
@@ -2787,13 +2871,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383973407",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_9941e75e95fc",
@@ -2808,13 +2892,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383911870",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_f11206964e05",
@@ -2829,13 +2913,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4358731517",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_2c881004d4d4",
@@ -2850,13 +2934,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384545548",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_ca353ff4162a",
@@ -2871,13 +2955,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383540311",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_991beacd1f21",
@@ -2892,13 +2976,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4370781356",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_d9f5fc39ea3c",
@@ -2913,13 +2997,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383972424",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_03061f5283f8",
@@ -2934,13 +3018,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383529278",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_1cb1c021499e",
@@ -2955,13 +3039,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382741632",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_a48d428c4b99",
@@ -2976,13 +3060,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383542128",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_fe33422754ed",
@@ -2997,34 +3081,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383502333",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
-    },
-    {
-      "id": "jobspy_linkedin_356f4383b5de",
-      "title": "Machine Learning Engineer Graduate (Global E-Commerce, Search) - 2026 Start (BS/MS)",
-      "company": "ByteDance",
-      "companySlug": "bytedance",
-      "location": "Singapore",
-      "locations": [
-        "Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4374779200",
-      "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "ai_ml",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_66441e88eb80",
@@ -3039,13 +3102,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4374779206",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_6ce0de8cda5a",
@@ -3060,13 +3123,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4374776288",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_f17f3e118c8b",
@@ -3081,13 +3144,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4374780078",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_52bb07938f96",
@@ -3102,13 +3165,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383520539",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_a8c06011791b",
@@ -3123,13 +3186,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4374760793",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_a8519a5646a3",
@@ -3144,13 +3207,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4374760788",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_d4debbfb8da4",
@@ -3165,13 +3228,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383515957",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_c01d67939f2a",
@@ -3186,13 +3249,34 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4374764664",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
+    },
+    {
+      "id": "jobspy_linkedin_86289c64b3de",
+      "title": "Data Scientist Graduate (TikTok LIVE-Data Science) - 2026 Start (BS/MS)",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4366812008",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_a20d682ec62f",
@@ -3207,13 +3291,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4374762733",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_7bef37414a9c",
@@ -3228,13 +3312,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4374779199",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_b624e0cf9b36",
@@ -3249,13 +3333,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383905380",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_7a5e82fdc733",
@@ -3270,13 +3354,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4344371846",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "updatedAt": "2026-03-17T07:00:28.915Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:54:51.259Z"
+      "scrapedAt": "2026-03-17T07:00:28.915Z"
     },
     {
       "id": "jobspy_linkedin_7f64f4877d01",
@@ -3291,13 +3375,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384870314",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "updatedAt": "2026-03-17T07:00:28.915Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:54:51.259Z"
+      "scrapedAt": "2026-03-17T07:00:28.915Z"
     },
     {
       "id": "govtechsg_4000975201",
@@ -3318,7 +3402,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:49:59.191Z"
+      "scrapedAt": "2026-03-17T06:55:54.576Z"
     },
     {
       "id": "govtechsg_4000976201",
@@ -3339,7 +3423,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:49:59.191Z"
+      "scrapedAt": "2026-03-17T06:55:54.576Z"
     },
     {
       "id": "jobspy_indeed_3a6f25d5b417",
@@ -3354,13 +3438,13 @@
       "team": null,
       "url": "https://careers.google.com/jobs/results/81602106003202758-software-engineer/",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_e3171dbad362",
@@ -3375,13 +3459,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4358394668",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_d689f827226b",
@@ -3396,13 +3480,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384190005",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_63b3bcb70d54",
@@ -3417,13 +3501,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382862476",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_3fddbee95a23",
@@ -3438,13 +3522,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384139292",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_d99af58d7f72",
@@ -3459,13 +3543,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384140088",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_880a06b2d911",
@@ -3480,13 +3564,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382547952",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_9200e1d82d30",
@@ -3501,13 +3585,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384150108",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_da0df0e7a8f0",
@@ -3522,13 +3606,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384146271",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_1d57d410c59e",
@@ -3543,13 +3627,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4315914138",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_7e0912829f85",
@@ -3564,13 +3648,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4371977136",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_09273a942a65",
@@ -3585,13 +3669,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4356196880",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_indeed_d93aee6bbd12",
@@ -3606,13 +3690,13 @@
       "team": null,
       "url": "https://www.internsg.com/job/indexync-ai-software-engineer-intern-full-stack/?f_pg=7",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_25577446cc0f",
@@ -3627,13 +3711,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4303525496",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_9e3440a68af6",
@@ -3648,13 +3732,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383227939",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_7739c11f9c69",
@@ -3669,13 +3753,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382861384",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_50908445062f",
@@ -3690,13 +3774,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4384122077",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_a128608d82a2",
@@ -3711,13 +3795,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4371361667",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "data",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_9dd46ee51415",
@@ -3732,13 +3816,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382881566",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_d2185ca66d7b",
@@ -3753,13 +3837,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382828859",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_4bc3d2e5b2e0",
@@ -3774,13 +3858,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383881717",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_74a4efea6a17",
@@ -3795,13 +3879,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382889158",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_12e462c2aeb3",
@@ -3816,13 +3900,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383895775",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_caf226b1089d",
@@ -3837,13 +3921,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4319897698",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_ee9fba8473b5",
@@ -3858,13 +3942,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383244727",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_17506eae094e",
@@ -3879,34 +3963,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382816796",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
-    },
-    {
-      "id": "jobspy_linkedin_7172a3eccd19",
-      "title": "Machine Learning Engineer Graduate (Trust and Safety Platform)- 2026 Start (BS/MS)",
-      "company": "TikTok",
-      "companySlug": "tiktok",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4302197949",
-      "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "ai_ml",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_17f75dc5f547",
@@ -3921,13 +3984,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382868055",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_8357429511e4",
@@ -3942,13 +4005,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4373993368",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_495749d2034b",
@@ -3963,13 +4026,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4303185061",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_indeed_18e57a37a935",
@@ -3984,13 +4047,13 @@
       "team": null,
       "url": "https://apply.workable.com/j/C42CB85AD2",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:54:43.712Z",
+      "updatedAt": "2026-03-17T07:00:20.034Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:54:43.712Z"
+      "scrapedAt": "2026-03-17T07:00:20.034Z"
     },
     {
       "id": "jobspy_linkedin_e8e40c8038d9",
@@ -4005,13 +4068,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382522895",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "updatedAt": "2026-03-17T07:00:28.915Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:54:51.259Z"
+      "scrapedAt": "2026-03-17T07:00:28.915Z"
     },
     {
       "id": "jobspy_indeed_5f6f7f5cc93a",
@@ -4026,13 +4089,13 @@
       "team": null,
       "url": "https://jobs.ashbyhq.com/airwallex/0af57e4e-7a5a-4e19-8a66-65ed1b61ac10?utm_source=GVJrAklxyn",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:55:45.852Z",
+      "updatedAt": "2026-03-17T07:01:25.161Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:55:45.852Z"
+      "scrapedAt": "2026-03-17T07:01:25.161Z"
     },
     {
       "id": "jobspy_linkedin_6f5c51821d7d",
@@ -4047,13 +4110,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4365589164",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_48da0a4c7d4d",
@@ -4068,13 +4131,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4376703346",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_b4ac6f29cd3b",
@@ -4089,13 +4152,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4323493990",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_4fcb26767960",
@@ -4110,13 +4173,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382458180",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_9b527998044d",
@@ -4131,13 +4194,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382436125",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_487d7be02c66",
@@ -4152,55 +4215,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4338820743",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_1bd4381ef3dc",
-      "title": "Software Engineer",
-      "company": "Crédit Agricole CIB",
-      "companySlug": "cr-dit-agricole-cib",
-      "location": "Singapore",
-      "locations": [
-        "Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4383471357",
-      "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_96a495fb0e7f",
-      "title": "Software Engineer (NodeJs & React Js)",
-      "company": "Beyondsoft Singapore",
-      "companySlug": "beyondsoft-singapore",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4314263096",
-      "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_087e8280b04c",
@@ -4215,76 +4236,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4282102214",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T06:57:24.931Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_c03b714cb824",
-      "title": "Freelance Web Developer – Luxury Ecommerce",
-      "company": "Twine",
-      "companySlug": "twine",
-      "location": "Singapore",
-      "locations": [
-        "Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4364737221",
-      "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_3861dce4092f",
-      "title": "Software Engineer, Global Payment Systems (Intern)",
-      "company": "Tencent",
-      "companySlug": "tencent",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4382285815",
-      "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "intern",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
-    },
-    {
-      "id": "jobspy_linkedin_68b17081d1be",
-      "title": "Backend Software Engineer",
-      "company": "Nas.io",
-      "companySlug": "nas-io",
-      "location": "Singapore",
-      "locations": [
-        "Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4372520303",
-      "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:51:41.082Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:51:41.082Z"
+      "scrapedAt": "2026-03-17T06:57:24.931Z"
     },
     {
       "id": "jobspy_linkedin_918463b9dabe",
@@ -4299,13 +4257,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4377357655",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_e273306221cb",
@@ -4320,13 +4278,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4375503055",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_b31481303daf",
@@ -4341,13 +4299,34 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382935948",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
+    },
+    {
+      "id": "jobspy_linkedin_68b17081d1be",
+      "title": "Backend Software Engineer",
+      "company": "Nas.io",
+      "companySlug": "nas-io",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4372520303",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_51d7e69af599",
@@ -4362,13 +4341,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382408933",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T06:58:21.117Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:52:38.538Z"
+      "scrapedAt": "2026-03-17T06:58:21.117Z"
     },
     {
       "id": "jobspy_linkedin_14f19a6fe30c",
@@ -4383,13 +4362,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4341709051",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_ce6a6d311614",
@@ -4404,34 +4383,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383709555",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "data",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
-    },
-    {
-      "id": "jobspy_linkedin_227ea0bf893b",
-      "title": "Data Scientist (Analytics)",
-      "company": "Grab",
-      "companySlug": "grab",
-      "location": "Singapore, Singapore",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.linkedin.com/jobs/view/4378458401",
-      "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "data",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_789fb6612963",
@@ -4446,13 +4404,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4383759288",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_3eda3fe185db",
@@ -4467,13 +4425,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4382071867",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_linkedin_3164d6d3a588",
@@ -4488,13 +4446,13 @@
       "team": null,
       "url": "https://www.linkedin.com/jobs/view/4371920679",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T06:59:19.740Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:59:19.740Z"
     },
     {
       "id": "jobspy_indeed_3bc90961cac6",
@@ -4509,13 +4467,13 @@
       "team": null,
       "url": "https://www.ncs.co/careers/job-details/?jobSource=sm&jobId=6000000000922245",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:54:43.712Z",
+      "updatedAt": "2026-03-17T07:00:20.034Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:54:43.712Z"
+      "scrapedAt": "2026-03-17T07:00:20.034Z"
     },
     {
       "id": "jobspy_indeed_023af683055d",
@@ -4530,13 +4488,13 @@
       "team": null,
       "url": "https://seagatecareers.com/job/Singapore-Global-Factory-IT-Intern%2C-Machine-Learning-and-Generative-AI/1371809200/?feedId=325900&utm_source=Indeed&utm_campaign=Seagate_Indeed",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:55:45.852Z",
+      "updatedAt": "2026-03-17T07:01:25.161Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:55:45.852Z"
+      "scrapedAt": "2026-03-17T07:01:25.161Z"
     },
     {
       "id": "jobspy_indeed_0819fd63742b",
@@ -4551,13 +4509,13 @@
       "team": null,
       "url": "https://joinbytedance.com/search/7612538034627037493",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:55:45.852Z",
+      "updatedAt": "2026-03-17T07:01:25.161Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:55:45.852Z"
+      "scrapedAt": "2026-03-17T07:01:25.161Z"
     },
     {
       "id": "databricks_8437018002",
@@ -4578,7 +4536,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:48:26.682Z"
+      "scrapedAt": "2026-03-17T06:55:08.095Z"
     },
     {
       "id": "jobspy_indeed_a844c0f260b6",
@@ -4591,15 +4549,15 @@
       ],
       "department": null,
       "team": null,
-      "url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200635051-3278_rxr-662&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-sg%2Fdetails%2F200635051-3278%2Fgenerative-ai-engineer-camera-algorithms%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Df23a536b-1c3c-11f1-8590-a13deddac2c3%26rx_job%3D200635051-3278_rxr-662%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260316T223804Z%26rx_vp%3Dcpc%26team%3DHRDWR",
+      "url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200635051-3278_rxr-662&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-sg%2Fdetails%2F200635051-3278%2Fgenerative-ai-engineer-camera-algorithms%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Df23a536b-1c3c-11f1-8590-a13deddac2c3%26rx_job%3D200635051-3278_rxr-662%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260317T043822Z%26rx_vp%3Dcpc%26team%3DHRDWR",
       "postedAt": "2026-03-09T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:55:45.852Z",
+      "updatedAt": "2026-03-17T07:01:25.161Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:55:45.852Z"
+      "scrapedAt": "2026-03-17T07:01:25.161Z"
     },
     {
       "id": "jobspy_indeed_61c58d408a61",
@@ -4612,15 +4570,15 @@
       ],
       "department": null,
       "team": null,
-      "url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200633003-3278_rxr-662&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-sg%2Fdetails%2F200633003-3278%2Fmachine-learning-researcher-image-video-generation%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Df0d91565-1c3c-11f1-8590-c36592a36172%26rx_job%3D200633003-3278_rxr-662%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260316T223804Z%26rx_vp%3Dcpc%26team%3DHRDWR",
+      "url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200633003-3278_rxr-662&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-sg%2Fdetails%2F200633003-3278%2Fmachine-learning-researcher-image-video-generation%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Df0d91565-1c3c-11f1-8590-c36592a36172%26rx_job%3D200633003-3278_rxr-662%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260317T043822Z%26rx_vp%3Dcpc%26team%3DHRDWR",
       "postedAt": "2026-03-09T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:55:45.852Z",
+      "updatedAt": "2026-03-17T07:01:25.161Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:55:45.852Z"
+      "scrapedAt": "2026-03-17T07:01:25.161Z"
     },
     {
       "id": "palantir_0b2dbe51-0d9f-47ee-9f24-82bff4654048",
@@ -4635,13 +4593,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/0b2dbe51-0d9f-47ee-9f24-82bff4654048",
       "postedAt": "2026-03-03T13:07:16.077Z",
-      "updatedAt": "2026-03-17T03:49:55.155Z",
+      "updatedAt": "2026-03-17T06:55:50.047Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:49:55.155Z"
+      "scrapedAt": "2026-03-17T06:55:50.047Z"
     },
     {
       "id": "notion_be7e3aa0-22de-4ff9-b406-fb101d40cc04",
@@ -4662,28 +4620,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:48:29.430Z"
-    },
-    {
-      "id": "jobspy_indeed_891652594d3e",
-      "title": "Lead Data Engineer",
-      "company": "POSH",
-      "companySlug": "posh",
-      "location": "Singapore, S00, SG",
-      "locations": [
-        "Singapore, S00, SG"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://careers.kuokgroup.com.sg/job/Lead-Data-Engineer/260-en_GB",
-      "postedAt": "2026-01-26T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:53:41.614Z",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "data",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:53:41.614Z"
+      "scrapedAt": "2026-03-17T06:55:11.098Z"
     },
     {
       "id": "cohere_9c18b199-cd1f-4ef3-9fab-ce05589348ae",
@@ -4704,9 +4641,9 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:48:33.092Z"
+      "scrapedAt": "2026-03-17T06:55:13.502Z"
     }
   ],
-  "lastUpdated": "2026-03-17T03:55:59.646Z",
-  "totalCompanies": 124
+  "lastUpdated": "2026-03-17T07:01:38.913Z",
+  "totalCompanies": 126
 }
