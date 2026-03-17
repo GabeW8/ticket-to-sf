@@ -1,6 +1,174 @@
 {
   "jobs": [
     {
+      "id": "jobspy_linkedin_caedcbf48a02",
+      "title": "ML/AI Engineer",
+      "company": "Ludo Robotics",
+      "companySlug": "ludo-robotics",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4386375988",
+      "postedAt": "2026-03-17T03:50:25.756Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_e678de561f6f",
+      "title": "AI/ML Engineer",
+      "company": "Air Apps",
+      "companySlug": "air-apps",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384083214",
+      "postedAt": "2026-03-17T03:50:25.756Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_9e9e3ff6273e",
+      "title": "Machine Learning Eval Engineer",
+      "company": "Reducto",
+      "companySlug": "reducto",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4386526105",
+      "postedAt": "2026-03-17T03:50:25.756Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_23fa9cda6e7a",
+      "title": "Software Engineer, ML Products",
+      "company": "Twitch",
+      "companySlug": "twitch",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4303760033",
+      "postedAt": "2026-03-17T03:50:25.756Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_7aa0d0dcb886",
+      "title": "AI Engineer",
+      "company": "Comulate",
+      "companySlug": "comulate",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4318534690",
+      "postedAt": "2026-03-17T03:50:25.756Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_c751bb6d4e9b",
+      "title": "Data Scientist, Analytics - Performance",
+      "company": "Discord",
+      "companySlug": "discord",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385660260",
+      "postedAt": "2026-03-17T03:50:25.756Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_9c417e018c0c",
+      "title": "Machine Learning Engineer",
+      "company": "Acceler8 Talent",
+      "companySlug": "acceler8-talent",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384082852",
+      "postedAt": "2026-03-17T03:50:25.756Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_8bd625a97678",
+      "title": "Research Engineer - Computer Vision ML",
+      "company": "Sesame",
+      "companySlug": "sesame",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4262026889",
+      "postedAt": "2026-03-17T03:50:25.756Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
       "id": "scaleai_4673771005",
       "title": "Software Engineer, ARC Team",
       "company": "Scale AI",
@@ -26,7 +194,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "plaid_c2ee1f40-7492-4446-a08b-2cb2c8920eef",
@@ -47,7 +215,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:33.142Z"
+      "scrapedAt": "2026-03-17T03:48:31.527Z"
     },
     {
       "id": "samsara_7650290",
@@ -68,7 +236,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:58.415Z"
+      "scrapedAt": "2026-03-17T03:48:54.591Z"
     },
     {
       "id": "samsara_7619925",
@@ -89,7 +257,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:58.415Z"
+      "scrapedAt": "2026-03-17T03:48:54.591Z"
     },
     {
       "id": "samsara_7276275",
@@ -110,7 +278,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:58.415Z"
+      "scrapedAt": "2026-03-17T03:48:54.591Z"
     },
     {
       "id": "samsara_7312588",
@@ -131,7 +299,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:58.415Z"
+      "scrapedAt": "2026-03-17T03:48:54.591Z"
     },
     {
       "id": "samsara_7306930",
@@ -152,7 +320,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:58.415Z"
+      "scrapedAt": "2026-03-17T03:48:54.591Z"
     },
     {
       "id": "samsara_7345839",
@@ -173,7 +341,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:58.415Z"
+      "scrapedAt": "2026-03-17T03:48:54.591Z"
     },
     {
       "id": "samsara_7266439",
@@ -194,7 +362,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:58.415Z"
+      "scrapedAt": "2026-03-17T03:48:54.591Z"
     },
     {
       "id": "samsara_7602286",
@@ -215,7 +383,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:58.415Z"
+      "scrapedAt": "2026-03-17T03:48:54.591Z"
     },
     {
       "id": "samsara_7266323",
@@ -236,7 +404,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:58.415Z"
+      "scrapedAt": "2026-03-17T03:48:54.591Z"
     },
     {
       "id": "instacart_5917202",
@@ -257,7 +425,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:42.270Z"
+      "scrapedAt": "2026-03-17T03:48:41.278Z"
     },
     {
       "id": "robinhood_7170008",
@@ -283,28 +451,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:55.403Z"
-    },
-    {
-      "id": "discord_8447216002",
-      "title": "Data Scientist, Analytics - Performance",
-      "company": "Discord",
-      "companySlug": "discord",
-      "location": "San Francisco Bay Area",
-      "locations": [
-        "San Francisco Bay Area"
-      ],
-      "department": "Data Science & Engineering",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/discord/jobs/8447216002",
-      "postedAt": "2026-03-16T18:54:37-04:00",
-      "updatedAt": "2026-03-16T18:54:37-04:00",
-      "isRemote": false,
-      "experienceLevel": "mid",
-      "category": "data",
-      "h1bSponsorship": "confirmed",
-      "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:44.002Z"
+      "scrapedAt": "2026-03-17T03:48:51.393Z"
     },
     {
       "id": "flexport_7580661",
@@ -327,7 +474,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.501Z"
+      "scrapedAt": "2026-03-17T03:48:45.385Z"
     },
     {
       "id": "flexport_7594670",
@@ -350,7 +497,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.501Z"
+      "scrapedAt": "2026-03-17T03:48:45.385Z"
     },
     {
       "id": "flexport_7555689",
@@ -373,7 +520,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.501Z"
+      "scrapedAt": "2026-03-17T03:48:45.385Z"
     },
     {
       "id": "scaleai_4363623005",
@@ -401,7 +548,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "figma_5829751004",
@@ -424,7 +571,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "gusto_7615358",
@@ -450,7 +597,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:58.954Z"
+      "scrapedAt": "2026-03-17T03:48:55.108Z"
     },
     {
       "id": "twilio_7605743",
@@ -471,7 +618,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:57.044Z"
+      "scrapedAt": "2026-03-17T03:48:52.938Z"
     },
     {
       "id": "okta_7692313",
@@ -493,7 +640,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:57.834Z"
+      "scrapedAt": "2026-03-17T03:48:53.880Z"
     },
     {
       "id": "gusto_7325205",
@@ -526,7 +673,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:58.954Z"
+      "scrapedAt": "2026-03-17T03:48:55.108Z"
     },
     {
       "id": "stripe_7550154",
@@ -549,7 +696,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7557403",
@@ -572,7 +719,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7579264",
@@ -594,7 +741,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_6692166",
@@ -616,7 +763,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_6567253",
@@ -638,7 +785,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_6042172",
@@ -663,7 +810,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7292520",
@@ -687,7 +834,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7334661",
@@ -709,7 +856,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7540048",
@@ -730,7 +877,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7663636",
@@ -752,7 +899,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7609424",
@@ -773,7 +920,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_6447175",
@@ -795,7 +942,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7629052",
@@ -819,7 +966,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7216664",
@@ -842,7 +989,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7216668",
@@ -865,7 +1012,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7477571",
@@ -891,7 +1038,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7210115",
@@ -914,7 +1061,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7528260",
@@ -936,7 +1083,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7545459",
@@ -957,7 +1104,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7377101",
@@ -978,7 +1125,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "waymo_7707980",
@@ -1007,7 +1154,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "lyft_8452280002",
@@ -1029,7 +1176,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "datadog_7538717",
@@ -1052,7 +1199,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:56.585Z"
+      "scrapedAt": "2026-03-17T03:48:52.459Z"
     },
     {
       "id": "datadog_7536159",
@@ -1078,7 +1225,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:56.585Z"
+      "scrapedAt": "2026-03-17T03:48:52.459Z"
     },
     {
       "id": "datadog_7183013",
@@ -1101,7 +1248,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:56.585Z"
+      "scrapedAt": "2026-03-17T03:48:52.459Z"
     },
     {
       "id": "datadog_6572669",
@@ -1124,7 +1271,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:56.585Z"
+      "scrapedAt": "2026-03-17T03:48:52.459Z"
     },
     {
       "id": "datadog_7627229",
@@ -1159,7 +1306,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:56.585Z"
+      "scrapedAt": "2026-03-17T03:48:52.459Z"
     },
     {
       "id": "plaid_606b56f1-f703-4060-b798-643900d85a2a",
@@ -1180,7 +1327,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:33.142Z"
+      "scrapedAt": "2026-03-17T03:48:31.527Z"
     },
     {
       "id": "instacart_7611679",
@@ -1201,7 +1348,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:42.270Z"
+      "scrapedAt": "2026-03-17T03:48:41.278Z"
     },
     {
       "id": "instacart_7607531",
@@ -1222,7 +1369,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:42.270Z"
+      "scrapedAt": "2026-03-17T03:48:41.278Z"
     },
     {
       "id": "twilio_6849268",
@@ -1243,7 +1390,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:57.044Z"
+      "scrapedAt": "2026-03-17T03:48:52.938Z"
     },
     {
       "id": "twilio_7359642",
@@ -1264,7 +1411,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:57.044Z"
+      "scrapedAt": "2026-03-17T03:48:52.938Z"
     },
     {
       "id": "twilio_7484699",
@@ -1285,7 +1432,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:57.044Z"
+      "scrapedAt": "2026-03-17T03:48:52.938Z"
     },
     {
       "id": "twilio_7699251",
@@ -1306,7 +1453,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:57.044Z"
+      "scrapedAt": "2026-03-17T03:48:52.938Z"
     },
     {
       "id": "datadog_7721661",
@@ -1328,7 +1475,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:56.585Z"
+      "scrapedAt": "2026-03-17T03:48:52.459Z"
     },
     {
       "id": "databricks_8434243002",
@@ -1353,7 +1500,238 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.890Z"
+      "scrapedAt": "2026-03-17T03:48:26.682Z"
+    },
+    {
+      "id": "jobspy_indeed_731628cc1c7f",
+      "title": "Forward Deployed Software Engineer",
+      "company": "Promise",
+      "companySlug": "promise",
+      "location": "San Francisco, CA, US",
+      "locations": [
+        "San Francisco, CA, US"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://jobs.ashbyhq.com/Promise/ac4259d7-1276-440f-b918-851ef3e0faa5?utm_source=oLPpQ6GbAr",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_076b1e72aec0",
+      "title": "Machine Learning Engineer | San Francisco",
+      "company": "Cleo",
+      "companySlug": "cleo",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4367619655",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_874ddcc57f13",
+      "title": "Machine Learning Engineer II",
+      "company": "Uber",
+      "companySlug": "uber",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385814897",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_6abfdff9bafa",
+      "title": "AI/Machine Learning Engineer Intern",
+      "company": "Handshake",
+      "companySlug": "handshake",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4376135321",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_acbeb52a9f33",
+      "title": "Machine Learning Engineer, Payments ML Accelerator",
+      "company": "Stripe",
+      "companySlug": "stripe",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4279934765",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_f4a44c86b600",
+      "title": "Machine Learning Engineer, Data & Systems",
+      "company": "Waymo",
+      "companySlug": "waymo",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374689248",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_abb326b0eb0b",
+      "title": "Machine Learning Engineer, Model Optimization",
+      "company": "Waymo",
+      "companySlug": "waymo",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374685706",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_ff27881b4114",
+      "title": "Machine Learning Engineer, Infrastructure",
+      "company": "Glean",
+      "companySlug": "glean",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4283317485",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_48a38b515e6f",
+      "title": "Software Engineer, Monetization AI/ML",
+      "company": "OpenAI",
+      "companySlug": "openai",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4351799178",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_9f05126c9b50",
+      "title": "Machine Learning Engineer, ADV Systems",
+      "company": "Waymo",
+      "companySlug": "waymo",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374643081",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_4e7d38475426",
+      "title": "Machine Learning Engineer: Evaluation",
+      "company": "Bedrock Robotics",
+      "companySlug": "bedrock-robotics",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4367573059",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
     },
     {
       "id": "asana_7555480",
@@ -1374,7 +1752,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:44.460Z"
+      "scrapedAt": "2026-03-17T03:48:42.698Z"
     },
     {
       "id": "asana_7441441",
@@ -1395,7 +1773,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:44.460Z"
+      "scrapedAt": "2026-03-17T03:48:42.698Z"
     },
     {
       "id": "asana_7299272",
@@ -1416,7 +1794,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:44.460Z"
+      "scrapedAt": "2026-03-17T03:48:42.698Z"
     },
     {
       "id": "asana_6806085",
@@ -1437,7 +1815,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:44.460Z"
+      "scrapedAt": "2026-03-17T03:48:42.698Z"
     },
     {
       "id": "lyft_8367642002",
@@ -1459,7 +1837,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "lyft_8403401002",
@@ -1481,7 +1859,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "verkada_4834059007",
@@ -1507,7 +1885,7 @@
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "airtable_8461006002",
@@ -1529,7 +1907,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:41.789Z"
+      "scrapedAt": "2026-03-17T03:48:40.814Z"
     },
     {
       "id": "verkada_5069449007",
@@ -1551,7 +1929,7 @@
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "togetherai_4753034007",
@@ -1572,7 +1950,7 @@
       "category": "other",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:36.981Z"
+      "scrapedAt": "2026-03-17T03:48:33.504Z"
     },
     {
       "id": "dropbox_7543397",
@@ -1593,7 +1971,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:53.586Z"
+      "scrapedAt": "2026-03-17T03:48:49.561Z"
     },
     {
       "id": "anyscale_a83ce0ba-44ab-4d81-9c8c-bfda757377cd",
@@ -1624,7 +2002,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:34.161Z"
+      "scrapedAt": "2026-03-17T03:48:32.474Z"
     },
     {
       "id": "mongodb_7656724",
@@ -1645,7 +2023,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:55.918Z"
+      "scrapedAt": "2026-03-17T03:48:51.914Z"
     },
     {
       "id": "mongodb_7145126",
@@ -1666,7 +2044,7 @@
       "category": "other",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:55.918Z"
+      "scrapedAt": "2026-03-17T03:48:51.914Z"
     },
     {
       "id": "mongodb_7644278",
@@ -1687,7 +2065,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:55.918Z"
+      "scrapedAt": "2026-03-17T03:48:51.914Z"
     },
     {
       "id": "mongodb_7551186",
@@ -1708,7 +2086,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:55.918Z"
+      "scrapedAt": "2026-03-17T03:48:51.914Z"
     },
     {
       "id": "mongodb_7571347",
@@ -1729,7 +2107,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:55.918Z"
+      "scrapedAt": "2026-03-17T03:48:51.914Z"
     },
     {
       "id": "mongodb_7672660",
@@ -1751,7 +2129,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:55.918Z"
+      "scrapedAt": "2026-03-17T03:48:51.914Z"
     },
     {
       "id": "confluent_2dd084eb-207f-4e58-bc33-b5a4a9f89eec",
@@ -1772,7 +2150,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:38.020Z"
+      "scrapedAt": "2026-03-17T03:48:34.689Z"
     },
     {
       "id": "twilio_7671815",
@@ -1793,7 +2171,7 @@
       "category": "product",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:57.044Z"
+      "scrapedAt": "2026-03-17T03:48:52.938Z"
     },
     {
       "id": "twilio_7579499",
@@ -1814,7 +2192,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:57.044Z"
+      "scrapedAt": "2026-03-17T03:48:52.938Z"
     },
     {
       "id": "twilio_7585589",
@@ -1835,7 +2213,175 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:57.044Z"
+      "scrapedAt": "2026-03-17T03:48:52.938Z"
+    },
+    {
+      "id": "jobspy_linkedin_39f9bc95bb6b",
+      "title": "Founding Machine Learning Engineer",
+      "company": "Raindrop",
+      "companySlug": "raindrop",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385533739",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_e4e9aaf87117",
+      "title": "Junior AI Solutions Engineer",
+      "company": "Kana",
+      "companySlug": "kana",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4375079083",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_520dce40bc69",
+      "title": "Data Scientist, New Grad",
+      "company": "SentiLink",
+      "companySlug": "sentilink",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385300823",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_e3a750618ef8",
+      "title": "Machine Learning Engineer -  Local to San Francisco Only",
+      "company": "Holistic Partners, Inc",
+      "companySlug": "holistic-partners-inc",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383147210",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_f6f277f1fd1b",
+      "title": "ML Research Engineer, ML Systems",
+      "company": "Scale AI",
+      "companySlug": "scale-ai",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4196120844",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_23f4ef5a31c2",
+      "title": "Machine Learning Engineer, Enterprise Brain",
+      "company": "Glean",
+      "companySlug": "glean",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4324842782",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_9c9f5735fdec",
+      "title": "Applied AI Engineer - AI Solutions",
+      "company": "Snorkel AI",
+      "companySlug": "snorkel-ai",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4340805191",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_98f82730b8d2",
+      "title": "New Grad Software Engineer",
+      "company": "Color",
+      "companySlug": "color",
+      "location": "South San Francisco, CA",
+      "locations": [
+        "South San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384287334",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:24.235Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:24.235Z"
     },
     {
       "id": "waymo_7473934",
@@ -1861,7 +2407,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "brex_8461600002",
@@ -1884,7 +2430,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:33.589Z"
+      "scrapedAt": "2026-03-17T03:48:31.963Z"
     },
     {
       "id": "instacart_7532267",
@@ -1905,7 +2451,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:42.270Z"
+      "scrapedAt": "2026-03-17T03:48:41.278Z"
     },
     {
       "id": "anthropic_4562813008",
@@ -1931,7 +2477,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5068226008",
@@ -1955,7 +2501,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5057647008",
@@ -1981,7 +2527,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5111942008",
@@ -2005,7 +2551,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5073277008",
@@ -2029,7 +2575,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5062955008",
@@ -2051,7 +2597,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5066977008",
@@ -2075,7 +2621,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5126762008",
@@ -2099,7 +2645,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5116641008",
@@ -2125,7 +2671,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4889396008",
@@ -2151,7 +2697,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4897424008",
@@ -2175,7 +2721,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5071506008",
@@ -2199,7 +2745,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4741104008",
@@ -2225,7 +2771,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4741102008",
@@ -2251,7 +2797,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5103750008",
@@ -2277,7 +2823,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5119478008",
@@ -2300,7 +2846,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5146363008",
@@ -2324,7 +2870,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5103078008",
@@ -2348,7 +2894,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4921729008",
@@ -2372,7 +2918,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5140492008",
@@ -2398,7 +2944,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4520279008",
@@ -2420,7 +2966,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4532887008",
@@ -2444,7 +2990,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5101923008",
@@ -2468,7 +3014,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4887952008",
@@ -2495,7 +3041,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4952079008",
@@ -2521,7 +3067,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4952051008",
@@ -2547,7 +3093,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4949336008",
@@ -2571,7 +3117,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5123011008",
@@ -2593,7 +3139,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4949108008",
@@ -2615,7 +3161,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4017544008",
@@ -2642,7 +3188,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5125083008",
@@ -2664,7 +3210,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5025624008",
@@ -2688,7 +3234,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4669581008",
@@ -2710,7 +3256,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5071132008",
@@ -2732,7 +3278,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4951064008",
@@ -2755,7 +3301,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5067100008",
@@ -2777,7 +3323,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4613568008",
@@ -2801,7 +3347,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4616971008",
@@ -2828,7 +3374,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4938432008",
@@ -2850,7 +3396,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4613592008",
@@ -2876,7 +3422,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5074815008",
@@ -2898,7 +3444,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4951814008",
@@ -2926,7 +3472,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5074217008",
@@ -2952,7 +3498,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5024831008",
@@ -2979,7 +3525,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4631822008",
@@ -3001,7 +3547,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5076477008",
@@ -3023,7 +3569,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5076606008",
@@ -3045,7 +3591,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5061517008",
@@ -3072,7 +3618,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4946308008",
@@ -3098,7 +3644,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5103788008",
@@ -3120,7 +3666,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4980427008",
@@ -3142,7 +3688,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5076616008",
@@ -3164,7 +3710,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4982193008",
@@ -3192,7 +3738,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5135098008",
@@ -3216,7 +3762,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5126691008",
@@ -3244,7 +3790,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4899511008",
@@ -3270,7 +3816,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5146261008",
@@ -3294,7 +3840,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5108982008",
@@ -3318,7 +3864,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5110474008",
@@ -3342,7 +3888,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4941996008",
@@ -3368,7 +3914,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5042025008",
@@ -3394,7 +3940,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5109273008",
@@ -3418,7 +3964,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4572744008",
@@ -3444,7 +3990,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5119468008",
@@ -3467,7 +4013,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5083039008",
@@ -3491,7 +4037,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_5025591008",
@@ -3515,7 +4061,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "anthropic_4673416008",
@@ -3539,7 +4085,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:25.480Z"
+      "scrapedAt": "2026-03-17T03:48:23.015Z"
     },
     {
       "id": "coinbase_7701657",
@@ -3560,7 +4106,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "waymo_7263750",
@@ -3583,7 +4129,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7467839",
@@ -3607,7 +4153,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7488508",
@@ -3631,7 +4177,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_6608598",
@@ -3654,7 +4200,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7438373",
@@ -3677,7 +4223,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7539786",
@@ -3701,85 +4247,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
-    },
-    {
-      "id": "waymo_7446320",
-      "title": "Machine Learning Engineer, ADV Systems",
-      "company": "Waymo",
-      "companySlug": "waymo",
-      "location": "Mountain View, California, United States; San Francisco, California, United States",
-      "locations": [
-        "Mountain View",
-        "California",
-        "United States",
-        "San Francisco",
-        "California",
-        "United States"
-      ],
-      "department": "Perception (7LT)",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7446320",
-      "postedAt": "2026-03-12T18:11:16-04:00",
-      "updatedAt": "2026-03-12T18:11:16-04:00",
-      "isRemote": false,
-      "experienceLevel": "mid",
-      "category": "ai_ml",
-      "h1bSponsorship": "confirmed",
-      "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
-    },
-    {
-      "id": "waymo_7446301",
-      "title": "Machine Learning Engineer, Data & Systems ",
-      "company": "Waymo",
-      "companySlug": "waymo",
-      "location": "Mountain View, California, United States; San Francisco, California, United States",
-      "locations": [
-        "Mountain View",
-        "California",
-        "United States",
-        "San Francisco",
-        "California",
-        "United States"
-      ],
-      "department": "Perception (7LT)",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7446301",
-      "postedAt": "2026-03-12T18:11:16-04:00",
-      "updatedAt": "2026-03-12T18:11:16-04:00",
-      "isRemote": false,
-      "experienceLevel": "mid",
-      "category": "ai_ml",
-      "h1bSponsorship": "confirmed",
-      "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
-    },
-    {
-      "id": "waymo_7446322",
-      "title": "Machine Learning Engineer, Model Optimization",
-      "company": "Waymo",
-      "companySlug": "waymo",
-      "location": "Mountain View, California, United States; San Francisco, California, United States",
-      "locations": [
-        "Mountain View",
-        "California",
-        "United States",
-        "San Francisco",
-        "California",
-        "United States"
-      ],
-      "department": "Perception (7LT)",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7446322",
-      "postedAt": "2026-03-12T18:11:16-04:00",
-      "updatedAt": "2026-03-12T18:11:16-04:00",
-      "isRemote": false,
-      "experienceLevel": "mid",
-      "category": "ai_ml",
-      "h1bSponsorship": "confirmed",
-      "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7446279",
@@ -3805,7 +4273,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_6506008",
@@ -3828,7 +4296,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7536948",
@@ -3852,7 +4320,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7536801",
@@ -3876,7 +4344,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7584859",
@@ -3905,7 +4373,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7469425",
@@ -3929,7 +4397,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7163224",
@@ -3951,7 +4419,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7456229",
@@ -3977,7 +4445,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7426815",
@@ -4003,7 +4471,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7428871",
@@ -4029,7 +4497,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7430650",
@@ -4052,7 +4520,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7430364",
@@ -4078,7 +4546,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7554830",
@@ -4104,7 +4572,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7487849",
@@ -4130,7 +4598,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7443590",
@@ -4159,7 +4627,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7531397",
@@ -4185,7 +4653,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7449712",
@@ -4211,7 +4679,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7450565",
@@ -4237,7 +4705,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7259110",
@@ -4263,7 +4731,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7141380",
@@ -4285,7 +4753,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7466534",
@@ -4311,7 +4779,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_6562547",
@@ -4337,7 +4805,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7543520",
@@ -4363,7 +4831,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7532414",
@@ -4389,7 +4857,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7545185",
@@ -4415,7 +4883,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "waymo_7367785",
@@ -4441,7 +4909,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:47.026Z"
+      "scrapedAt": "2026-03-17T03:48:44.915Z"
     },
     {
       "id": "brex_8395068002",
@@ -4464,7 +4932,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:33.589Z"
+      "scrapedAt": "2026-03-17T03:48:31.963Z"
     },
     {
       "id": "brex_8366850002",
@@ -4487,7 +4955,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:33.589Z"
+      "scrapedAt": "2026-03-17T03:48:31.963Z"
     },
     {
       "id": "brex_8353867002",
@@ -4510,7 +4978,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:33.589Z"
+      "scrapedAt": "2026-03-17T03:48:31.963Z"
     },
     {
       "id": "brex_8339037002",
@@ -4533,7 +5001,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:33.589Z"
+      "scrapedAt": "2026-03-17T03:48:31.963Z"
     },
     {
       "id": "brex_8339005002",
@@ -4556,7 +5024,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:33.589Z"
+      "scrapedAt": "2026-03-17T03:48:31.963Z"
     },
     {
       "id": "brex_8318331002",
@@ -4579,7 +5047,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:33.589Z"
+      "scrapedAt": "2026-03-17T03:48:31.963Z"
     },
     {
       "id": "scaleai_4624681005",
@@ -4605,7 +5073,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4520320005",
@@ -4629,7 +5097,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4629589005",
@@ -4653,7 +5121,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4514173005",
@@ -4677,7 +5145,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4586116005",
@@ -4705,7 +5173,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4657267005",
@@ -4731,7 +5199,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4602177005",
@@ -4755,7 +5223,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4665557005",
@@ -4779,7 +5247,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4660340005",
@@ -4800,7 +5268,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4625345005",
@@ -4824,7 +5292,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4625344005",
@@ -4848,7 +5316,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4490301005",
@@ -4872,7 +5340,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4600908005",
@@ -4894,7 +5362,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4606060005",
@@ -4916,7 +5384,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4605596005",
@@ -4942,7 +5410,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4528009005",
@@ -4968,7 +5436,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4625341005",
@@ -4992,7 +5460,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4631811005",
@@ -5018,7 +5486,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4631039005",
@@ -5046,7 +5514,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4481921005",
@@ -5080,33 +5548,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
-    },
-    {
-      "id": "scaleai_4534631005",
-      "title": "ML Research Engineer, ML Systems",
-      "company": "Scale AI",
-      "companySlug": "scaleai",
-      "location": "San Francisco, CA; Seattle, WA; New York, NY",
-      "locations": [
-        "San Francisco",
-        "CA",
-        "Seattle",
-        "WA",
-        "New York",
-        "NY"
-      ],
-      "department": "Research",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4534631005",
-      "postedAt": "2026-03-12T12:49:04-04:00",
-      "updatedAt": "2026-03-12T12:49:04-04:00",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "ai_ml",
-      "h1bSponsorship": "confirmed",
-      "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4663053005",
@@ -5128,7 +5570,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4513943005",
@@ -5152,7 +5594,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4637485005",
@@ -5176,7 +5618,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4591300005",
@@ -5200,7 +5642,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4606014005",
@@ -5222,7 +5664,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4605996005",
@@ -5244,7 +5686,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4594879005",
@@ -5268,7 +5710,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4618065005",
@@ -5290,7 +5732,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4554440005",
@@ -5314,7 +5756,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "scaleai_4640096005",
@@ -5336,7 +5778,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.099Z"
+      "scrapedAt": "2026-03-17T03:48:23.593Z"
     },
     {
       "id": "instacart_7431196",
@@ -5360,7 +5802,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:42.270Z"
+      "scrapedAt": "2026-03-17T03:48:41.278Z"
     },
     {
       "id": "coinbase_7673310",
@@ -5381,7 +5823,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "cursor_b6807f07-c4b7-4435-8c4c-0bef35865ad7",
@@ -5402,7 +5844,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "cursor_88d47f97-0bea-448c-9abb-4720e4acf17a",
@@ -5423,7 +5865,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "cursor_47994d20-cc6a-436b-8da0-2eceabfd413e",
@@ -5452,7 +5894,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "jobspy_indeed_f1b97d65b6eb",
@@ -5467,13 +5909,181 @@
       "team": null,
       "url": "https://jobs.us.pwc.com/job/-/-/932/92690980416",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:42.339Z",
+      "updatedAt": "2026-03-17T03:50:06.485Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:42.339Z"
+      "scrapedAt": "2026-03-17T03:50:06.485Z"
+    },
+    {
+      "id": "jobspy_linkedin_37d8314b0ab3",
+      "title": "ML-AI Engineering Intern",
+      "company": "Tech Economy",
+      "companySlug": "tech-economy",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383925072",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_7881b06982e6",
+      "title": "ML-AI Engineering Intern",
+      "company": "Bain & Company",
+      "companySlug": "bain-company",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383296967",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_f400551097f8",
+      "title": "Founding ML Engineer",
+      "company": "Crustdata (YC F24)",
+      "companySlug": "crustdata-yc-f24",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383293412",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_a2abf3733e8c",
+      "title": "Machine Learning Engineer [32985]",
+      "company": "Stealth Startup",
+      "companySlug": "stealth-startup",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382795440",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_bb639609edaa",
+      "title": "Machine Learning Engineer [32990]",
+      "company": "Stealth Startup",
+      "companySlug": "stealth-startup",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383010558",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_e0fb08fac0e7",
+      "title": "Machine Learning Engineer",
+      "company": "Shields Group Search",
+      "companySlug": "shields-group-search",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4380492447",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_9b4539b193e7",
+      "title": "Machine Learning Engineer",
+      "company": "Rec Gen",
+      "companySlug": "rec-gen",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384535122",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_b51f5f0c0409",
+      "title": "Applied AI Engineer",
+      "company": "Salient",
+      "companySlug": "salient",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4318211477",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
     },
     {
       "id": "airtable_8455969002",
@@ -5495,7 +6105,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:41.789Z"
+      "scrapedAt": "2026-03-17T03:48:40.814Z"
     },
     {
       "id": "airbnb_7707242",
@@ -5516,7 +6126,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:28.537Z"
+      "scrapedAt": "2026-03-17T03:48:25.435Z"
     },
     {
       "id": "togetherai_5064263007",
@@ -5537,7 +6147,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:36.981Z"
+      "scrapedAt": "2026-03-17T03:48:33.504Z"
     },
     {
       "id": "robinhood_7022255",
@@ -5563,7 +6173,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:55.403Z"
+      "scrapedAt": "2026-03-17T03:48:51.393Z"
     },
     {
       "id": "verkada_5040765007",
@@ -5585,7 +6195,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "discord_8362007002",
@@ -5606,7 +6216,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:44.002Z"
+      "scrapedAt": "2026-03-17T03:48:42.253Z"
     },
     {
       "id": "okta_7696955",
@@ -5628,7 +6238,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:57.834Z"
+      "scrapedAt": "2026-03-17T03:48:53.880Z"
     },
     {
       "id": "palantir_030ece08-c341-4959-bdfe-314e89b691ce",
@@ -5643,13 +6253,13 @@
       "team": "Delta",
       "url": "https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce",
       "postedAt": "2026-03-11T15:58:15.165Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "ramp_bca0346c-b843-4795-96df-6091f51e421b",
@@ -5670,7 +6280,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "airbnb_7702685",
@@ -5691,7 +6301,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:28.537Z"
+      "scrapedAt": "2026-03-17T03:48:25.435Z"
     },
     {
       "id": "dbtlabs_4663520005",
@@ -5712,7 +6322,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:38.485Z"
+      "scrapedAt": "2026-03-17T03:48:35.107Z"
     },
     {
       "id": "jobspy_indeed_9894ea189603",
@@ -5727,13 +6337,118 @@
       "team": null,
       "url": "https://grnh.se/i2s1m0bh1us",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:42.339Z",
+      "updatedAt": "2026-03-17T03:50:06.485Z",
       "isRemote": false,
       "experienceLevel": "junior",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:42.339Z"
+      "scrapedAt": "2026-03-17T03:50:06.485Z"
+    },
+    {
+      "id": "jobspy_linkedin_508196090556",
+      "title": "Machine Learning Engineer",
+      "company": "Together AI",
+      "companySlug": "together-ai",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4127674930",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_02529fc31aab",
+      "title": "Machine Learning Engineer, Level 5",
+      "company": "Snap Inc.",
+      "companySlug": "snap-inc",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4358141567",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_4d0829f21c1f",
+      "title": "AI Engineering Intern",
+      "company": "Common Sense Media",
+      "companySlug": "common-sense-media",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374442443",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_0ac057cfa75d",
+      "title": "Data Scientist",
+      "company": "Docusign",
+      "companySlug": "docusign",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374701005",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_1c3f62fa0a49",
+      "title": "AI Engineer",
+      "company": "PicnicHealth",
+      "companySlug": "picnichealth",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4353201239",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
     },
     {
       "id": "pinterest_7437356",
@@ -5758,7 +6473,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.039Z"
+      "scrapedAt": "2026-03-17T03:48:50.096Z"
     },
     {
       "id": "databricks_8124849002",
@@ -5780,7 +6495,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.890Z"
+      "scrapedAt": "2026-03-17T03:48:26.682Z"
     },
     {
       "id": "plaid_03ee5a4a-0da1-47c6-ae5b-498f76d89f9f",
@@ -5801,7 +6516,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:33.142Z"
+      "scrapedAt": "2026-03-17T03:48:31.527Z"
     },
     {
       "id": "plaid_614418d4-0ba8-4b3b-8775-0deafbb137d7",
@@ -5822,7 +6537,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:33.142Z"
+      "scrapedAt": "2026-03-17T03:48:31.527Z"
     },
     {
       "id": "lyft_8404515002",
@@ -5844,7 +6559,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "robinhood_6669758",
@@ -5866,7 +6581,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:55.403Z"
+      "scrapedAt": "2026-03-17T03:48:51.393Z"
     },
     {
       "id": "robinhood_7263592",
@@ -5890,7 +6605,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:55.403Z"
+      "scrapedAt": "2026-03-17T03:48:51.393Z"
     },
     {
       "id": "plaid_0609cbd6-331a-47a6-ae9a-9f474f79c283",
@@ -5911,7 +6626,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:33.142Z"
+      "scrapedAt": "2026-03-17T03:48:31.527Z"
     },
     {
       "id": "togetherai_5073769007",
@@ -5932,7 +6647,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:36.981Z"
+      "scrapedAt": "2026-03-17T03:48:33.504Z"
     },
     {
       "id": "dbtlabs_4636257005",
@@ -5953,7 +6668,7 @@
       "category": "other",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:38.485Z"
+      "scrapedAt": "2026-03-17T03:48:35.107Z"
     },
     {
       "id": "palantir_ac0dc094-2480-43c2-8495-26ade227ff4f",
@@ -5968,13 +6683,13 @@
       "team": "Delta",
       "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
       "postedAt": "2026-03-10T12:26:55.948Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "verkada_4191816007",
@@ -5996,7 +6711,196 @@
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
+    },
+    {
+      "id": "jobspy_linkedin_73f67f419c46",
+      "title": "Machine Learning Engineer",
+      "company": "Accio3D",
+      "companySlug": "accio3d",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382427740",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_cb4e55b1d703",
+      "title": "Machine Learning Engineer",
+      "company": "Baselayer",
+      "companySlug": "baselayer",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383778052",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_31ca2ee4c69e",
+      "title": "Machine Learning Engineer, Level 4",
+      "company": "Snap Inc.",
+      "companySlug": "snap-inc",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4354673802",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_29aa60ca92df",
+      "title": "Data Scientist, All Levels",
+      "company": "Ramp",
+      "companySlug": "ramp",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4366263812",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_821d16aeec98",
+      "title": "Software Engineer",
+      "company": "Domu",
+      "companySlug": "domu",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382409636",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_f57f7567c48d",
+      "title": "Machine Learning Engineer, Search Quality",
+      "company": "Glean",
+      "companySlug": "glean",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4195257196",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_05bfbacfa832",
+      "title": "Data Scientist",
+      "company": "Unison",
+      "companySlug": "unison",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382813002",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_5bcba7e80f8f",
+      "title": "Software Engineer",
+      "company": "Handshake",
+      "companySlug": "handshake",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4373925074",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
+    },
+    {
+      "id": "jobspy_linkedin_2a523251e0c4",
+      "title": "Full Stack Engineer (New Grad)",
+      "company": "Monarch Recruiters",
+      "companySlug": "monarch-recruiters",
+      "location": "San Francisco, CA",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4380380329",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:24.235Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:24.235Z"
     },
     {
       "id": "notion_e42b6c82-bb07-48ef-bd00-48955b2a5cab",
@@ -6017,7 +6921,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "confluent_9f215e9a-5aeb-46b8-9cdf-05ee3eaf5229",
@@ -6047,7 +6951,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:38.020Z"
+      "scrapedAt": "2026-03-17T03:48:34.689Z"
     },
     {
       "id": "instacart_6907655",
@@ -6071,7 +6975,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:42.270Z"
+      "scrapedAt": "2026-03-17T03:48:41.278Z"
     },
     {
       "id": "verkada_5043233007",
@@ -6093,7 +6997,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_5038878007",
@@ -6115,7 +7019,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_5044258007",
@@ -6137,7 +7041,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4915101007",
@@ -6159,7 +7063,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_5026067007",
@@ -6181,7 +7085,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_5026072007",
@@ -6203,7 +7107,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4997392007",
@@ -6225,7 +7129,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_5026094007",
@@ -6247,7 +7151,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_5026066007",
@@ -6269,7 +7173,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_5032260007",
@@ -6291,7 +7195,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_5024322007",
@@ -6313,7 +7217,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_5029725007",
@@ -6335,7 +7239,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4477836007",
@@ -6357,7 +7261,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4141002007",
@@ -6379,7 +7283,7 @@
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4129338007",
@@ -6401,7 +7305,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4128624007",
@@ -6423,7 +7327,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4135093007",
@@ -6445,7 +7349,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4134234007",
@@ -6467,7 +7371,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4189743007",
@@ -6489,7 +7393,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4138083007",
@@ -6511,7 +7415,7 @@
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4140263007",
@@ -6533,7 +7437,7 @@
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "whatnot_8250532f-4bfd-4ee5-a041-4a2e54047cf7",
@@ -6584,7 +7488,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "snowflake_45cf6766-f89b-4c20-8df2-69d418e468bf",
@@ -6605,7 +7509,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:37.524Z"
+      "scrapedAt": "2026-03-17T03:48:34.150Z"
     },
     {
       "id": "lyft_8402813002",
@@ -6627,7 +7531,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "discord_8397385002",
@@ -6648,7 +7552,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:44.002Z"
+      "scrapedAt": "2026-03-17T03:48:42.253Z"
     },
     {
       "id": "vanta_38f2ee3b-e849-4787-b9e1-4dd395dfa1a4",
@@ -6669,7 +7573,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:43:31.659Z"
+      "scrapedAt": "2026-03-17T03:49:58.729Z"
     },
     {
       "id": "vanta_299f0f5c-78b6-446d-ad8c-add7e147d53e",
@@ -6690,7 +7594,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:43:31.659Z"
+      "scrapedAt": "2026-03-17T03:49:58.729Z"
     },
     {
       "id": "navan_7602239",
@@ -6711,7 +7615,7 @@
       "category": "other",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:41.349Z"
+      "scrapedAt": "2026-03-17T03:48:40.389Z"
     },
     {
       "id": "coinbase_7652048",
@@ -6732,7 +7636,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "coinbase_7649063",
@@ -6753,7 +7657,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "coinbase_7644362",
@@ -6774,7 +7678,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "coinbase_7611268",
@@ -6795,7 +7699,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "coinbase_7595352",
@@ -6816,7 +7720,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "coinbase_7591861",
@@ -6837,7 +7741,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "coinbase_7539703",
@@ -6858,7 +7762,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "coinbase_7584070",
@@ -6879,7 +7783,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "coinbase_7294075",
@@ -6901,7 +7805,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "coinbase_7268895",
@@ -6923,7 +7827,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "coinbase_6679661",
@@ -6944,7 +7848,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "coinbase_6233713",
@@ -6965,7 +7869,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.047Z"
+      "scrapedAt": "2026-03-17T03:48:26.041Z"
     },
     {
       "id": "pinterest_7528427",
@@ -6990,7 +7894,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.039Z"
+      "scrapedAt": "2026-03-17T03:48:50.096Z"
     },
     {
       "id": "togetherai_5070909007",
@@ -7012,7 +7916,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:36.981Z"
+      "scrapedAt": "2026-03-17T03:48:33.504Z"
     },
     {
       "id": "notion_a6a91521-87cd-41aa-b800-24dc8808d375",
@@ -7033,7 +7937,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "vercel_5530586004",
@@ -7055,7 +7959,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:31.404Z"
+      "scrapedAt": "2026-03-17T03:48:29.854Z"
     },
     {
       "id": "vercel_5701765004",
@@ -7076,7 +7980,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:31.404Z"
+      "scrapedAt": "2026-03-17T03:48:29.854Z"
     },
     {
       "id": "vercel_5430088004",
@@ -7097,7 +8001,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:31.404Z"
+      "scrapedAt": "2026-03-17T03:48:29.854Z"
     },
     {
       "id": "vercel_5473266004",
@@ -7118,7 +8022,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:31.404Z"
+      "scrapedAt": "2026-03-17T03:48:29.854Z"
     },
     {
       "id": "vercel_5551619004",
@@ -7139,7 +8043,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:31.404Z"
+      "scrapedAt": "2026-03-17T03:48:29.854Z"
     },
     {
       "id": "vercel_5808568004",
@@ -7161,7 +8065,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:31.404Z"
+      "scrapedAt": "2026-03-17T03:48:29.854Z"
     },
     {
       "id": "vercel_5813134004",
@@ -7182,7 +8086,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:31.404Z"
+      "scrapedAt": "2026-03-17T03:48:29.854Z"
     },
     {
       "id": "persona_c966ccb5-6b95-4435-9205-c2301d2b8ae9",
@@ -7203,7 +8107,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:51.625Z"
+      "scrapedAt": "2026-03-17T03:48:47.701Z"
     },
     {
       "id": "plaid_aafa815a-977c-45c7-b7eb-4f97c11a79a8",
@@ -7224,7 +8128,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:33.142Z"
+      "scrapedAt": "2026-03-17T03:48:31.527Z"
     },
     {
       "id": "okta_7555425",
@@ -7250,7 +8154,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:57.834Z"
+      "scrapedAt": "2026-03-17T03:48:53.880Z"
     },
     {
       "id": "okta_7425892",
@@ -7281,7 +8185,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:57.834Z"
+      "scrapedAt": "2026-03-17T03:48:53.880Z"
     },
     {
       "id": "pinterest_7494658",
@@ -7306,7 +8210,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.039Z"
+      "scrapedAt": "2026-03-17T03:48:50.096Z"
     },
     {
       "id": "verkada_4595354007",
@@ -7328,7 +8232,7 @@
       "category": "other",
       "h1bSponsorship": "unknown",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4135277007",
@@ -7350,7 +8254,7 @@
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4086572007",
@@ -7372,7 +8276,7 @@
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4351374007",
@@ -7399,7 +8303,7 @@
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "verkada_4185105007",
@@ -7421,7 +8325,7 @@
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:01.033Z"
+      "scrapedAt": "2026-03-17T03:48:56.042Z"
     },
     {
       "id": "pinterest_7642265",
@@ -7446,7 +8350,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.039Z"
+      "scrapedAt": "2026-03-17T03:48:50.096Z"
     },
     {
       "id": "pinterest_7239260",
@@ -7471,7 +8375,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.039Z"
+      "scrapedAt": "2026-03-17T03:48:50.096Z"
     },
     {
       "id": "whatnot_1983d3d2-cc53-4fcc-9a2a-5846fe079b91",
@@ -7502,7 +8406,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "dropbox_7469388",
@@ -7523,7 +8427,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:53.586Z"
+      "scrapedAt": "2026-03-17T03:48:49.561Z"
     },
     {
       "id": "dropbox_7580431",
@@ -7544,7 +8448,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:53.586Z"
+      "scrapedAt": "2026-03-17T03:48:49.561Z"
     },
     {
       "id": "dropbox_6330409",
@@ -7565,7 +8469,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:53.586Z"
+      "scrapedAt": "2026-03-17T03:48:49.561Z"
     },
     {
       "id": "dropbox_6330390",
@@ -7586,7 +8490,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:53.586Z"
+      "scrapedAt": "2026-03-17T03:48:49.561Z"
     },
     {
       "id": "dropbox_7387420",
@@ -7607,7 +8511,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:53.586Z"
+      "scrapedAt": "2026-03-17T03:48:49.561Z"
     },
     {
       "id": "dropbox_7341950",
@@ -7628,7 +8532,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:53.586Z"
+      "scrapedAt": "2026-03-17T03:48:49.561Z"
     },
     {
       "id": "dropbox_7053876",
@@ -7649,7 +8553,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:53.586Z"
+      "scrapedAt": "2026-03-17T03:48:49.561Z"
     },
     {
       "id": "dropbox_7621678",
@@ -7670,7 +8574,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:53.586Z"
+      "scrapedAt": "2026-03-17T03:48:49.561Z"
     },
     {
       "id": "dropbox_7368677",
@@ -7691,7 +8595,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:53.586Z"
+      "scrapedAt": "2026-03-17T03:48:49.561Z"
     },
     {
       "id": "dropbox_7309198",
@@ -7712,7 +8616,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:53.586Z"
+      "scrapedAt": "2026-03-17T03:48:49.561Z"
     },
     {
       "id": "vanta_14f2aa15-7d35-43cc-8978-48986a325c4a",
@@ -7743,7 +8647,7 @@
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:43:31.659Z"
+      "scrapedAt": "2026-03-17T03:49:58.729Z"
     },
     {
       "id": "ramp_7bfa613e-151c-469b-9973-c89ee3d14838",
@@ -7764,7 +8668,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "lyft_8448176002",
@@ -7786,7 +8690,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "reddit_6580815",
@@ -7807,7 +8711,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:43.508Z"
+      "scrapedAt": "2026-03-17T03:48:41.823Z"
     },
     {
       "id": "discord_8440430002",
@@ -7828,7 +8732,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:44.002Z"
+      "scrapedAt": "2026-03-17T03:48:42.253Z"
     },
     {
       "id": "datadog_7440560",
@@ -7850,7 +8754,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:56.585Z"
+      "scrapedAt": "2026-03-17T03:48:52.459Z"
     },
     {
       "id": "datadog_7181025",
@@ -7900,7 +8804,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:56.585Z"
+      "scrapedAt": "2026-03-17T03:48:52.459Z"
     },
     {
       "id": "datadog_6599291",
@@ -8049,7 +8953,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:56.585Z"
+      "scrapedAt": "2026-03-17T03:48:52.459Z"
     },
     {
       "id": "whatnot_11162b1e-e7c9-432d-8ef6-6e89d28b3078",
@@ -8070,7 +8974,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_9e4d357d-3438-4359-a4f0-8de259501de7",
@@ -8091,7 +8995,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_bbf75c51-3a20-4989-bd13-1f24b66dbb16",
@@ -8112,7 +9016,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "plaid_3c834842-315f-4bbd-91db-1df5f522e1c8",
@@ -8133,7 +9037,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:33.142Z"
+      "scrapedAt": "2026-03-17T03:48:31.527Z"
     },
     {
       "id": "datadog_7476431",
@@ -8156,7 +9060,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:56.585Z"
+      "scrapedAt": "2026-03-17T03:48:52.459Z"
     },
     {
       "id": "airbnb_7669906",
@@ -8177,7 +9081,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:28.537Z"
+      "scrapedAt": "2026-03-17T03:48:25.435Z"
     },
     {
       "id": "whatnot_22d4509c-42bd-4680-bb92-74f1a0cc9ba6",
@@ -8228,7 +9132,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "figma_5759501004",
@@ -8251,7 +9155,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "databricks_8335860002",
@@ -8272,7 +9176,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.890Z"
+      "scrapedAt": "2026-03-17T03:48:26.682Z"
     },
     {
       "id": "plaid_48b0166e-17a9-4dff-848e-13b221fe7683",
@@ -8293,7 +9197,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:33.142Z"
+      "scrapedAt": "2026-03-17T03:48:31.527Z"
     },
     {
       "id": "figma_5790627004",
@@ -8316,7 +9220,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "figma_5807963004",
@@ -8339,7 +9243,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "webflow_7644879",
@@ -8361,7 +9265,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:59.379Z"
+      "scrapedAt": "2026-03-17T03:48:55.537Z"
     },
     {
       "id": "discord_8177727002",
@@ -8382,7 +9286,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:44.002Z"
+      "scrapedAt": "2026-03-17T03:48:42.253Z"
     },
     {
       "id": "notion_fede5201-c97f-4492-bfa6-66da7afbb068",
@@ -8403,7 +9307,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "lyft_8430584002",
@@ -8425,7 +9329,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "pinterest_6236569",
@@ -8449,7 +9353,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.039Z"
+      "scrapedAt": "2026-03-17T03:48:50.096Z"
     },
     {
       "id": "pinterest_6121450",
@@ -8480,7 +9384,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.039Z"
+      "scrapedAt": "2026-03-17T03:48:50.096Z"
     },
     {
       "id": "pinterest_6121543",
@@ -8509,7 +9413,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.039Z"
+      "scrapedAt": "2026-03-17T03:48:50.096Z"
     },
     {
       "id": "pinterest_7075176",
@@ -8534,7 +9438,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.039Z"
+      "scrapedAt": "2026-03-17T03:48:50.096Z"
     },
     {
       "id": "pinterest_5039778",
@@ -8558,7 +9462,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.039Z"
+      "scrapedAt": "2026-03-17T03:48:50.096Z"
     },
     {
       "id": "pinterest_6142084",
@@ -8582,7 +9486,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.039Z"
+      "scrapedAt": "2026-03-17T03:48:50.096Z"
     },
     {
       "id": "databricks_8190108002",
@@ -8604,7 +9508,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.890Z"
+      "scrapedAt": "2026-03-17T03:48:26.682Z"
     },
     {
       "id": "databricks_8026646002",
@@ -8625,7 +9529,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.890Z"
+      "scrapedAt": "2026-03-17T03:48:26.682Z"
     },
     {
       "id": "webflow_7648674",
@@ -8646,7 +9550,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:59.379Z"
+      "scrapedAt": "2026-03-17T03:48:55.537Z"
     },
     {
       "id": "airbnb_7343909",
@@ -8667,7 +9571,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:28.537Z"
+      "scrapedAt": "2026-03-17T03:48:25.435Z"
     },
     {
       "id": "plaid_78e27bf6-96be-4805-b921-772b32cf6f18",
@@ -8688,7 +9592,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:33.142Z"
+      "scrapedAt": "2026-03-17T03:48:31.527Z"
     },
     {
       "id": "discord_8371252002",
@@ -8709,7 +9613,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:44.002Z"
+      "scrapedAt": "2026-03-17T03:48:42.253Z"
     },
     {
       "id": "notion_e3944777-d4a8-41d2-88ab-32daef949d4e",
@@ -8740,7 +9644,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "figma_5804108004",
@@ -8763,7 +9667,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "databricks_6736119002",
@@ -8787,7 +9691,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.890Z"
+      "scrapedAt": "2026-03-17T03:48:26.682Z"
     },
     {
       "id": "databricks_7011263002",
@@ -8809,7 +9713,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.890Z"
+      "scrapedAt": "2026-03-17T03:48:26.682Z"
     },
     {
       "id": "databricks_8202670002",
@@ -8831,7 +9735,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.890Z"
+      "scrapedAt": "2026-03-17T03:48:26.682Z"
     },
     {
       "id": "notion_18d063f7-5e28-4c02-b88c-dd23943ce06d",
@@ -8862,7 +9766,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "notion_e64672da-27dc-4faf-a5e9-f0e466504c47",
@@ -8893,7 +9797,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "notion_8bd87691-e256-43ac-b034-932b14c1254c",
@@ -8924,7 +9828,7 @@
       "category": "other",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "togetherai_4384627007",
@@ -8945,7 +9849,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:36.981Z"
+      "scrapedAt": "2026-03-17T03:48:33.504Z"
     },
     {
       "id": "airtable_8194662002",
@@ -8971,7 +9875,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:41.789Z"
+      "scrapedAt": "2026-03-17T03:48:40.814Z"
     },
     {
       "id": "lyft_8378473002",
@@ -8993,7 +9897,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "notion_67a6ea13-9e71-4e0c-ba9c-999126417a3c",
@@ -9014,7 +9918,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "webflow_7074561",
@@ -9036,7 +9940,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:59.379Z"
+      "scrapedAt": "2026-03-17T03:48:55.537Z"
     },
     {
       "id": "ramp_42527ca9-03b9-499e-a5c4-18e4245af138",
@@ -9057,7 +9961,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "figma_5551649004",
@@ -9080,7 +9984,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "jobspy_indeed_7502ff07a34a",
@@ -9095,13 +9999,13 @@
       "team": null,
       "url": "https://openai.com/careers/ios-engineer-monetization-san-francisco/",
       "postedAt": "2026-02-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:44.961Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:44.961Z"
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
     },
     {
       "id": "vanta_f491992e-c74c-4f3b-bcc5-46c830b1c4f1",
@@ -9122,7 +10026,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:43:31.659Z"
+      "scrapedAt": "2026-03-17T03:49:58.729Z"
     },
     {
       "id": "reddit_7340793",
@@ -9143,7 +10047,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:43.508Z"
+      "scrapedAt": "2026-03-17T03:48:41.823Z"
     },
     {
       "id": "whatnot_9361c666-a2b4-45d7-973d-92544c216097",
@@ -9164,7 +10068,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "vanta_fd430cbd-2270-491d-b299-6f096cd9525b",
@@ -9185,7 +10089,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:43:31.659Z"
+      "scrapedAt": "2026-03-17T03:49:58.729Z"
     },
     {
       "id": "discord_8396927002",
@@ -9206,7 +10110,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:44.002Z"
+      "scrapedAt": "2026-03-17T03:48:42.253Z"
     },
     {
       "id": "reddit_7414993",
@@ -9228,7 +10132,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:43.508Z"
+      "scrapedAt": "2026-03-17T03:48:41.823Z"
     },
     {
       "id": "reddit_6884160",
@@ -9249,7 +10153,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:43.508Z"
+      "scrapedAt": "2026-03-17T03:48:41.823Z"
     },
     {
       "id": "reddit_7414849",
@@ -9271,7 +10175,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:43.508Z"
+      "scrapedAt": "2026-03-17T03:48:41.823Z"
     },
     {
       "id": "reddit_6909093",
@@ -9293,7 +10197,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:43.508Z"
+      "scrapedAt": "2026-03-17T03:48:41.823Z"
     },
     {
       "id": "reddit_6512458",
@@ -9315,7 +10219,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:43.508Z"
+      "scrapedAt": "2026-03-17T03:48:41.823Z"
     },
     {
       "id": "togetherai_4987660007",
@@ -9337,7 +10241,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:36.981Z"
+      "scrapedAt": "2026-03-17T03:48:33.504Z"
     },
     {
       "id": "instacart_7565189",
@@ -9358,7 +10262,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:42.270Z"
+      "scrapedAt": "2026-03-17T03:48:41.278Z"
     },
     {
       "id": "instacart_7441852",
@@ -9379,7 +10283,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:42.270Z"
+      "scrapedAt": "2026-03-17T03:48:41.278Z"
     },
     {
       "id": "notion_66b1756e-843d-4118-89d1-08667eb6fa27",
@@ -9400,7 +10304,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "figma_5792689004",
@@ -9423,7 +10327,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "lyft_8401123002",
@@ -9445,7 +10349,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "assembled_b4043ca5-266f-41af-b901-aba32dc2f1ab",
@@ -9466,7 +10370,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:52.587Z"
+      "scrapedAt": "2026-03-17T03:48:48.654Z"
     },
     {
       "id": "lyft_8335715002",
@@ -9488,7 +10392,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "lyft_8405008002",
@@ -9510,7 +10414,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "lyft_8403385002",
@@ -9532,7 +10436,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "whatnot_2ec81976-79a4-4e43-a683-d2664e8324cd",
@@ -9553,7 +10457,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "airtable_8400374002",
@@ -9579,7 +10483,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:41.789Z"
+      "scrapedAt": "2026-03-17T03:48:40.814Z"
     },
     {
       "id": "discord_8328560002",
@@ -9600,7 +10504,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:44.002Z"
+      "scrapedAt": "2026-03-17T03:48:42.253Z"
     },
     {
       "id": "resend_06bd9cb2-d189-41b6-baf7-42bd5da9610f",
@@ -9621,7 +10525,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:43:27.121Z"
+      "scrapedAt": "2026-03-17T03:49:56.542Z"
     },
     {
       "id": "whatnot_3926a4a7-e441-4ea6-9726-5c22bfe6c025",
@@ -9672,7 +10576,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_14b91b8b-ff82-4e72-934e-ffd2f49f190e",
@@ -9723,7 +10627,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_fc9888be-75e6-47f3-891f-814a666cfe0a",
@@ -9774,7 +10678,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "confluent_95338ba6-bdcd-4a0e-86e8-e30cf6308c31",
@@ -9795,7 +10699,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:38.020Z"
+      "scrapedAt": "2026-03-17T03:48:34.689Z"
     },
     {
       "id": "togetherai_4835988007",
@@ -9816,7 +10720,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:36.981Z"
+      "scrapedAt": "2026-03-17T03:48:33.504Z"
     },
     {
       "id": "togetherai_4385540007",
@@ -9837,7 +10741,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:36.981Z"
+      "scrapedAt": "2026-03-17T03:48:33.504Z"
     },
     {
       "id": "togetherai_4188119007",
@@ -9858,7 +10762,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:36.981Z"
+      "scrapedAt": "2026-03-17T03:48:33.504Z"
     },
     {
       "id": "lyft_8362269002",
@@ -9880,7 +10784,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "figma_5787320004",
@@ -9903,7 +10807,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "lyft_8399087002",
@@ -9925,7 +10829,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
     },
     {
       "id": "cursor_6171cf55-7b93-494d-b334-daf91448dbfd",
@@ -9946,7 +10850,7 @@
       "category": "data",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "cursor_cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
@@ -9967,7 +10871,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "cursor_c66cde5e-9cb6-4a2e-a330-9323e1edf2a9",
@@ -9988,7 +10892,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "cursor_0aa0650b-f93c-416e-9e2f-4fdf1556fd14",
@@ -10009,46 +10913,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
-    },
-    {
-      "id": "ramp_e577622f-6657-4e53-8941-b3a774b04448",
-      "title": "Data Scientist, All Levels",
-      "company": "Ramp",
-      "companySlug": "ramp",
-      "location": "New York, NY (HQ)",
-      "locations": [
-        "New York, NY (HQ)",
-        {
-          "location": "San Francisco, CA",
-          "address": {
-            "postalAddress": {
-              "addressRegion": "California ",
-              "addressCountry": "USA",
-              "addressLocality": "San Fransisco"
-            }
-          }
-        },
-        {
-          "location": "Remote (US)",
-          "address": {
-            "postalAddress": {
-              "addressCountry": "United States"
-            }
-          }
-        }
-      ],
-      "department": "Data",
-      "team": "Data",
-      "url": "https://jobs.ashbyhq.com/ramp/e577622f-6657-4e53-8941-b3a774b04448",
-      "postedAt": "2026-01-26T21:24:38.451+00:00",
-      "updatedAt": "2026-01-26T21:24:38.451+00:00",
-      "isRemote": true,
-      "experienceLevel": "unknown",
-      "category": "data",
-      "h1bSponsorship": "confirmed",
-      "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "cursor_3d9da649-b3e6-4b4c-943d-1d081dae9497",
@@ -10069,7 +10934,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "notion_ff54d0b3-d30f-4622-b6e6-9b9c6e4132ea",
@@ -10100,7 +10965,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "assembled_fd8b7f93-9815-489c-97a4-363ca7356c75",
@@ -10121,7 +10986,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:52.587Z"
+      "scrapedAt": "2026-03-17T03:48:48.654Z"
     },
     {
       "id": "figma_5778796004",
@@ -10144,7 +11009,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "ramp_d1183b00-6590-4fe4-a585-28d84e578fe3",
@@ -10175,7 +11040,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "ramp_95f450a1-0d38-4d58-9aac-9d7e655adc36",
@@ -10214,7 +11079,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "ramp_ed2e9a94-f58e-4ff8-8853-afd977850d43",
@@ -10245,7 +11110,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "ramp_5fe4c64e-9336-4384-9e6f-ff32eeb3fdae",
@@ -10266,7 +11131,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "ramp_5598f7b8-4ae2-4105-a2b4-2d0f55c54c40",
@@ -10287,7 +11152,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "cursor_8d07fe0f-34aa-458b-88e8-091469a963dc",
@@ -10308,7 +11173,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "palantir_0edf7365-49f0-4263-818a-19409ec4f430",
@@ -10323,13 +11188,13 @@
       "team": "Product Development",
       "url": "https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430",
       "postedAt": "2026-01-16T17:51:52.386Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "persona_748ae6d9-fa4f-46b4-8232-943ead83e5e0",
@@ -10350,7 +11215,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:51.625Z"
+      "scrapedAt": "2026-03-17T03:48:47.701Z"
     },
     {
       "id": "persona_3602dab9-1d23-4629-b17d-a748f52958e9",
@@ -10371,7 +11236,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:51.625Z"
+      "scrapedAt": "2026-03-17T03:48:47.701Z"
     },
     {
       "id": "whatnot_976ac719-025e-4e19-91cb-000c683fc6a7",
@@ -10422,7 +11287,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_9ee4a076-63a3-44a5-bba3-2a7ee2b4c9e4",
@@ -10473,7 +11338,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_62fc28e2-7a0b-4258-a196-54cdd47a28ab",
@@ -10524,7 +11389,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_6a8f2ecd-ec33-47d5-a8e3-73f0f0b037e6",
@@ -10575,7 +11440,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_7cbf4694-6734-42a7-b40f-c954b3233627",
@@ -10626,7 +11491,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_6588cd7d-84dc-4b41-8f83-787b7e8e7a9c",
@@ -10677,7 +11542,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_a8eb8dfb-778a-4bc3-ad7c-2590155bb22e",
@@ -10728,7 +11593,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_dc4c9d16-f09a-4b3f-8815-2be825ba6bfd",
@@ -10779,7 +11644,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_bd7affb6-22ba-4922-b6d8-f9a4382869c2",
@@ -10830,7 +11695,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_dac05a02-7362-4365-bb31-7b8e14eef67b",
@@ -10851,7 +11716,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_938e7bf7-4960-419e-aabf-caf45232171b",
@@ -10902,7 +11767,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_6a049f6e-25b5-4306-bfea-eda08ce3b16a",
@@ -10953,7 +11818,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_516670cb-9685-4d1e-81cd-07f6ade4ba60",
@@ -10974,7 +11839,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "assembled_f502dcb7-ad5b-44ae-afbf-34256c1e7909",
@@ -10995,7 +11860,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:52.587Z"
+      "scrapedAt": "2026-03-17T03:48:48.654Z"
     },
     {
       "id": "webflow_7532377",
@@ -11018,7 +11883,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:59.379Z"
+      "scrapedAt": "2026-03-17T03:48:55.537Z"
     },
     {
       "id": "whatnot_bdaf175b-4cc7-44d1-a7e8-f38d1b175fda",
@@ -11069,7 +11934,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "whatnot_112aaeaf-11a8-4ca6-82e6-adabc01452bb",
@@ -11120,7 +11985,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "ramp_d204e136-2749-42de-82b4-88a0dd352090",
@@ -11151,7 +12016,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "vanta_86558b33-8d4e-41ba-90c9-86d7e38b32d3",
@@ -11172,7 +12037,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:43:31.659Z"
+      "scrapedAt": "2026-03-17T03:49:58.729Z"
     },
     {
       "id": "cohere_1fa01a03-9253-4f62-8f10-0fe368b38cb9",
@@ -11233,7 +12098,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:36.559Z"
+      "scrapedAt": "2026-03-17T03:48:33.092Z"
     },
     {
       "id": "vanta_11dcfa60-28b8-4572-a0df-e21572c36ddf",
@@ -11254,7 +12119,7 @@
       "category": "other",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:43:31.659Z"
+      "scrapedAt": "2026-03-17T03:49:58.729Z"
     },
     {
       "id": "notion_95e258d9-2a3e-4da1-b190-b71cd524c555",
@@ -11275,7 +12140,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "cursor_010063bd-6083-4fc0-a455-e6f0193b5347",
@@ -11296,7 +12161,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "lyft_8330595002",
@@ -11318,7 +12183,28 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:54.486Z"
+      "scrapedAt": "2026-03-17T03:48:50.546Z"
+    },
+    {
+      "id": "jobspy_indeed_c2cb757a8b8d",
+      "title": "Software Engineer II, Android",
+      "company": "Amazon.com",
+      "companySlug": "amazon-com",
+      "location": "San Francisco, CA, US",
+      "locations": [
+        "San Francisco, CA, US"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.amazon.jobs/jobs/3138330/software-engineer-ii-android?cmpid=DA_INAD200785B",
+      "postedAt": "2025-12-05T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:50:25.756Z",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:50:25.756Z"
     },
     {
       "id": "notion_3c6dd26e-4ffb-44f2-87e2-598f49d74ab5",
@@ -11349,7 +12235,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "figma_5722244004",
@@ -11372,7 +12258,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "whatnot_45870b24-2d6d-4a0a-a3ba-96f2b0c21ad3",
@@ -11423,7 +12309,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "notion_655b047b-5e58-4b0c-82f0-8c16b2c03318",
@@ -11444,7 +12330,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "figma_5552549004",
@@ -11467,7 +12353,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "cursor_e08262e8-c089-488d-9b59-9e21f7702b64",
@@ -11488,7 +12374,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "figma_5696366004",
@@ -11511,7 +12397,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "figma_5691886004",
@@ -11534,7 +12420,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "figma_5691911004",
@@ -11557,7 +12443,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "figma_5678196004",
@@ -11579,7 +12465,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "figma_5654898004",
@@ -11602,7 +12488,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "figma_5552580004",
@@ -11625,7 +12511,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "figma_5552530004",
@@ -11648,7 +12534,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "figma_5552560004",
@@ -11671,7 +12557,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "figma_5220003004",
@@ -11694,7 +12580,7 @@
       "category": "data",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:27.101Z"
+      "scrapedAt": "2026-03-17T03:48:24.845Z"
     },
     {
       "id": "ramp_9320454f-f2ca-4c19-82d2-b51b8d75fd3a",
@@ -11715,7 +12601,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "vanta_be94f539-a4e8-48d8-a8b1-1e9290489743",
@@ -11736,7 +12622,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:43:31.659Z"
+      "scrapedAt": "2026-03-17T03:49:58.729Z"
     },
     {
       "id": "notion_3c0141de-06fb-4186-9cd4-75395f0b5488",
@@ -11767,7 +12653,7 @@
       "category": "other",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "palantir_e47d4410-2542-47d8-b558-b5295fc28821",
@@ -11782,13 +12668,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/e47d4410-2542-47d8-b558-b5295fc28821",
       "postedAt": "2025-11-10T21:27:52.009Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "cursor_546cbbe0-2afb-48f4-a935-aea10c25d797",
@@ -11809,7 +12695,7 @@
       "category": "data",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "anyscale_3aa74855-cb31-4c0e-b545-51f465b10558",
@@ -11840,7 +12726,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:34.161Z"
+      "scrapedAt": "2026-03-17T03:48:32.474Z"
     },
     {
       "id": "ramp_deca582c-a1d0-4705-9975-60aed81ba89f",
@@ -11871,7 +12757,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "cursor_0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74",
@@ -11892,7 +12778,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "ramp_2a4968ae-220c-471b-b890-a011de570bbb",
@@ -11923,7 +12809,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "notion_b0c0afb3-f075-47c7-9a8e-428032b3bb20",
@@ -11944,7 +12830,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "notion_801ab5f3-ccd7-43dd-96ac-6e59f7ab3b56",
@@ -11975,7 +12861,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "ramp_b42cce4b-8fa9-4e8d-892d-3a29a7afb909",
@@ -12006,7 +12892,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "ramp_1b191a1d-bb39-4b4a-b6bf-224e66ead1eb",
@@ -12037,7 +12923,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "resend_5a7ae358-0d5a-4242-8bdb-a028ca096f72",
@@ -12068,7 +12954,7 @@
       "category": "data",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:43:27.121Z"
+      "scrapedAt": "2026-03-17T03:49:56.542Z"
     },
     {
       "id": "assembled_ccd9479b-9d3c-4e90-9c88-6e2d0a2e3e84",
@@ -12089,7 +12975,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:52.587Z"
+      "scrapedAt": "2026-03-17T03:48:48.654Z"
     },
     {
       "id": "notion_d41b635b-c17b-4efd-89fd-fdb2ddb62e9a",
@@ -12120,7 +13006,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "assembled_f7938c1f-45b3-4f92-af46-aa3ef562268e",
@@ -12141,7 +13027,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:52.587Z"
+      "scrapedAt": "2026-03-17T03:48:48.654Z"
     },
     {
       "id": "ramp_0c9e3e0f-54df-4252-a17b-b506e954225b",
@@ -12172,7 +13058,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "ramp_f5b60cf1-c0ec-42c1-89db-ece853e998ab",
@@ -12203,7 +13089,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "assembled_01f57f5c-0002-4e92-8d2f-8d1c0f02c321",
@@ -12224,7 +13110,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:52.587Z"
+      "scrapedAt": "2026-03-17T03:48:48.654Z"
     },
     {
       "id": "notion_f7399542-9122-481a-bf64-43bf8093748b",
@@ -12255,7 +13141,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "modal_546c9eb1-aaf7-47ba-8e9d-0bcd443b3e94",
@@ -12276,7 +13162,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:39.081Z"
+      "scrapedAt": "2026-03-17T03:48:36.417Z"
     },
     {
       "id": "cursor_94cc6684-9dbf-43f9-8ffc-405614e64ddd",
@@ -12297,7 +13183,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "cursor_0cf937d6-ed98-42fa-a737-bb3f9f9b8aed",
@@ -12318,7 +13204,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "modal_f58aa841-de2d-4fdc-8c04-bc18cc6d4386",
@@ -12339,7 +13225,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:39.081Z"
+      "scrapedAt": "2026-03-17T03:48:36.417Z"
     },
     {
       "id": "whatnot_bc8f8c7f-2c4c-4f43-a238-953568c101b8",
@@ -12380,7 +13266,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:50.342Z"
+      "scrapedAt": "2026-03-17T03:48:46.318Z"
     },
     {
       "id": "persona_0c22b00a-79c9-448f-9a39-0d5da64d93f4",
@@ -12401,7 +13287,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:51.625Z"
+      "scrapedAt": "2026-03-17T03:48:47.701Z"
     },
     {
       "id": "notion_23ac2477-0008-4bed-b1c1-81f90a32e9e6",
@@ -12432,7 +13318,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "ramp_67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
@@ -12463,7 +13349,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "ramp_8c155b55-3e7e-48a8-ac98-f988a2b6f4da",
@@ -12494,7 +13380,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "palantir_6fe5515f-f677-4d98-8ac2-1775a425f5e7",
@@ -12509,13 +13395,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/6fe5515f-f677-4d98-8ac2-1775a425f5e7",
       "postedAt": "2025-08-06T19:28:07.190Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "assembled_e95be58c-ac92-4b2c-9812-cecdbdecee55",
@@ -12536,7 +13422,7 @@
       "category": "ai_ml",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:52.587Z"
+      "scrapedAt": "2026-03-17T03:48:48.654Z"
     },
     {
       "id": "ramp_a1229aec-1105-4c47-8533-b912e732ed89",
@@ -12557,7 +13443,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "ramp_31f7e045-9a51-4a75-9ffc-d815d6db6daa",
@@ -12578,7 +13464,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "ramp_f564dcf9-9390-4a3f-896f-8047a5086040",
@@ -12625,7 +13511,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "ramp_4859cd5e-f2a9-44d7-81f7-8bfc0e62369f",
@@ -12672,7 +13558,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "cursor_3551cdaa-cf08-4c04-adbe-a968185bc769",
@@ -12693,7 +13579,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "cursor_54a9cfcd-570a-4e9c-b52c-bd2336c60991",
@@ -12714,7 +13600,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "cursor_36e69353-0452-4bf6-9f35-b1e7307959a7",
@@ -12735,7 +13621,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "cursor_6f92f594-f76c-47eb-8c45-09c6b140b512",
@@ -12756,7 +13642,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:40.818Z"
+      "scrapedAt": "2026-03-17T03:48:39.782Z"
     },
     {
       "id": "notion_dda89eef-ad64-4b84-af95-d0c4896cae42",
@@ -12777,7 +13663,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "notion_3fbcf972-52d5-4475-8720-040025c6f7da",
@@ -12808,7 +13694,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "notion_e050309a-6b81-4341-b1ca-9bdd17e62e13",
@@ -12839,7 +13725,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "palantir_810e07f1-0f24-432e-a615-58478bf6ee51",
@@ -12854,13 +13740,13 @@
       "team": "Technical Operations",
       "url": "https://jobs.lever.co/palantir/810e07f1-0f24-432e-a615-58478bf6ee51",
       "postedAt": "2025-07-24T19:11:11.950Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "notion_91156750-4050-4621-aa45-0fb068308d2c",
@@ -12881,7 +13767,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
     },
     {
       "id": "palantir_373367a9-3160-49d8-b7af-2efec062fad1",
@@ -12896,13 +13782,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
       "postedAt": "2025-06-26T20:05:13.023Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_4d5a144e-87ea-45e2-a68c-3fad590629af",
@@ -12917,13 +13803,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af",
       "postedAt": "2025-06-26T19:54:49.498Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_b229baac-494b-4a0d-9a13-2e38806e06f3",
@@ -12938,13 +13824,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
       "postedAt": "2025-06-26T15:01:02.839Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_4abf26b4-795c-420a-bf22-1ab98db268b4",
@@ -12959,13 +13845,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4",
       "postedAt": "2025-06-26T01:01:09.277Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_0a838e66-1ab0-4fc4-b4d3-4671c0352278",
@@ -12980,13 +13866,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278",
       "postedAt": "2025-06-19T01:34:22.911Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "modal_5113f35e-988d-41bc-a899-3261a9454e40",
@@ -13026,7 +13912,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:39.081Z"
+      "scrapedAt": "2026-03-17T03:48:36.417Z"
     },
     {
       "id": "palantir_aadf59e6-80a5-49fd-93d3-58e8de2dc8c9",
@@ -13041,13 +13927,13 @@
       "team": "Engineering",
       "url": "https://jobs.lever.co/palantir/aadf59e6-80a5-49fd-93d3-58e8de2dc8c9",
       "postedAt": "2025-06-03T14:58:19.587Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "zoox_a5b426d5-845c-4d26-bca2-7a32e00882a2",
@@ -13062,13 +13948,13 @@
       "team": "Simulation",
       "url": "https://jobs.lever.co/zoox/a5b426d5-845c-4d26-bca2-7a32e00882a2",
       "postedAt": "2025-04-16T17:49:30.980Z",
-      "updatedAt": "2026-03-17T03:43:22.845Z",
+      "updatedAt": "2026-03-17T03:49:51.061Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:22.845Z"
+      "scrapedAt": "2026-03-17T03:49:51.061Z"
     },
     {
       "id": "ramp_0ea43bb5-201b-4626-ae19-1d7ae3a3193f",
@@ -13107,7 +13993,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "palantir_c0b60d64-1244-4270-9d55-14115c97c24b",
@@ -13122,13 +14008,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/c0b60d64-1244-4270-9d55-14115c97c24b",
       "postedAt": "2025-03-27T23:35:36.410Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_d33e0c31-ac7e-4f57-ba74-36f2df6ae2f5",
@@ -13143,13 +14029,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/d33e0c31-ac7e-4f57-ba74-36f2df6ae2f5",
       "postedAt": "2025-02-24T22:19:35.088Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_13f99633-43b5-4459-8e84-25073f257c18",
@@ -13164,13 +14050,13 @@
       "team": "Delta",
       "url": "https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18",
       "postedAt": "2025-02-07T19:57:42.841Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_1124402c-2088-40c6-b6aa-b9ef7777519b",
@@ -13185,13 +14071,13 @@
       "team": "Information Security",
       "url": "https://jobs.lever.co/palantir/1124402c-2088-40c6-b6aa-b9ef7777519b",
       "postedAt": "2025-01-29T21:51:08.756Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_cd2423c6-da68-430c-8be5-0ae7eea36497",
@@ -13206,13 +14092,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497",
       "postedAt": "2024-09-05T13:56:40.614Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
@@ -13227,13 +14113,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
       "postedAt": "2024-08-05T23:27:08.111Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "zoox_7c1a729e-88bd-4c9c-8d0f-7068258c9451",
@@ -13248,13 +14134,13 @@
       "team": "Simulation",
       "url": "https://jobs.lever.co/zoox/7c1a729e-88bd-4c9c-8d0f-7068258c9451",
       "postedAt": "2024-06-10T23:02:27.237Z",
-      "updatedAt": "2026-03-17T03:43:22.845Z",
+      "updatedAt": "2026-03-17T03:49:51.061Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:22.845Z"
+      "scrapedAt": "2026-03-17T03:49:51.061Z"
     },
     {
       "id": "palantir_636fc05c-d348-4a06-be51-597cb9e07488",
@@ -13269,13 +14155,13 @@
       "team": "Delta",
       "url": "https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488",
       "postedAt": "2024-03-22T20:44:35.560Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_ab7e3425-81d5-4705-a7b5-cd60c8a45cdb",
@@ -13290,13 +14176,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/ab7e3425-81d5-4705-a7b5-cd60c8a45cdb",
       "postedAt": "2024-03-11T21:04:42.166Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_6a82fd06-5754-46c2-8214-9ca4cd89fb9d",
@@ -13311,13 +14197,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/6a82fd06-5754-46c2-8214-9ca4cd89fb9d",
       "postedAt": "2024-03-05T18:34:47.259Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_71ed917e-850a-484b-9454-fa66bdf24540",
@@ -13332,13 +14218,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/71ed917e-850a-484b-9454-fa66bdf24540",
       "postedAt": "2024-02-23T19:19:45.252Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_fb2d3222-dbd8-4e03-8d39-47b820e9509c",
@@ -13353,13 +14239,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/fb2d3222-dbd8-4e03-8d39-47b820e9509c",
       "postedAt": "2024-02-20T17:22:27.920Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_2da4be12-bc7a-4950-87db-e9d68d955ff7",
@@ -13374,13 +14260,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/2da4be12-bc7a-4950-87db-e9d68d955ff7",
       "postedAt": "2024-02-17T00:49:42.056Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_b57f08e9-546c-4b9b-8d21-db0ebbc11363",
@@ -13395,13 +14281,13 @@
       "team": "Delta",
       "url": "https://jobs.lever.co/palantir/b57f08e9-546c-4b9b-8d21-db0ebbc11363",
       "postedAt": "2023-09-14T01:23:51.418Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "ramp_4e64ab86-4e30-403b-b1b9-41dc052570ce",
@@ -13458,7 +14344,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.472Z"
+      "scrapedAt": "2026-03-17T03:48:27.286Z"
     },
     {
       "id": "palantir_3c84af24-b7aa-483e-b2c3-e1d83494fe15",
@@ -13473,13 +14359,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/3c84af24-b7aa-483e-b2c3-e1d83494fe15",
       "postedAt": "2022-11-08T23:58:24.865Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_8f308f3e-43d2-49c9-accd-cc7af0f1565c",
@@ -13494,13 +14380,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/8f308f3e-43d2-49c9-accd-cc7af0f1565c",
       "postedAt": "2022-08-10T22:59:02.022Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_7d69cf8a-06fd-4f05-bd84-27149db29c4d",
@@ -13515,13 +14401,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
       "postedAt": "2022-06-30T21:19:00.945Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_78dbb616-cf3c-489c-9eb2-e6fc9bd9993a",
@@ -13536,13 +14422,13 @@
       "team": "Technical Operations",
       "url": "https://jobs.lever.co/palantir/78dbb616-cf3c-489c-9eb2-e6fc9bd9993a",
       "postedAt": "2022-06-08T17:41:45.620Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_c6404cbe-60eb-4977-afb5-6e3c97ed5283",
@@ -13557,13 +14443,13 @@
       "team": "Engineering",
       "url": "https://jobs.lever.co/palantir/c6404cbe-60eb-4977-afb5-6e3c97ed5283",
       "postedAt": "2021-11-16T22:59:35.959Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_94984771-0704-446c-88c6-91ce748f6d92",
@@ -13578,13 +14464,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92",
       "postedAt": "2021-07-01T20:24:57.701Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7",
@@ -13599,13 +14485,13 @@
       "team": "Delta",
       "url": "https://jobs.lever.co/palantir/e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7",
       "postedAt": "2020-06-02T19:49:49.658Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_f8df815c-6a38-4d57-b75f-c4262b9311b4",
@@ -13620,13 +14506,13 @@
       "team": "Information Security",
       "url": "https://jobs.lever.co/palantir/f8df815c-6a38-4d57-b75f-c4262b9311b4",
       "postedAt": "2018-08-07T21:54:09.170Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "palantir_dab396d4-2f14-4796-aac0-0d82883dccf0",
@@ -13641,15 +14527,15 @@
       "team": "Delta",
       "url": "https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0",
       "postedAt": "2014-01-23T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     }
   ],
-  "lastUpdated": "2026-03-17T03:44:04.945Z",
-  "totalCompanies": 50
+  "lastUpdated": "2026-03-17T03:55:59.635Z",
+  "totalCompanies": 86
 }

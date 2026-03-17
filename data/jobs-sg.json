@@ -1,6 +1,720 @@
 {
   "jobs": [
     {
+      "id": "jobspy_linkedin_e734135598ac",
+      "title": "Software Engineer, Generative AI & ML",
+      "company": "Apple",
+      "companySlug": "apple",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4368969634",
+      "postedAt": "2026-03-17T03:55:45.852Z",
+      "updatedAt": "2026-03-17T03:55:45.852Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:55:45.852Z"
+    },
+    {
+      "id": "jobspy_linkedin_c13dcb63b6dc",
+      "title": "Generative AI Engineer",
+      "company": "Evolution Singapore",
+      "companySlug": "evolution-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384243255",
+      "postedAt": "2026-03-17T03:55:45.852Z",
+      "updatedAt": "2026-03-17T03:55:45.852Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:55:45.852Z"
+    },
+    {
+      "id": "jobspy_linkedin_865245cc589a",
+      "title": "Applied AI, Software Engineer",
+      "company": "Salient Group",
+      "companySlug": "salient-group",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384975951",
+      "postedAt": "2026-03-17T03:55:45.852Z",
+      "updatedAt": "2026-03-17T03:55:45.852Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:55:45.852Z"
+    },
+    {
+      "id": "jobspy_linkedin_b3bcf4f4fd85",
+      "title": "Backend Engineer, Engineering Infra - DBaaS, DB Solution (2026 Graduate)",
+      "company": "Shopee",
+      "companySlug": "shopee",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4283852592",
+      "postedAt": "2026-03-17T03:54:51.259Z",
+      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:54:51.259Z"
+    },
+    {
+      "id": "jobspy_linkedin_39523d443085",
+      "title": "Machine Learning Engineer",
+      "company": "Apple",
+      "companySlug": "apple",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382218154",
+      "postedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_96fac69c250c",
+      "title": "Software Engineer (Data), Ai & Data Platforms",
+      "company": "Apple",
+      "companySlug": "apple",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4360082431",
+      "postedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_da4fb94a7acd",
+      "title": "Data Scientist I",
+      "company": "Seagate Technology",
+      "companySlug": "seagate-technology",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384026384",
+      "postedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "junior",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_0bb2723bc165",
+      "title": "Machine Learning Engineer(A83328A)",
+      "company": "Xiaomi Technology",
+      "companySlug": "xiaomi-technology",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4378839419",
+      "postedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_d1f9a527eb2d",
+      "title": "Machine Learning Engineer(A178330)",
+      "company": "Xiaomi Technology",
+      "companySlug": "xiaomi-technology",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4378845252",
+      "postedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_869fe383aa87",
+      "title": "Machine Learning Engineer",
+      "company": "TEKsystems",
+      "companySlug": "teksystems",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384046675",
+      "postedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_b067077d060f",
+      "title": "AI Engineer (Up to $7,000 | 2 Years Contract)",
+      "company": "BGC Group",
+      "companySlug": "bgc-group",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384996404",
+      "postedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_90bae4a1b1f2",
+      "title": "#EG AI Engineer",
+      "company": "NCS Group",
+      "companySlug": "ncs-group",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4386317259",
+      "postedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_6581248adda1",
+      "title": "Data Scientist Intern",
+      "company": "Razer Inc.",
+      "companySlug": "razer-inc",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4386397679",
+      "postedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_01ff5c103c09",
+      "title": "Data Scientist Graduate (Global LIVE Operation Intelligence) - 2026 Start (BS/MS)",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4304817933",
+      "postedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_f1cb8825d89c",
+      "title": "AI Research Engineer – Reinforcement Learning",
+      "company": "Gaming Company",
+      "companySlug": "gaming-company",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385634829",
+      "postedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_85b2c9a5f800",
+      "title": "Data Scientist",
+      "company": "Total eBiz Solutions",
+      "companySlug": "total-ebiz-solutions",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385209036",
+      "postedAt": "2026-03-17T03:53:41.614Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_bb6f19d1d830",
+      "title": "Software Engineer, Apple Online Store",
+      "company": "Apple",
+      "companySlug": "apple",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4360083767",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_4220e6ca31b1",
+      "title": "Software Developer #GeneralInternship",
+      "company": "Singtel",
+      "companySlug": "singtel",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4295076975",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_32d1ab3ba106",
+      "title": "Full Stack Engineer",
+      "company": "Tap Growth ai",
+      "companySlug": "tap-growth-ai",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385200177",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_f2cfb8425a07",
+      "title": "Full Stack Developer(WFH/Remote)",
+      "company": "Oneness Holdings",
+      "companySlug": "oneness-holdings",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4386322423",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_a1ef5f16688b",
+      "title": "Software Developer",
+      "company": "TEKsystems",
+      "companySlug": "teksystems",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374285060",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_1d276296cbb5",
+      "title": "Web Developer (.NET)",
+      "company": "Intuit Recruitment Pte Ltd",
+      "companySlug": "intuit-recruitment-pte-ltd",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385217512",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_af219bde243f",
+      "title": "Backend software Engineer-DBA",
+      "company": "Xiaomi Technology",
+      "companySlug": "xiaomi-technology",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4330112722",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_ecb6e0e13028",
+      "title": "Software Engineer, Singpass (Authentication)",
+      "company": "GovTech Singapore",
+      "companySlug": "govtech-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4233683700",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_a855fd40b735",
+      "title": "Software Developer (C++/ Crypto Trading)",
+      "company": "Hyphen Connect",
+      "companySlug": "hyphen-connect",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4266886553",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_154e5d3217d7",
+      "title": "Software Engineer (Trajectory) - Remote",
+      "company": "Taskify AI",
+      "companySlug": "taskify-ai",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4386383323",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_064407c0a6b9",
+      "title": "Fullstack Developer (Java, Angular)",
+      "company": "Crédit Agricole CIB",
+      "companySlug": "cr-dit-agricole-cib",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385207356",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_235adb88e3c2",
+      "title": "Software Engineer (Remote)",
+      "company": "Taskify AI",
+      "companySlug": "taskify-ai",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4386383088",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_e2a865bf5cee",
+      "title": "Full Stack Engineer",
+      "company": "CareCone Group",
+      "companySlug": "carecone-group",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4386097453",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_f707c3b2d900",
+      "title": "FrontEnd Software Engineer (Remote)",
+      "company": "Taskify AI",
+      "companySlug": "taskify-ai",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4386399209",
+      "postedAt": "2026-03-17T03:52:38.538Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_66685db33875",
+      "title": "Junior Web Developer – Remote",
+      "company": "Twine",
+      "companySlug": "twine",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384042027",
+      "postedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_30f669c78b6d",
+      "title": "COMPUTER SOFTWARE ENGINEER",
+      "company": "BIPO",
+      "companySlug": "bipo",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384098608",
+      "postedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_d91b9855d472",
+      "title": "Software Engineer, Payment Systems",
+      "company": "Zig by ComfortDelGro",
+      "companySlug": "zig-by-comfortdelgro",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384999378",
+      "postedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_fde5b0ad657b",
+      "title": "Software Engineer, Money as a Service",
+      "company": "Stripe",
+      "companySlug": "stripe",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4365258486",
+      "postedAt": "2026-03-17T03:51:41.082Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
       "id": "stripe_7567506",
       "title": "Engineering Manager, Payments",
       "company": "Stripe",
@@ -19,7 +733,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7176977",
@@ -40,7 +754,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7206401",
@@ -61,28 +775,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
-    },
-    {
-      "id": "stripe_7555999",
-      "title": "Software Engineer, Money as a Service",
-      "company": "Stripe",
-      "companySlug": "stripe",
-      "location": "Singapore",
-      "locations": [
-        "Singapore"
-      ],
-      "department": "8528 FSB Risk and Capital Markets",
-      "team": null,
-      "url": "https://stripe.com/jobs/search?gh_jid=7555999",
-      "postedAt": "2026-03-16T15:49:36-04:00",
-      "updatedAt": "2026-03-16T15:49:36-04:00",
-      "isRemote": false,
-      "experienceLevel": "unknown",
-      "category": "swe",
-      "h1bSponsorship": "confirmed",
-      "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "stripe_7529787",
@@ -103,7 +796,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:26.633Z"
+      "scrapedAt": "2026-03-17T03:48:24.367Z"
     },
     {
       "id": "jobspy_indeed_2f3f4da0b130",
@@ -118,13 +811,13 @@
       "team": null,
       "url": "http://sg.indeed.com/job/data-scientist-ai-ac54fa8083b0258a",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:50.153Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
     },
     {
       "id": "jobspy_indeed_f93c4ea6fd4a",
@@ -139,13 +832,13 @@
       "team": null,
       "url": "http://sg.indeed.com/job/algo-java-developer-8482d5ea529df519",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:50.153Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
     },
     {
       "id": "jobspy_indeed_c94d2fdfa551",
@@ -160,13 +853,139 @@
       "team": null,
       "url": "https://apply.workable.com/j/A702D962CF",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:50.153Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_8b922faadf18",
+      "title": "Development Engineer (Software Development – Frontend)",
+      "company": "Nityo Infotech",
+      "companySlug": "nityo-infotech",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384978009",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_d37d67cb9b51",
+      "title": "Software Engineer (C++)",
+      "company": "Ambition",
+      "companySlug": "ambition",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384000622",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_f06f6916610c",
+      "title": "Full Stack Developer",
+      "company": "Crédit Agricole CIB",
+      "companySlug": "cr-dit-agricole-cib",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382415349",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_751118467620",
+      "title": "Full Stack Developer",
+      "company": "Nityo Infotech",
+      "companySlug": "nityo-infotech",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384968294",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_e2eb0481b5b3",
+      "title": "Software Engineer (Atlassian Platform)",
+      "company": "HCLTech",
+      "companySlug": "hcltech",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384966747",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_f9b25821b36d",
+      "title": "Software Engineer",
+      "company": "ASMPT Ltd",
+      "companySlug": "asmpt-ltd",
+      "location": "Yishun, North Region, Singapore",
+      "locations": [
+        "Yishun, North Region, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384973269",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
     },
     {
       "id": "jobspy_indeed_1fd6b5d812bc",
@@ -181,13 +1000,13 @@
       "team": null,
       "url": "https://www.ncs.co/careers/job-details/?jobSource=sm&jobId=6000000000935276",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:55.142Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:55.142Z"
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
     },
     {
       "id": "jobspy_indeed_1d4de6627166",
@@ -202,13 +1021,13 @@
       "team": null,
       "url": "https://apply.workable.com/j/7A8F00028A",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:55.142Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:55.142Z"
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
     },
     {
       "id": "jobspy_indeed_02926a521901",
@@ -223,13 +1042,55 @@
       "team": null,
       "url": "https://careers.skyworksinc.com/job/Singapore-Systems-Engineer-2-04/1373479600/?feedId=177100&utm_source=Indeed&utm_campaign=Skyworks_Indeed",
       "postedAt": "2026-03-16T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:55.142Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:55.142Z"
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_6de408e36c5e",
+      "title": "AI Engineer (Agent)",
+      "company": "Sony Electronics Singapore",
+      "companySlug": "sony-electronics-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384978033",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_0f7fe4348413",
+      "title": "Site Reliability Engineer (AI Platform)",
+      "company": "Manpower Singapore",
+      "companySlug": "manpower-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4386084540",
+      "postedAt": "2026-03-16T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
     },
     {
       "id": "jobspy_indeed_bb51de2270d8",
@@ -244,13 +1105,370 @@
       "team": null,
       "url": "https://jobs.exxonmobil.com/ExxonMobil/job/Singapore-Trading-Desk-Full-Stack-Developer-01/1356090100/?feedId=204100&utm_source=Indeed&utm_campaign=XOM_Indeed",
       "postedAt": "2026-03-15T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:50.153Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_01cbe52cb837",
+      "title": "Developer (.NET),Technology Consulting _Digital Engineering",
+      "company": "EY",
+      "companySlug": "ey",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4245409317",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_6563de107685",
+      "title": "Software Engineer - Python",
+      "company": "Hudson River Trading",
+      "companySlug": "hudson-river-trading",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4334409249",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_656567f100ff",
+      "title": "Software Engineer",
+      "company": "Singtel",
+      "companySlug": "singtel",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4315372015",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_39d31bdd1352",
+      "title": "Software Developer",
+      "company": "TG Singapore",
+      "companySlug": "tg-singapore",
+      "location": "Central Singapore Community Development Council, Singapore",
+      "locations": [
+        "Central Singapore Community Development Council, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384934377",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_0c5d18ffad57",
+      "title": "Software Engineer Traineeship [GRIT@Gov]",
+      "company": "The Digital and Intelligence Service (DIS)",
+      "companySlug": "the-digital-and-intelligence-service-dis",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4376061055",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_52fe0db8e9ec",
+      "title": "Machine Learning Engineer (Risk)",
+      "company": "SHIELD",
+      "companySlug": "shield",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/3992961031",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_5773e1e4ebd1",
+      "title": "Data Scientist (Computer Vision), AI Practice",
+      "company": "GovTech Singapore",
+      "companySlug": "govtech-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4182761050",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_1dbbfb2d1c4f",
+      "title": "Data Scientist - DCC, Data Acquisition",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384948559",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_2a3233539e4b",
+      "title": "Agentic AI Developer, AI & Data, Technology Consulting",
+      "company": "EY",
+      "companySlug": "ey",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4184156975",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_9edb6cfbec9a",
+      "title": "Machine Learning Engineer Intern (TikTok Shop Global E-Commerce, Search) - 2026 Start (BS/MS)",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4304825814",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_2a32717a1e90",
+      "title": "Datacenter Commissioning Engineer - Infrastructure Engineering",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384949514",
+      "postedAt": "2026-03-15T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:54:51.259Z"
+    },
+    {
+      "id": "jobspy_linkedin_28a1381c3a40",
+      "title": "Software Engineer",
+      "company": "Autodesk",
+      "companySlug": "autodesk",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374399283",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_088cd6c6e935",
+      "title": "Website Developer - WordPress",
+      "company": "Twine",
+      "companySlug": "twine",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4373498114",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_439b10ae428b",
+      "title": "Engineer / Lead Engineer - AI Engineering, AI Products",
+      "company": "HTX (Home Team Science & Technology Agency)",
+      "companySlug": "htx-home-team-science-technology-agency",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4070735187",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_194dcb876e40",
+      "title": "AI Engineer",
+      "company": "Virtuos",
+      "companySlug": "virtuos",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4337417005",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_ecb987838e6e",
+      "title": "AI Engineer, LLM / LMM Deployment, Q Team CoE",
+      "company": "HTX (Home Team Science & Technology Agency)",
+      "companySlug": "htx-home-team-science-technology-agency",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4361369907",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_126f135111d6",
+      "title": "AI Platform Engineer- #AIDA",
+      "company": "Singtel",
+      "companySlug": "singtel",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4304683431",
+      "postedAt": "2026-03-14T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
     },
     {
       "id": "coupang_7374703",
@@ -272,7 +1490,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:36.113Z"
+      "scrapedAt": "2026-03-17T03:50:02.588Z"
     },
     {
       "id": "coupang_7374701",
@@ -294,7 +1512,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:36.113Z"
+      "scrapedAt": "2026-03-17T03:50:02.588Z"
     },
     {
       "id": "jobspy_indeed_e594a778871e",
@@ -309,13 +1527,13 @@
       "team": null,
       "url": "https://careers.google.com/jobs/results/143301797996307142-software-engineer/",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:50.153Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
     },
     {
       "id": "jobspy_indeed_38a3797b362f",
@@ -330,13 +1548,13 @@
       "team": null,
       "url": "https://careers.google.com/jobs/results/85990853910110918-software-engineer/",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:50.153Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
     },
     {
       "id": "jobspy_indeed_1da5bf638a77",
@@ -351,13 +1569,13 @@
       "team": null,
       "url": "https://grnh.se/a0c6j5pn7us",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:50.153Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
     },
     {
       "id": "jobspy_indeed_b2824aa560d7",
@@ -372,13 +1590,13 @@
       "team": null,
       "url": "https://apply.workable.com/j/CD231D9645",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:50.153Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
     },
     {
       "id": "jobspy_indeed_715e6dab8a66",
@@ -393,13 +1611,517 @@
       "team": null,
       "url": "https://cloudera.wd5.myworkdayjobs.com/en-US/External_Career/job/Singapore--Singapore/AI-Solutions-Engineer_260465",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:50.153Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:50.153Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_indeed_34cff9186180",
+      "title": "Software Engineer",
+      "company": "FUKU",
+      "companySlug": "fuku",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://apply.workable.com/j/D26FB2810B",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_indeed_5f387eb8d8e4",
+      "title": "R&D Intern - Software Engineering",
+      "company": "Rapsodo",
+      "companySlug": "rapsodo",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://apply.workable.com/j/156B6831F7",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_d0fc86b34e64",
+      "title": "Frontend Developer",
+      "company": "Capgemini",
+      "companySlug": "capgemini",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4319454236",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_9a55b479c357",
+      "title": "Engineer, Frontend",
+      "company": "Sea",
+      "companySlug": "sea",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4344781215",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_231f5a8a4090",
+      "title": "Fullstack Java developer",
+      "company": "Capgemini",
+      "companySlug": "capgemini",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4267927857",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_979c7bd8ba28",
+      "title": "Java Developer",
+      "company": "Capgemini",
+      "companySlug": "capgemini",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4296094786",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_3ec51ea56fcf",
+      "title": "Software Engineer Traineeship [GRIT@Gov]",
+      "company": "Ministry of Defence of Singapore",
+      "companySlug": "ministry-of-defence-of-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383078297",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_eb0d65111c32",
+      "title": "Software Engineer (AI) Traineeship [GRIT@Gov]",
+      "company": "GovTech Singapore",
+      "companySlug": "govtech-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385192830",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_9eb6a5fd8164",
+      "title": "Software Engineer",
+      "company": "Thunes",
+      "companySlug": "thunes",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4367200422",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_a6981855279f",
+      "title": "Software Engineer",
+      "company": "Boxy",
+      "companySlug": "boxy",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384235056",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_a692adfd03ea",
+      "title": "Software Developer",
+      "company": "AvePoint",
+      "companySlug": "avepoint",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384222185",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_ea2b854e145b",
+      "title": "Full Stack Web Developer, APAC",
+      "company": "Zurich Insurance",
+      "companySlug": "zurich-insurance",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4367208316",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_d50e64a44abb",
+      "title": "C++ Software Engineer",
+      "company": "Citadel Securities",
+      "companySlug": "citadel-securities",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4281726042",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_a0457f85e1b4",
+      "title": "Software Engineer (.NET, Java, Node.js)",
+      "company": "TG Singapore",
+      "companySlug": "tg-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384239317",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_ff901305a2a8",
+      "title": "Android Software Engineer",
+      "company": "A1",
+      "companySlug": "a1",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383148200",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_10334879aef4",
+      "title": "Software Engineer / System Analyst",
+      "company": "Omega 365 Singapore",
+      "companySlug": "omega-365-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4385182514",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_3992e453c931",
+      "title": "Full Stack Developer (Java+Javascript/Typescript)",
+      "company": "Thoughtworks",
+      "companySlug": "thoughtworks",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384222549",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_770fc524a392",
+      "title": "Full Stack Engineer",
+      "company": "Ambition",
+      "companySlug": "ambition",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383080783",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_63230b0393e5",
+      "title": "Software Engineer, Desktop",
+      "company": "A1",
+      "companySlug": "a1",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383144249",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_b1fd531a475d",
+      "title": "Full Stack Engineer (Gen AI)",
+      "company": "Capgemini",
+      "companySlug": "capgemini",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384201856",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_fa0fbf8db7b3",
+      "title": "Full Stack Engineer",
+      "company": "AvePoint",
+      "companySlug": "avepoint",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384224078",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_1ae62b4bc38a",
+      "title": "Full-Stack Engineer Intern (Mobile Experience Platform) - 2026 Start (BS/MS)",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4330953804",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_a735bd83addc",
+      "title": "Software Engineer (Teradyne, Singapore)",
+      "company": "Teradyne",
+      "companySlug": "teradyne",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383082296",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_2b9cbd1e1223",
+      "title": "Fullstack Engineer",
+      "company": "Paradex",
+      "companySlug": "paradex",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4292809871",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
     },
     {
       "id": "jobspy_indeed_fa66fb3b4304",
@@ -414,13 +2136,13 @@
       "team": null,
       "url": "https://joinbytedance.com/search/7616680923447527733",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:57.746Z"
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
     },
     {
       "id": "jobspy_indeed_8983b731cd4b",
@@ -435,13 +2157,13 @@
       "team": null,
       "url": "https://joinbytedance.com/search/7616682027854088501",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:57.746Z"
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
     },
     {
       "id": "jobspy_indeed_ef3470da41bd",
@@ -456,13 +2178,13 @@
       "team": null,
       "url": "https://lifeattiktok.com/search/7616682163138005253",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:57.746Z"
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
     },
     {
       "id": "jobspy_indeed_96d09673c5eb",
@@ -477,13 +2199,13 @@
       "team": null,
       "url": "https://www.internsg.com/job/varsity-holdings-openclaw-multi-agent-systems-engineer-intern-ai-agents-openclaw/?f_pg=4",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:57.746Z"
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
     },
     {
       "id": "jobspy_indeed_f06b8c7857a6",
@@ -498,13 +2220,307 @@
       "team": null,
       "url": "https://grnh.se/f8tce8ut7us",
       "postedAt": "2026-03-13T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:44:00.165Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:44:00.165Z"
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_6dd8d2337f3e",
+      "title": "Data Scientist",
+      "company": "HCLTech",
+      "companySlug": "hcltech",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384217887",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_91b307463823",
+      "title": "AI Research Engineer Intern",
+      "company": "Tencent",
+      "companySlug": "tencent",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384247411",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_21447d6612c6",
+      "title": "AI Research Engineer",
+      "company": "Evolution Singapore",
+      "companySlug": "evolution-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384231592",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_4cfd93b1c179",
+      "title": "AI Developer",
+      "company": "Manulife",
+      "companySlug": "manulife",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4332200228",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_25dbd07a2777",
+      "title": "R&D AI Software Engineer",
+      "company": "NEC Asia Pacific Pte Ltd",
+      "companySlug": "nec-asia-pacific-pte-ltd",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4371815207",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_b5f453c7cc96",
+      "title": "Machine Learning Ops Engineer, Global SRE",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384277781",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_a1b2448104eb",
+      "title": "Data Scientist, APAC",
+      "company": "Zurich Insurance",
+      "companySlug": "zurich-insurance",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4367202466",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_992eaf170144",
+      "title": "Data Scientist",
+      "company": "RAPSYS TECHNOLOGIES PTE LTD",
+      "companySlug": "rapsys-technologies-pte-ltd",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384269268",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_7000ef5f5822",
+      "title": "LLM Data Scientist/Algorithm Engineer",
+      "company": "Binance",
+      "companySlug": "binance",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4304878015",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_2f59414a0456",
+      "title": "Backend Engineer, Engineering Infra - AZPE (2026 Graduate)",
+      "company": "Shopee",
+      "companySlug": "shopee",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4293502179",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:54:51.259Z"
+    },
+    {
+      "id": "jobspy_linkedin_6f4b95da1cda",
+      "title": "Data Engineer, APAC",
+      "company": "Zurich Insurance",
+      "companySlug": "zurich-insurance",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4367203479",
+      "postedAt": "2026-03-13T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:54:51.259Z"
+    },
+    {
+      "id": "jobspy_indeed_388a3a4de732",
+      "title": "Site Reliability Engineer",
+      "company": "LSEG (London Stock Exchange Group)",
+      "companySlug": "lseg-london-stock-exchange-group",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/SGP-Singapore-1-Raffles-Quay/Site-Reliability-Engineer_R0116241-1",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "other",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_indeed_ec44fd661a8c",
+      "title": "Software Engineer, Transit and eMoney, Google Wallet",
+      "company": "Google",
+      "companySlug": "google",
+      "location": "Singapore, SG",
+      "locations": [
+        "Singapore, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://careers.google.com/jobs/results/137990985035457222-software-engineer/",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_indeed_3c05c94eaee9",
+      "title": "Software Engineer, Google Wallet, Device Based Experiences",
+      "company": "Google",
+      "companySlug": "google",
+      "location": "Singapore, SG",
+      "locations": [
+        "Singapore, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://careers.google.com/jobs/results/76570959837831878-software-engineer/",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
     },
     {
       "id": "jobspy_indeed_6d9ec0f01a39",
@@ -519,34 +2535,34 @@
       "team": null,
       "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000114328642-junior-backend-software-engineer",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:52.749Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:52.749Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
     },
     {
-      "id": "jobspy_indeed_e9b2d2f27b19",
-      "title": "Machine Learning Engineer, Business Integrity",
-      "company": "TikTok",
-      "companySlug": "tiktok",
+      "id": "jobspy_indeed_a816c51ca955",
+      "title": "Full Stack Developer (.NET / React)",
+      "company": "CMC APAC",
+      "companySlug": "cmc-apac",
       "location": "Singapore, S00, SG",
       "locations": [
         "Singapore, S00, SG"
       ],
       "department": null,
       "team": null,
-      "url": "https://lifeattiktok.com/search/7616171061901805829",
+      "url": "http://sg.indeed.com/job/full-stack-developer-net-react-301796657aa3119c",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:44:00.165Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "unknown",
-      "category": "ai_ml",
+      "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:44:00.165Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
     },
     {
       "id": "jobspy_indeed_a2db43bcb4c5",
@@ -561,13 +2577,727 @@
       "team": null,
       "url": "https://grnh.se/ku1scnme7us",
       "postedAt": "2026-03-12T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:44:00.165Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:44:00.165Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_b958ec53671d",
+      "title": "Junior Backend Software Engineer",
+      "company": "foodpanda",
+      "companySlug": "foodpanda",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383549254",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_39f27e5f3d68",
+      "title": "T&T Software Developer (Outsystems)",
+      "company": "Deloitte",
+      "companySlug": "deloitte",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4304021557",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_8a9ef6f7bc80",
+      "title": "Software Engineer Intern (Summer Internship)",
+      "company": "WorldQuant",
+      "companySlug": "worldquant",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4366968898",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_50a264174754",
+      "title": "Software Developer - Up to 270,000 SGD base + Bonus + Benefits",
+      "company": "Hunter Bond",
+      "companySlug": "hunter-bond",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383030604",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_0567e77d1291",
+      "title": "Full-Stack Software Engineer",
+      "company": "Manulife",
+      "companySlug": "manulife",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4324316993",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_d435fa80d52f",
+      "title": "Software Engineer, AISS",
+      "company": "IMDA",
+      "companySlug": "imda",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/3902508733",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_ad98d9f93b7a",
+      "title": "Software Engineer (GovTech)",
+      "company": "AvePoint",
+      "companySlug": "avepoint",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4196532835",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_6be5cea8ad2e",
+      "title": "Frontend Engineer - Payment Tech",
+      "company": "Binance",
+      "companySlug": "binance",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4335721539",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_4a6f94ad5fbb",
+      "title": "Backend Software Engineer - TikTok Shop (Europe)",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383956941",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_e81a934d9c2a",
+      "title": "Backend Software Engineer, TikTok Shop (Europe)",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383973407",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_9941e75e95fc",
+      "title": "Software Engineer | High-Frequency Trading",
+      "company": "Fionics",
+      "companySlug": "fionics",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383911870",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_f11206964e05",
+      "title": "Software Engineer (Digital Banking & Payment Platform)",
+      "company": "Thales",
+      "companySlug": "thales",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4358731517",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_2c881004d4d4",
+      "title": "Application Support Developer (Java/C#)",
+      "company": "Manpower Singapore",
+      "companySlug": "manpower-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384545548",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_ca353ff4162a",
+      "title": "Software Engineer (Database)",
+      "company": "Crédit Agricole CIB",
+      "companySlug": "cr-dit-agricole-cib",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383540311",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_991beacd1f21",
+      "title": "Full Stack Engineer",
+      "company": "Nextbeat Singapore Pte.Ltd.",
+      "companySlug": "nextbeat-singapore-pte-ltd",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4370781356",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_d9f5fc39ea3c",
+      "title": "Software Engineer, Ads Delivery",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383972424",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_03061f5283f8",
+      "title": "Software Engineer (Compliance) - Global Payment",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383529278",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_1cb1c021499e",
+      "title": "AI Software Engineer",
+      "company": "Kerry Consulting",
+      "companySlug": "kerry-consulting",
+      "location": "Singapore River, Central Singapore Community Development Council, Singapore",
+      "locations": [
+        "Singapore River, Central Singapore Community Development Council, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382741632",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_a48d428c4b99",
+      "title": "Full stack developer",
+      "company": "Tata Consultancy Services",
+      "companySlug": "tata-consultancy-services",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383542128",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_fe33422754ed",
+      "title": "Full Stack Developer",
+      "company": "MediaTek",
+      "companySlug": "mediatek",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383502333",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_356f4383b5de",
+      "title": "Machine Learning Engineer Graduate (Global E-Commerce, Search) - 2026 Start (BS/MS)",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374779200",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_66441e88eb80",
+      "title": "Machine Learning Engineer Graduate (Global E-Commerce, Recommendation Alliance) - 2026 Start (BS/MS)",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374779206",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_6ce0de8cda5a",
+      "title": "Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (BS/MS)",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374776288",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_f17f3e118c8b",
+      "title": "Machine Learning Engineer Graduate (Global E-Commerce, Conversational AI) - 2026 Start (BS/MS)",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374780078",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_52bb07938f96",
+      "title": "Machine Learning Engineer, Business Integrity",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383520539",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_a8c06011791b",
+      "title": "Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2026 Start (BS/MS)",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374760793",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_a8519a5646a3",
+      "title": "Machine Learning Engineer Graduate (Global E-Commerce, Platform Governance) - 2026 Start (BS/MS)",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374760788",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_d4debbfb8da4",
+      "title": "AI Platform Engineer (Azure Digital Workbench Developer)",
+      "company": "Berge Bulk",
+      "companySlug": "berge-bulk",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383515957",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_c01d67939f2a",
+      "title": "Machine Learning Engineer Graduate (Global E-Commerce, Search) - 2026 Start (PhD)",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374764664",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_a20d682ec62f",
+      "title": "Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374762733",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_7bef37414a9c",
+      "title": "Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2026 Start (PhD)",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4374779199",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_b624e0cf9b36",
+      "title": "Generative AI Engineer",
+      "company": "Total eBiz Solutions",
+      "companySlug": "total-ebiz-solutions",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383905380",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_7a5e82fdc733",
+      "title": "[Keppel Internship Programme 2026] Intern, Data Engineering/ AI Engineering Office (June - Aug/Dec 2026)",
+      "company": "Keppel Ltd.",
+      "companySlug": "keppel-ltd",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4344371846",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:54:51.259Z"
+    },
+    {
+      "id": "jobspy_linkedin_7f64f4877d01",
+      "title": "Assistant Engineering Manager/Engineering Manager (Waste Regulation Department)",
+      "company": "National Environment Agency",
+      "companySlug": "national-environment-agency",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384870314",
+      "postedAt": "2026-03-12T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:54:51.259Z"
     },
     {
       "id": "govtechsg_4000975201",
@@ -588,7 +3318,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:32.139Z"
+      "scrapedAt": "2026-03-17T03:49:59.191Z"
     },
     {
       "id": "govtechsg_4000976201",
@@ -609,28 +3339,7 @@
       "category": "swe",
       "h1bSponsorship": "likely",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:43:32.139Z"
-    },
-    {
-      "id": "jobspy_indeed_d93aee6bbd12",
-      "title": "AI Software Engineer Intern (Full-Stack)",
-      "company": "Indexync",
-      "companySlug": "indexync",
-      "location": "Singapore, SG",
-      "locations": [
-        "Singapore, SG"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://www.internsg.com/job/indexync-ai-software-engineer-intern-full-stack/?f_pg=7",
-      "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:52.749Z",
-      "isRemote": false,
-      "experienceLevel": "intern",
-      "category": "ai_ml",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:52.749Z"
+      "scrapedAt": "2026-03-17T03:49:59.191Z"
     },
     {
       "id": "jobspy_indeed_3a6f25d5b417",
@@ -645,13 +3354,622 @@
       "team": null,
       "url": "https://careers.google.com/jobs/results/81602106003202758-software-engineer/",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "swe",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:57.746Z"
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_e3171dbad362",
+      "title": "Junior Engineer, Frontend",
+      "company": "Sea",
+      "companySlug": "sea",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4358394668",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_d689f827226b",
+      "title": "Software Engineer",
+      "company": "SEPHORA",
+      "companySlug": "sephora",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384190005",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_63b3bcb70d54",
+      "title": "Software Engineer",
+      "company": "Vertex Holdings",
+      "companySlug": "vertex-holdings",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382862476",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_3fddbee95a23",
+      "title": "Software engineer",
+      "company": "International Business Consulting",
+      "companySlug": "international-business-consulting",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384139292",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_d99af58d7f72",
+      "title": "Software Engineer (.Net Core)",
+      "company": "NCS Group",
+      "companySlug": "ncs-group",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384140088",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_880a06b2d911",
+      "title": "Software Engineer (No Experience Needed)",
+      "company": "Red Alpha Cybersecurity",
+      "companySlug": "red-alpha-cybersecurity",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382547952",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_9200e1d82d30",
+      "title": "Java Software Engineer",
+      "company": "Aquariux Fintech",
+      "companySlug": "aquariux-fintech",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384150108",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_da0df0e7a8f0",
+      "title": "Python Web Developer",
+      "company": "Bonhill Partners",
+      "companySlug": "bonhill-partners",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384146271",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_1d57d410c59e",
+      "title": "Software Engineer, Agentic Applications",
+      "company": "Simular",
+      "companySlug": "simular",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4315914138",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_7e0912829f85",
+      "title": "Software Engineer (Backend Java)",
+      "company": "Equinix",
+      "companySlug": "equinix",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4371977136",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_09273a942a65",
+      "title": "Software Engineer Intern, Cloud Apps",
+      "company": "Motional",
+      "companySlug": "motional",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4356196880",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_indeed_d93aee6bbd12",
+      "title": "AI Software Engineer Intern (Full-Stack)",
+      "company": "Indexync",
+      "companySlug": "indexync",
+      "location": "Singapore, SG",
+      "locations": [
+        "Singapore, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.internsg.com/job/indexync-ai-software-engineer-intern-full-stack/?f_pg=7",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_25577446cc0f",
+      "title": "Software Engineer (SRE - Platform Services) Intern (Infrastructure Engineering), 2026 Start (BS/MS)",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4303525496",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_9e3440a68af6",
+      "title": "Full Stack Developer",
+      "company": "UST",
+      "companySlug": "ust",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383227939",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_7739c11f9c69",
+      "title": "Software Engineer - Reyal",
+      "company": "SGInnovate",
+      "companySlug": "sginnovate",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382861384",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_50908445062f",
+      "title": "Java Full stack developer",
+      "company": "Avensys Consulting",
+      "companySlug": "avensys-consulting",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4384122077",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_a128608d82a2",
+      "title": "Software Engineer, Data Analytics",
+      "company": "ST Engineering",
+      "companySlug": "st-engineering",
+      "location": "Seletar, North East Community Development Council, Singapore",
+      "locations": [
+        "Seletar, North East Community Development Council, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4371361667",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_9dd46ee51415",
+      "title": "Data & AI Engineer (Python)",
+      "company": "ScienTec Consulting Pte. Ltd.",
+      "companySlug": "scientec-consulting-pte-ltd",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382881566",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_d2185ca66d7b",
+      "title": "AI/ML Engineer",
+      "company": "Salient Group",
+      "companySlug": "salient-group",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382828859",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_4bc3d2e5b2e0",
+      "title": "Applied AI Engineer",
+      "company": "Gate",
+      "companySlug": "gate",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383881717",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_74a4efea6a17",
+      "title": "Machine Learning Engineer (User Growth) - Global Payment - Singapore",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382889158",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_12e462c2aeb3",
+      "title": "1.84 Robotics AI Engineer",
+      "company": "FieldAI",
+      "companySlug": "fieldai",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383895775",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_caf226b1089d",
+      "title": "Data Scientist - AI Enablement Team",
+      "company": "Balyasny Asset Management L.P.",
+      "companySlug": "balyasny-asset-management-l-p",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4319897698",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_ee9fba8473b5",
+      "title": "Machine Learning Engineer - TikTok BRIC Live Integrity - Singapore",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383244727",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_17506eae094e",
+      "title": "Research Engineer / AI Engineer",
+      "company": "Vega Solutions",
+      "companySlug": "vega-solutions",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382816796",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_7172a3eccd19",
+      "title": "Machine Learning Engineer Graduate (Trust and Safety Platform)- 2026 Start (BS/MS)",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4302197949",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_17f75dc5f547",
+      "title": "Data Scientist – Applied AI & Machine Learning",
+      "company": "UBS",
+      "companySlug": "ubs",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382868055",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_8357429511e4",
+      "title": "Big Data Engineer Graduate (Application Computing, Data + AI) - 2026 Start (BS/MS)",
+      "company": "ByteDance",
+      "companySlug": "bytedance",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4373993368",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_495749d2034b",
+      "title": "Junior Frontend DevOps Engineer (Artificial Intelligence)",
+      "company": "Binance",
+      "companySlug": "binance",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4303185061",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
     },
     {
       "id": "jobspy_indeed_18e57a37a935",
@@ -666,13 +3984,517 @@
       "team": null,
       "url": "https://apply.workable.com/j/C42CB85AD2",
       "postedAt": "2026-03-11T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "updatedAt": "2026-03-17T03:54:43.712Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:57.746Z"
+      "scrapedAt": "2026-03-17T03:54:43.712Z"
+    },
+    {
+      "id": "jobspy_linkedin_e8e40c8038d9",
+      "title": "Engineering Specialist (Front End & Backend Maintenance)",
+      "company": "Seagate Technology",
+      "companySlug": "seagate-technology",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382522895",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:54:51.259Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:54:51.259Z"
+    },
+    {
+      "id": "jobspy_indeed_5f6f7f5cc93a",
+      "title": "AI Engineer II",
+      "company": "Airwallex",
+      "companySlug": "airwallex",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://jobs.ashbyhq.com/airwallex/0af57e4e-7a5a-4e19-8a66-65ed1b61ac10?utm_source=GVJrAklxyn",
+      "postedAt": "2026-03-11T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:55:45.852Z",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:55:45.852Z"
+    },
+    {
+      "id": "jobspy_linkedin_6f5c51821d7d",
+      "title": "Software Engineer, University Graduate",
+      "company": "Google",
+      "companySlug": "google",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4365589164",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_48da0a4c7d4d",
+      "title": "Fresh Graduate Software Engineer",
+      "company": "Capgemini",
+      "companySlug": "capgemini",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4376703346",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_b4ac6f29cd3b",
+      "title": "Frontend Software Engineer Graduate (Global Live Platform) - 2026 Start (BS/MS)",
+      "company": "TikTok",
+      "companySlug": "tiktok",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4323493990",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_4fcb26767960",
+      "title": "Software Engineer (Java) - One-Day Offer",
+      "company": "Revolut",
+      "companySlug": "revolut",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382458180",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_9b527998044d",
+      "title": "Software Engineer, Hybrid Connectivity, Google Cloud",
+      "company": "Google",
+      "companySlug": "google",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382436125",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_487d7be02c66",
+      "title": "Software Engineer Intern, AI/LLM Initiative",
+      "company": "WorldQuant",
+      "companySlug": "worldquant",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4338820743",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_1bd4381ef3dc",
+      "title": "Software Engineer",
+      "company": "Crédit Agricole CIB",
+      "companySlug": "cr-dit-agricole-cib",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383471357",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_96a495fb0e7f",
+      "title": "Software Engineer (NodeJs & React Js)",
+      "company": "Beyondsoft Singapore",
+      "companySlug": "beyondsoft-singapore",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4314263096",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_087e8280b04c",
+      "title": "AI Developer",
+      "company": "Seatrium",
+      "companySlug": "seatrium",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4282102214",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_c03b714cb824",
+      "title": "Freelance Web Developer – Luxury Ecommerce",
+      "company": "Twine",
+      "companySlug": "twine",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4364737221",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_3861dce4092f",
+      "title": "Software Engineer, Global Payment Systems (Intern)",
+      "company": "Tencent",
+      "companySlug": "tencent",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382285815",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_68b17081d1be",
+      "title": "Backend Software Engineer",
+      "company": "Nas.io",
+      "companySlug": "nas-io",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4372520303",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:51:41.082Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:51:41.082Z"
+    },
+    {
+      "id": "jobspy_linkedin_918463b9dabe",
+      "title": "Full Stack Developer Intern",
+      "company": "Seagate Technology",
+      "companySlug": "seagate-technology",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4377357655",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_e273306221cb",
+      "title": "Full Stack Engineer (Python/ React)",
+      "company": "Ambition",
+      "companySlug": "ambition",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4375503055",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_b31481303daf",
+      "title": "Full Stack Developer",
+      "company": "Capgemini",
+      "companySlug": "capgemini",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382935948",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_51d7e69af599",
+      "title": "Software Engineer (EVM)",
+      "company": "Hyphen Connect",
+      "companySlug": "hyphen-connect",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382408933",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:52:38.538Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:52:38.538Z"
+    },
+    {
+      "id": "jobspy_linkedin_14f19a6fe30c",
+      "title": "Machine Learning Engineer",
+      "company": "OCBC",
+      "companySlug": "ocbc",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4341709051",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_ce6a6d311614",
+      "title": "Data Scientist (Hedge Fund)",
+      "company": "Mavence Group",
+      "companySlug": "mavence-group",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383709555",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_227ea0bf893b",
+      "title": "Data Scientist (Analytics)",
+      "company": "Grab",
+      "companySlug": "grab",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4378458401",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_789fb6612963",
+      "title": "Gen AI Engineer",
+      "company": "NCS Group",
+      "companySlug": "ncs-group",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4383759288",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_3eda3fe185db",
+      "title": "AI Engineer II",
+      "company": "Mastercard",
+      "companySlug": "mastercard",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4382071867",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
+    },
+    {
+      "id": "jobspy_linkedin_3164d6d3a588",
+      "title": "Freelance AI Engineer",
+      "company": "Twine",
+      "companySlug": "twine",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://www.linkedin.com/jobs/view/4371920679",
+      "postedAt": "2026-03-10T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "ai_ml",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
     },
     {
       "id": "jobspy_indeed_3bc90961cac6",
@@ -687,13 +4509,13 @@
       "team": null,
       "url": "https://www.ncs.co/careers/job-details/?jobSource=sm&jobId=6000000000922245",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:57.746Z",
+      "updatedAt": "2026-03-17T03:54:43.712Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:57.746Z"
+      "scrapedAt": "2026-03-17T03:54:43.712Z"
     },
     {
       "id": "jobspy_indeed_023af683055d",
@@ -708,13 +4530,13 @@
       "team": null,
       "url": "https://seagatecareers.com/job/Singapore-Global-Factory-IT-Intern%2C-Machine-Learning-and-Generative-AI/1371809200/?feedId=325900&utm_source=Indeed&utm_campaign=Seagate_Indeed",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:44:02.493Z",
+      "updatedAt": "2026-03-17T03:55:45.852Z",
       "isRemote": false,
       "experienceLevel": "intern",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:44:02.493Z"
+      "scrapedAt": "2026-03-17T03:55:45.852Z"
     },
     {
       "id": "jobspy_indeed_0819fd63742b",
@@ -729,13 +4551,13 @@
       "team": null,
       "url": "https://joinbytedance.com/search/7612538034627037493",
       "postedAt": "2026-03-10T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:44:02.493Z",
+      "updatedAt": "2026-03-17T03:55:45.852Z",
       "isRemote": false,
       "experienceLevel": "new_grad",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:44:02.493Z"
+      "scrapedAt": "2026-03-17T03:55:45.852Z"
     },
     {
       "id": "databricks_8437018002",
@@ -756,28 +4578,7 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "greenhouse",
-      "scrapedAt": "2026-03-17T03:42:29.890Z"
-    },
-    {
-      "id": "jobspy_indeed_370feb55030e",
-      "title": "Software Engineer, Generative AI & ML",
-      "company": "Apple",
-      "companySlug": "apple",
-      "location": "Singapore, S00, SG",
-      "locations": [
-        "Singapore, S00, SG"
-      ],
-      "department": null,
-      "team": null,
-      "url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200645480-3278_rxr-662&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-sg%2Fdetails%2F200645480-3278%2Fsoftware-engineer-generative-ai-ml%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Def8126b7-1c3c-11f1-8590-f10bf5cd56bf%26rx_job%3D200645480-3278_rxr-662%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260316T223804Z%26rx_vp%3Dcpc%26team%3DMLAI",
-      "postedAt": "2026-03-09T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:43:57.746Z",
-      "isRemote": false,
-      "experienceLevel": "new_grad",
-      "category": "ai_ml",
-      "h1bSponsorship": "unknown",
-      "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:43:57.746Z"
+      "scrapedAt": "2026-03-17T03:48:26.682Z"
     },
     {
       "id": "jobspy_indeed_a844c0f260b6",
@@ -792,13 +4593,13 @@
       "team": null,
       "url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200635051-3278_rxr-662&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-sg%2Fdetails%2F200635051-3278%2Fgenerative-ai-engineer-camera-algorithms%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Df23a536b-1c3c-11f1-8590-a13deddac2c3%26rx_job%3D200635051-3278_rxr-662%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260316T223804Z%26rx_vp%3Dcpc%26team%3DHRDWR",
       "postedAt": "2026-03-09T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:44:02.493Z",
+      "updatedAt": "2026-03-17T03:55:45.852Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:44:02.493Z"
+      "scrapedAt": "2026-03-17T03:55:45.852Z"
     },
     {
       "id": "jobspy_indeed_61c58d408a61",
@@ -813,13 +4614,13 @@
       "team": null,
       "url": "https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200633003-3278_rxr-662&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-sg%2Fdetails%2F200633003-3278%2Fmachine-learning-researcher-image-video-generation%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3Df0d91565-1c3c-11f1-8590-c36592a36172%26rx_job%3D200633003-3278_rxr-662%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260316T223804Z%26rx_vp%3Dcpc%26team%3DHRDWR",
       "postedAt": "2026-03-09T00:00:00.000Z",
-      "updatedAt": "2026-03-17T03:44:02.493Z",
+      "updatedAt": "2026-03-17T03:55:45.852Z",
       "isRemote": false,
       "experienceLevel": "mid",
       "category": "ai_ml",
       "h1bSponsorship": "unknown",
       "atsSource": "indeed",
-      "scrapedAt": "2026-03-17T03:44:02.493Z"
+      "scrapedAt": "2026-03-17T03:55:45.852Z"
     },
     {
       "id": "palantir_0b2dbe51-0d9f-47ee-9f24-82bff4654048",
@@ -834,13 +4635,13 @@
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/0b2dbe51-0d9f-47ee-9f24-82bff4654048",
       "postedAt": "2026-03-03T13:07:16.077Z",
-      "updatedAt": "2026-03-17T03:43:25.681Z",
+      "updatedAt": "2026-03-17T03:49:55.155Z",
       "isRemote": false,
       "experienceLevel": "unknown",
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "lever",
-      "scrapedAt": "2026-03-17T03:43:25.681Z"
+      "scrapedAt": "2026-03-17T03:49:55.155Z"
     },
     {
       "id": "notion_be7e3aa0-22de-4ff9-b406-fb101d40cc04",
@@ -861,7 +4662,28 @@
       "category": "swe",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:30.981Z"
+      "scrapedAt": "2026-03-17T03:48:29.430Z"
+    },
+    {
+      "id": "jobspy_indeed_891652594d3e",
+      "title": "Lead Data Engineer",
+      "company": "POSH",
+      "companySlug": "posh",
+      "location": "Singapore, S00, SG",
+      "locations": [
+        "Singapore, S00, SG"
+      ],
+      "department": null,
+      "team": null,
+      "url": "https://careers.kuokgroup.com.sg/job/Lead-Data-Engineer/260-en_GB",
+      "postedAt": "2026-01-26T00:00:00.000Z",
+      "updatedAt": "2026-03-17T03:53:41.614Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "data",
+      "h1bSponsorship": "unknown",
+      "atsSource": "indeed",
+      "scrapedAt": "2026-03-17T03:53:41.614Z"
     },
     {
       "id": "cohere_9c18b199-cd1f-4ef3-9fab-ce05589348ae",
@@ -882,9 +4704,9 @@
       "category": "ai_ml",
       "h1bSponsorship": "confirmed",
       "atsSource": "ashby",
-      "scrapedAt": "2026-03-17T03:42:36.559Z"
+      "scrapedAt": "2026-03-17T03:48:33.092Z"
     }
   ],
-  "lastUpdated": "2026-03-17T03:44:04.957Z",
-  "totalCompanies": 26
+  "lastUpdated": "2026-03-17T03:55:59.646Z",
+  "totalCompanies": 124
 }
