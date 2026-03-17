@@ -1,6 +1,6 @@
 import { NormalizedJob, ExperienceLevel, JobCategory, SponsorshipStatus } from "./adapters/types.js";
 
-const LOCATION_PATTERNS = [
+const SF_LOCATION_PATTERNS = [
   /san francisco/i,
   /\bsf\b/i,
   /bay area/i,
@@ -17,6 +17,13 @@ const LOCATION_PATTERNS = [
   /\bla\b/,
   /austin/i,
   /\btx\b/,
+];
+
+const SG_LOCATION_PATTERNS = [
+  /singapore/i,
+  /\bsg\b/,
+  /\bapac\b/i,
+  /asia[- ]pacific/i,
 ];
 
 const ROLE_INCLUDE_PATTERNS = [
@@ -216,9 +223,12 @@ export function deriveExperienceLevel(title: string, description?: string): Expe
   return "unknown";
 }
 
-export function matchesLocation(job: NormalizedJob): boolean {
+export type Region = "sf" | "sg";
+
+export function matchesLocation(job: NormalizedJob, region: Region): boolean {
   const allLocations = [job.location, ...job.locations].join(" ");
-  return LOCATION_PATTERNS.some((p) => p.test(allLocations));
+  const patterns = region === "sf" ? SF_LOCATION_PATTERNS : SG_LOCATION_PATTERNS;
+  return patterns.some((p) => p.test(allLocations));
 }
 
 export function matchesRole(job: NormalizedJob): boolean {
@@ -258,9 +268,9 @@ function departmentToExperience(department: string | null, team: string | null):
 
 const JUNIOR_LEVELS: Set<ExperienceLevel> = new Set(["intern", "new_grad", "junior", "mid", "unknown"]);
 
-export function filterAndEnrichJobs(jobs: NormalizedJob[]): NormalizedJob[] {
+export function filterAndEnrichJobs(jobs: NormalizedJob[], region: Region): NormalizedJob[] {
   return jobs
-    .filter(matchesLocation)
+    .filter((job) => matchesLocation(job, region))
     .filter(matchesRole)
     .map((job) => {
       let experienceLevel = deriveExperienceLevel(job.title, job._description);

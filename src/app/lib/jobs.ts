@@ -1,6 +1,11 @@
 import type { JobsData } from "./types";
-import jobsDataRaw from "../../../data/jobs.json";
+import sfData from "../../../data/jobs-sf.json";
+import sgData from "../../../data/jobs-sg.json";
 
-export function getJobsData(): JobsData {
-  return jobsDataRaw as JobsData;
+export function getSfJobsData(): JobsData {
+  return sfData as JobsData;
+}
+
+export function getSgJobsData(): JobsData {
+  return sgData as JobsData;
 }

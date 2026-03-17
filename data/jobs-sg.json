@@ -1,0 +1,281 @@
+{
+  "jobs": [
+    {
+      "id": "stripe_7567506",
+      "title": "Engineering Manager, Payments",
+      "company": "Stripe",
+      "companySlug": "stripe",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": "8548 Payins - Eng",
+      "team": null,
+      "url": "https://stripe.com/jobs/search?gh_jid=7567506",
+      "postedAt": "2026-03-16T15:49:36-04:00",
+      "updatedAt": "2026-03-16T15:49:36-04:00",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "swe",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "greenhouse",
+      "scrapedAt": "2026-03-17T03:28:52.059Z"
+    },
+    {
+      "id": "stripe_7176977",
+      "title": "Software Engineering, New Grad",
+      "company": "Stripe",
+      "companySlug": "stripe",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": "5112 General University",
+      "team": null,
+      "url": "https://stripe.com/jobs/search?gh_jid=7176977",
+      "postedAt": "2026-03-16T15:49:36-04:00",
+      "updatedAt": "2026-03-16T15:49:36-04:00",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "greenhouse",
+      "scrapedAt": "2026-03-17T03:28:52.059Z"
+    },
+    {
+      "id": "stripe_7206401",
+      "title": "Software Engineer, Intern",
+      "company": "Stripe",
+      "companySlug": "stripe",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": "5112 General University",
+      "team": null,
+      "url": "https://stripe.com/jobs/search?gh_jid=7206401",
+      "postedAt": "2026-03-16T15:49:36-04:00",
+      "updatedAt": "2026-03-16T15:49:36-04:00",
+      "isRemote": false,
+      "experienceLevel": "intern",
+      "category": "swe",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "greenhouse",
+      "scrapedAt": "2026-03-17T03:28:52.059Z"
+    },
+    {
+      "id": "stripe_7555999",
+      "title": "Software Engineer, Money as a Service",
+      "company": "Stripe",
+      "companySlug": "stripe",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": "8528 FSB Risk and Capital Markets",
+      "team": null,
+      "url": "https://stripe.com/jobs/search?gh_jid=7555999",
+      "postedAt": "2026-03-16T15:49:36-04:00",
+      "updatedAt": "2026-03-16T15:49:36-04:00",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "greenhouse",
+      "scrapedAt": "2026-03-17T03:28:52.059Z"
+    },
+    {
+      "id": "stripe_7529787",
+      "title": "Software Engineer, Payments",
+      "company": "Stripe",
+      "companySlug": "stripe",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": "8548 Payins - Eng",
+      "team": null,
+      "url": "https://stripe.com/jobs/search?gh_jid=7529787",
+      "postedAt": "2026-03-16T15:49:36-04:00",
+      "updatedAt": "2026-03-16T15:49:36-04:00",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "greenhouse",
+      "scrapedAt": "2026-03-17T03:28:52.059Z"
+    },
+    {
+      "id": "coupang_7374703",
+      "title": "Mobile Security Engineer, iOS/Android(Pricing Intelligence)",
+      "company": "Coupang",
+      "companySlug": "coupang",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore",
+        "Singapore"
+      ],
+      "department": "zz-Evergreen Requisition",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7374703",
+      "postedAt": "2026-03-13T05:07:55-04:00",
+      "updatedAt": "2026-03-13T05:07:55-04:00",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "swe",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "greenhouse",
+      "scrapedAt": "2026-03-17T03:29:59.104Z"
+    },
+    {
+      "id": "coupang_7374701",
+      "title": "Web Security Engineer(Pricing Intelligence)",
+      "company": "Coupang",
+      "companySlug": "coupang",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore",
+        "Singapore"
+      ],
+      "department": "zz-Evergreen Requisition",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7374701",
+      "postedAt": "2026-03-13T05:07:55-04:00",
+      "updatedAt": "2026-03-13T05:07:55-04:00",
+      "isRemote": false,
+      "experienceLevel": "mid",
+      "category": "swe",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "greenhouse",
+      "scrapedAt": "2026-03-17T03:29:59.104Z"
+    },
+    {
+      "id": "govtechsg_4000975201",
+      "title": "Enterprise Platform Engineer (Salesforce), Ministry of Education (MOE)",
+      "company": "GovTech Singapore",
+      "companySlug": "govtechsg",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": "Software Engineer",
+      "team": null,
+      "url": "https://job-boards.anz.greenhouse.io/govtech/jobs/4000975201",
+      "postedAt": "2026-03-11T09:54:23-04:00",
+      "updatedAt": "2026-03-11T09:54:23-04:00",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "likely",
+      "atsSource": "greenhouse",
+      "scrapedAt": "2026-03-17T03:29:55.186Z"
+    },
+    {
+      "id": "govtechsg_4000976201",
+      "title": "Lead Engineering Manager (Salesforce), Ministry of Education (MOE)",
+      "company": "GovTech Singapore",
+      "companySlug": "govtechsg",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": "Engineering Manager",
+      "team": null,
+      "url": "https://job-boards.anz.greenhouse.io/govtech/jobs/4000976201",
+      "postedAt": "2026-03-11T09:54:23-04:00",
+      "updatedAt": "2026-03-11T09:54:23-04:00",
+      "isRemote": false,
+      "experienceLevel": "new_grad",
+      "category": "swe",
+      "h1bSponsorship": "likely",
+      "atsSource": "greenhouse",
+      "scrapedAt": "2026-03-17T03:29:55.186Z"
+    },
+    {
+      "id": "databricks_8437018002",
+      "title": "Solutions Engineer",
+      "company": "Databricks",
+      "companySlug": "databricks",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": "Field Engineering - Other",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8437018002",
+      "postedAt": "2026-03-08T22:30:23-04:00",
+      "updatedAt": "2026-03-08T22:30:23-04:00",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "greenhouse",
+      "scrapedAt": "2026-03-17T03:28:55.267Z"
+    },
+    {
+      "id": "palantir_0b2dbe51-0d9f-47ee-9f24-82bff4654048",
+      "title": "Backend Software Engineer",
+      "company": "Palantir",
+      "companySlug": "palantir",
+      "location": "Singapore, Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "department": null,
+      "team": "Dev",
+      "url": "https://jobs.lever.co/palantir/0b2dbe51-0d9f-47ee-9f24-82bff4654048",
+      "postedAt": "2026-03-03T13:07:16.077Z",
+      "updatedAt": "2026-03-17T03:29:48.923Z",
+      "isRemote": false,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "lever",
+      "scrapedAt": "2026-03-17T03:29:48.923Z"
+    },
+    {
+      "id": "notion_be7e3aa0-22de-4ff9-b406-fb101d40cc04",
+      "title": "Solutions Engineer, Singapore",
+      "company": "Notion",
+      "companySlug": "notion",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": "Sales",
+      "team": "Sales",
+      "url": "https://jobs.ashbyhq.com/notion/be7e3aa0-22de-4ff9-b406-fb101d40cc04",
+      "postedAt": "2026-02-13T06:38:42.200+00:00",
+      "updatedAt": "2026-02-13T06:38:42.200+00:00",
+      "isRemote": true,
+      "experienceLevel": "unknown",
+      "category": "swe",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "ashby",
+      "scrapedAt": "2026-03-17T03:28:57.811Z"
+    },
+    {
+      "id": "cohere_9c18b199-cd1f-4ef3-9fab-ce05589348ae",
+      "title": "Applied AI Engineer - Agentic Workflows (Singapore)",
+      "company": "Cohere",
+      "companySlug": "cohere",
+      "location": "Singapore",
+      "locations": [
+        "Singapore"
+      ],
+      "department": "Modeling",
+      "team": "Applied-ML",
+      "url": "https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae",
+      "postedAt": "2026-01-15T14:54:31.233+00:00",
+      "updatedAt": "2026-01-15T14:54:31.233+00:00",
+      "isRemote": true,
+      "experienceLevel": "mid",
+      "category": "ai_ml",
+      "h1bSponsorship": "confirmed",
+      "atsSource": "ashby",
+      "scrapedAt": "2026-03-17T03:29:02.586Z"
+    }
+  ],
+  "lastUpdated": "2026-03-17T03:30:08.725Z",
+  "totalCompanies": 7
+}

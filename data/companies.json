@@ -54,5 +54,10 @@
   { "name": "Retool", "slug": "retool", "ats": "ashby", "atsSlug": "retool", "hq": "San Francisco", "enabled": true },
   { "name": "Linear", "slug": "linear", "ats": "ashby", "atsSlug": "linear", "hq": "San Francisco", "enabled": true },
   { "name": "Loom", "slug": "loom", "ats": "ashby", "atsSlug": "loom", "hq": "San Francisco", "enabled": true },
-  { "name": "Vanta", "slug": "vanta", "ats": "ashby", "atsSlug": "vanta", "hq": "San Francisco", "enabled": true }
+  { "name": "Vanta", "slug": "vanta", "ats": "ashby", "atsSlug": "vanta", "hq": "San Francisco", "enabled": true },
+  { "name": "GovTech Singapore", "slug": "govtechsg", "ats": "greenhouse", "atsSlug": "govtech", "hq": "Singapore", "enabled": true },
+  { "name": "Atlassian", "slug": "atlassian", "ats": "lever", "atsSlug": "atlassian", "hq": "Sydney", "enabled": true },
+  { "name": "Coupang", "slug": "coupang", "ats": "greenhouse", "atsSlug": "coupang", "hq": "Seoul", "enabled": true },
+  { "name": "Ninja Van", "slug": "ninjavan", "ats": "lever", "atsSlug": "ninjavan", "hq": "Singapore", "enabled": true },
+  { "name": "PatSnap", "slug": "patsnap", "ats": "lever", "atsSlug": "patsnap", "hq": "Singapore", "enabled": true }
 ]

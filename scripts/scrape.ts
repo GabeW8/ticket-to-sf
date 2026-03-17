@@ -5,7 +5,7 @@ import { CompanyConfig, NormalizedJob, SponsorshipStatus } from "./adapters/type
 import { fetchGreenhouseJobs } from "./adapters/greenhouse.js";
 import { fetchAshbyJobs } from "./adapters/ashby.js";
 import { fetchLeverJobs } from "./adapters/lever.js";
-import { filterAndEnrichJobs, detectVisaSponsorship } from "./filters.js";
+import { filterAndEnrichJobs, detectVisaSponsorship, Region } from "./filters.js";
 import { delay } from "./utils.js";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -137,47 +137,51 @@ async function main() {
 
   console.log(`\nTotal raw jobs: ${allJobs.length}`);
 
-  // Filter and enrich
-  const filtered = filterAndEnrichJobs(allJobs);
-  console.log(`After location/role filter: ${filtered.length}`);
+  // Process each region
+  const regions: Region[] = ["sf", "sg"];
+  const results: Record<string, number> = {};
 
-  // Enrich with H-1B sponsorship data
-  const enriched = enrichSponsorship(filtered, sponsorMap);
+  for (const region of regions) {
+    const filtered = filterAndEnrichJobs(allJobs, region);
+    console.log(`\n--- ${region.toUpperCase()} ---`);
+    console.log(`After location/role filter: ${filtered.length}`);
 
-  // Sort by posted date (newest first)
-  enriched.sort(
-    (a, b) => new Date(b.postedAt).getTime() - new Date(a.postedAt).getTime()
-  );
+    const enriched = enrichSponsorship(filtered, sponsorMap);
 
-  // Deduplicate by id
-  const seen = new Set<string>();
-  const deduplicated = enriched.filter((job) => {
-    if (seen.has(job.id)) return false;
-    seen.add(job.id);
-    return true;
-  });
+    enriched.sort(
+      (a, b) => new Date(b.postedAt).getTime() - new Date(a.postedAt).getTime()
+    );
 
-  console.log(`After dedup: ${deduplicated.length}`);
+    const seen = new Set<string>();
+    const deduplicated = enriched.filter((job) => {
+      if (seen.has(job.id)) return false;
+      seen.add(job.id);
+      return true;
+    });
 
-  // Strip _description before saving (used only for enrichment)
-  const cleaned = deduplicated.map(({ _description, ...rest }) => rest);
+    console.log(`After dedup: ${deduplicated.length}`);
 
-  // Write jobs.json
-  const jobsData = {
-    jobs: cleaned,
-    lastUpdated: new Date().toISOString(),
-    totalCompanies: companiesScraped,
-  };
-  writeFileSync(
-    resolve(DATA_DIR, "jobs.json"),
-    JSON.stringify(jobsData, null, 2)
-  );
+    const cleaned = deduplicated.map(({ _description, ...rest }) => rest);
+
+    const jobsData = {
+      jobs: cleaned,
+      lastUpdated: new Date().toISOString(),
+      totalCompanies: new Set(cleaned.map((j) => j.company)).size,
+    };
+    writeFileSync(
+      resolve(DATA_DIR, `jobs-${region}.json`),
+      JSON.stringify(jobsData, null, 2)
+    );
+
+    results[region] = deduplicated.length;
+  }
 
   // Write scrape log
   const scrapeLog = {
     timestamp: new Date().toISOString(),
     totalScraped: allJobs.length,
-    totalAfterFilter: deduplicated.length,
+    sfJobs: results.sf,
+    sgJobs: results.sg,
     companiesScraped,
     companiesFailed: errors.length,
     errors,
@@ -187,7 +191,7 @@ async function main() {
     JSON.stringify(scrapeLog, null, 2)
   );
 
-  console.log(`\nDone! ${deduplicated.length} jobs written to data/jobs.json`);
+  console.log(`\nDone! SF: ${results.sf}, SG: ${results.sg} jobs`);
   console.log(
     `Companies: ${companiesScraped} scraped, ${errors.length} failed`
   );

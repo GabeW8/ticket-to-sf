@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/jobs.json data/scrape-log.json
+          git add data/jobs-sf.json data/jobs-sg.json data/scrape-log.json
           git diff --staged --quiet || git commit -m "chore: daily job update $(date +%Y-%m-%d)"
           git push
         # The push triggers deploy.yml which builds and deploys to GitHub Pages

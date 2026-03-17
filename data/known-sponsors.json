@@ -62,6 +62,11 @@
     { "companySlug": "retool", "dolNames": ["RETOOL INC"], "status": "confirmed" },
     { "companySlug": "linear", "dolNames": ["LINEAR ORBIT INC"], "status": "likely" },
     { "companySlug": "loom", "dolNames": ["LOOM INC"], "status": "confirmed" },
-    { "companySlug": "vanta", "dolNames": ["VANTA INC"], "status": "confirmed" }
+    { "companySlug": "vanta", "dolNames": ["VANTA INC"], "status": "confirmed" },
+    { "companySlug": "govtechsg", "dolNames": ["GOVTECH SINGAPORE"], "status": "likely" },
+    { "companySlug": "atlassian", "dolNames": ["ATLASSIAN INC", "ATLASSIAN PTY LTD"], "status": "confirmed" },
+    { "companySlug": "coupang", "dolNames": ["COUPANG INC"], "status": "confirmed" },
+    { "companySlug": "ninjavan", "dolNames": ["NINJA VAN"], "status": "likely" },
+    { "companySlug": "patsnap", "dolNames": ["PATSNAP PTE LTD"], "status": "likely" }
   ]
 }
