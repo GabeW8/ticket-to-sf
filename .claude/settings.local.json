@@ -3,7 +3,8 @@
     "allow": [
       "WebFetch(domain:api.lever.co)",
       "WebFetch(domain:boards-api.greenhouse.io)",
-      "WebFetch(domain:api.ashbyhq.com)"
+      "WebFetch(domain:api.ashbyhq.com)",
+      "WebSearch"
     ]
   }
 }

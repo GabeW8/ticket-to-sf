@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "SF Tech Jobs | H-1B Friendly",
+  title: "Ticket to SF/SG | Entry-Level Tech Jobs for New Grads",
   description:
-    "AI & Software Engineering job listings in San Francisco from H-1B sponsoring companies. Updated daily.",
+    "Curated entry-level AI & Software Engineering jobs in San Francisco and Singapore. H-1B friendly. Updated daily from 50+ companies.",
 };
 
 export default function RootLayout({

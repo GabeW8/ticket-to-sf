@@ -27,6 +27,10 @@ export interface NormalizedJob {
   experienceLevel: ExperienceLevel;
   category: JobCategory;
   h1bSponsorship: SponsorshipStatus;
+  salaryMin: number | null;
+  salaryMax: number | null;
+  salaryCurrency: string | null;
+  salaryInterval: string | null;
   atsSource: "greenhouse" | "ashby" | "lever" | "indeed";
   scrapedAt: string;
 }

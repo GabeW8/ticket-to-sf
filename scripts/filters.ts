@@ -48,12 +48,12 @@ const ROLE_INCLUDE_PATTERNS = [
   /cloud engineer/i,
   /mobile engineer/i,
   /ios engineer|android engineer/i,
-  /engineering manager/i,
   /solutions engineer/i,
 ];
 
 const ROLE_EXCLUDE_PATTERNS = [
   /\b(director|vp|vice president|head of|chief|cto|ceo|cfo)\b/i,
+  /\bmanager\b/i,
   /\brecruiter\b/i,
   /\bcoordinator\b/i,
   /\boperations\b/i,
@@ -71,6 +71,9 @@ const ROLE_EXCLUDE_PATTERNS = [
   /\baccount executive\b/i,
   /\bbusiness development\b/i,
 ];
+
+// Titles with these words are NEVER new_grad or junior, regardless of description
+const SENIORITY_GUARD = /\b(lead|manager|head|principal|director|staff|senior|sr\.?|architect|distinguished)\b/i;
 
 // --- Visa sponsorship detection ---
 
@@ -104,35 +107,29 @@ const VISA_NEGATIVE_PATTERNS = [
 
 export function detectVisaSponsorship(description: string): "sponsors" | "no_sponsor" | "unmentioned" {
   if (!description) return "unmentioned";
-
   const hasNegative = VISA_NEGATIVE_PATTERNS.some((p) => p.test(description));
   if (hasNegative) return "no_sponsor";
-
   const hasPositive = VISA_POSITIVE_PATTERNS.some((p) => p.test(description));
   if (hasPositive) return "sponsors";
-
   return "unmentioned";
 }
 
-// --- Experience level detection (title + description) ---
+// --- Experience level detection ---
 
 function extractYearsFromDescription(description: string): number | null {
   if (!description) return null;
 
-  // Try range pattern first: "2-8 years" → use the LOWER bound as minimum requirement
-  // But for ranges like "2-8", the midpoint is more representative
+  // Range: "2-8 years of experience" → midpoint
   const rangeMatch = description.match(
-    /(\d+)\s*[-–]\s*(\d+)\s*(?:years?|yrs?)(?:\s+of)?\s+(?:relevant\s+|professional\s+|industry\s+|hands[- ]on\s+|practical\s+)?(?:experience|work)/i
+    /(\d+)\s*[-–]\s*(\d+)\s*\+?\s*(?:years?|yrs?)(?:\s+of)?\s+(?:relevant\s+|professional\s+|industry\s+|hands[- ]on\s+|practical\s+)?(?:experience|work)/i
   );
   if (rangeMatch) {
-    const low = parseInt(rangeMatch[1], 10);
-    const high = parseInt(rangeMatch[2], 10);
-    // Use midpoint of range for classification
-    return Math.round((low + high) / 2);
+    return Math.round((parseInt(rangeMatch[1], 10) + parseInt(rangeMatch[2], 10)) / 2);
   }
 
-  // Single number patterns: "5+ years", "at least 3 years", "minimum 2 years"
+  // Single: "5+ years", "at least 3 years", "minimum 2 years", "up to 3 years"
   const patterns = [
+    /(?:up\s+to)\s+(\d+)\s*(?:years?|yrs?)/i,
     /(\d+)\+?\s*(?:years?|yrs?)(?:\s+of)?\s+(?:relevant\s+|professional\s+|industry\s+|hands[- ]on\s+|practical\s+)?(?:experience|work)/i,
     /(?:at\s+least|minimum|min\.?)\s+(\d+)\s*(?:years?|yrs?)/i,
     /(?:experience|background)(?:\s+of)?\s+(\d+)\+?\s*(?:years?|yrs?)/i,
@@ -140,16 +137,17 @@ function extractYearsFromDescription(description: string): number | null {
 
   for (const pattern of patterns) {
     const match = description.match(pattern);
-    if (match) {
-      return parseInt(match[1], 10);
-    }
+    if (match) return parseInt(match[1], 10);
   }
+
+  // Broad catch-all: any mention of "X years" or "X+ years"
+  const broadMatch = description.match(/\b(\d+)\s*\+?\s*(?:years?|yrs?)\b/i);
+  if (broadMatch) return parseInt(broadMatch[1], 10);
 
   return null;
 }
 
 function yearsToLevel(years: number): ExperienceLevel {
-  if (years === 0) return "new_grad";
   if (years <= 2) return "new_grad";
   if (years <= 4) return "mid";
   if (years <= 7) return "senior";
@@ -159,7 +157,10 @@ function yearsToLevel(years: number): ExperienceLevel {
 export function deriveExperienceLevel(title: string, description?: string): ExperienceLevel {
   const t = title.toLowerCase();
 
-  // 1. Check for explicit YOE in the title first (e.g., "(8+ YOE)", "(2-8 YOE)")
+  // 0. Seniority guard — if title has senior signals, floor at "mid" minimum
+  const hasSenioritySignal = SENIORITY_GUARD.test(t);
+
+  // 1. Explicit YOE in title (e.g., "(8+ YOE)", "(2-8 YOE)")
   const titleRangeMatch = t.match(/(\d+)\s*[-–]\s*(\d+)\s*(?:yoe|years?|yrs?)/);
   if (titleRangeMatch) {
     const mid = Math.round((parseInt(titleRangeMatch[1]) + parseInt(titleRangeMatch[2])) / 2);
@@ -170,55 +171,56 @@ export function deriveExperienceLevel(title: string, description?: string): Expe
     return yearsToLevel(parseInt(titleYoeMatch[1]));
   }
 
-  // 2. Title keyword-based detection
+  // 2. Graduate year patterns: "(2025 Graduate)", "(2026 Grad)", "Class of 2026"
+  if (/\b20\d{2}\s*(?:graduate|grad)\b/i.test(t) || /\bclass\s+of\s+20\d{2}\b/i.test(t) || /\bgraduate\s+program\b/i.test(t)) {
+    return hasSenioritySignal ? "mid" : "new_grad";
+  }
+
+  // 3. Title keyword detection
   if (/\bintern\b/.test(t)) return "intern";
-  if (
-    /\b(new grad|new graduate|entry level|entry-level|early career|university grad|fresh graduate|junior)\b/.test(t)
-  )
-    return "new_grad";
-  // "Engineer I" / "Engineer 1" / "SWE I" — match roman numeral I or digit 1 at end of title
-  if (/\b(engineer|developer|scientist)\s+(i|1)\s*$/i.test(t) || /\bassociate\b/.test(t) || /\bl3\b/.test(t) || /\be3\b/.test(t))
-    return "junior";
-  if (
-    /\b(senior|sr\.?|sr )\b/.test(t) ||
-    /\biii\b/.test(t) ||
-    /\bl5\b/.test(t) ||
-    /\be5\b/.test(t)
-  )
+  if (/\b(new grad|new graduate|entry level|entry-level|early career|university grad|fresh graduate)\b/.test(t)) {
+    return hasSenioritySignal ? "mid" : "new_grad";
+  }
+  if (/\bjunior\b/.test(t)) {
+    return hasSenioritySignal ? "mid" : "new_grad";
+  }
+  // "Engineer I" / "Engineer 1" at end of title
+  if (/\b(engineer|developer|scientist)\s+(i|1)\s*$/i.test(t) || /\bassociate\b/.test(t) || /\bl3\b/.test(t) || /\be3\b/.test(t)) {
+    return hasSenioritySignal ? "mid" : "junior";
+  }
+  if (/\b(senior|sr\.?|sr )\b/.test(t) || /\biii\b/.test(t) || /\bl5\b/.test(t) || /\be5\b/.test(t))
     return "senior";
-  if (
-    /\b(staff|principal|distinguished)\b/.test(t) ||
-    /\biv\b/.test(t) ||
-    /\bl6\b/.test(t) ||
-    /\be6\b/.test(t)
-  )
+  if (/\b(staff|principal|distinguished)\b/.test(t) || /\biv\b/.test(t) || /\bl6\b/.test(t) || /\be6\b/.test(t))
     return "staff";
   if (/\bii\b/.test(t) || /\bl4\b/.test(t) || /\be4\b/.test(t) || /\bmid[- ]level\b/.test(t))
     return "mid";
+  if (/\blead\b/i.test(t)) return "senior";
+  if (/\bmanager\b/i.test(t)) return "senior";
 
-  // 3. Description-based detection (for titles that don't specify level)
+  // 4. Description-based detection
   if (description) {
     const desc = description.toLowerCase();
 
-    // Parse years of experience from description (most reliable signal)
     const years = extractYearsFromDescription(description);
     if (years !== null) {
-      return yearsToLevel(years);
+      const level = yearsToLevel(years);
+      // Apply seniority guard: if title says "lead/senior", don't downgrade to new_grad
+      if (hasSenioritySignal && (level === "new_grad" || level === "junior")) return "mid";
+      return level;
     }
 
-    // Check for explicit new grad / entry level mentions
-    if (
-      /\b(new grad|new graduate|recent graduate|early[- ]career|early in your career|no prior experience|no experience required|0 years)\b/.test(desc)
-    )
-      return "new_grad";
+    // Explicit new grad mentions (only if no seniority signal in title)
+    if (!hasSenioritySignal) {
+      if (/\b(new grad|new graduate|recent graduate|early[- ]career|early in your career|no prior experience|no experience required|no experience necessary|0 years)\b/.test(desc))
+        return "new_grad";
 
-    // "Bachelor's degree" or "BS/MS" mentioned without years of experience → likely new_grad
-    if (
-      /\b(bachelor'?s?\s+degree|bs\s*\/\s*ms|b\.?s\.?\s+in)\b/.test(desc) &&
-      !/\byears?\b/.test(desc)
-    )
-      return "new_grad";
+      if (/\b(bachelor'?s?\s+degree|bs\s*\/\s*ms|b\.?s\.?\s+in)\b/.test(desc) && !/\byears?\b/.test(desc))
+        return "new_grad";
+    }
   }
+
+  // 5. If title has seniority signals but nothing else matched, it's at least senior
+  if (hasSenioritySignal) return "senior";
 
   return "unknown";
 }
@@ -233,29 +235,20 @@ export function matchesLocation(job: NormalizedJob, region: Region): boolean {
 
 export function matchesRole(job: NormalizedJob): boolean {
   const title = job.title;
-  if (ROLE_EXCLUDE_PATTERNS.some((p) => p.test(title))) {
-    if (/engineering manager/i.test(title)) return true;
-    return false;
-  }
+  if (ROLE_EXCLUDE_PATTERNS.some((p) => p.test(title))) return false;
   return ROLE_INCLUDE_PATTERNS.some((p) => p.test(title));
 }
 
 export function deriveCategory(title: string): JobCategory {
   const t = title.toLowerCase();
-
-  if (
-    /\b(ml|machine learning|ai|artificial intelligence|research scientist|research engineer|applied scientist|nlp|computer vision|deep learning|llm)\b/.test(t)
-  )
+  if (/\b(ml|machine learning|ai|artificial intelligence|research scientist|research engineer|applied scientist|nlp|computer vision|deep learning|llm|genai|generative ai|rag|ai agent)\b/.test(t))
     return "ai_ml";
   if (/\b(data scientist|data engineer|data analytics|analytics engineer)\b/.test(t))
     return "data";
   if (/\b(product manager|product engineer|product lead)\b/.test(t))
     return "product";
-  if (
-    /\b(software|swe|frontend|front-end|backend|back-end|full[- ]?stack|developer|platform|infrastructure|devops|sre|mobile|ios|android|security|cloud|systems|engineering manager|solutions engineer)\b/.test(t)
-  )
+  if (/\b(software|swe|frontend|front-end|backend|back-end|full[- ]?stack|developer|platform|infrastructure|devops|sre|mobile|ios|android|security|cloud|systems|solutions engineer)\b/.test(t))
     return "swe";
-
   return "other";
 }
 
@@ -275,7 +268,6 @@ export function filterAndEnrichJobs(jobs: NormalizedJob[], region: Region): Norm
     .map((job) => {
       let experienceLevel = deriveExperienceLevel(job.title, job._description);
 
-      // If still unknown, check department/team signals
       if (experienceLevel === "unknown") {
         const deptLevel = departmentToExperience(job.department, job.team);
         if (deptLevel) experienceLevel = deptLevel;

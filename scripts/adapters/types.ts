@@ -28,6 +28,10 @@ export interface NormalizedJob {
   category: JobCategory;
   h1bSponsorship: SponsorshipStatus;
   atsSource: "greenhouse" | "ashby" | "lever" | "indeed";
+  salaryMin: number | null;
+  salaryMax: number | null;
+  salaryCurrency: string | null;
+  salaryInterval: string | null;
   scrapedAt: string;
   _description?: string; // Used during enrichment only, stripped before saving
 }

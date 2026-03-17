@@ -9,7 +9,8 @@ export interface Filters {
   companies: string[];
   h1bOnly: boolean;
   remoteOnly: boolean;
-  sortBy: "newest" | "company";
+  savedOnly: boolean;
+  sortBy: "newest" | "company" | "salary";
 }
 
 export const DEFAULT_FILTERS: Filters = {
@@ -19,6 +20,7 @@ export const DEFAULT_FILTERS: Filters = {
   companies: [],
   h1bOnly: true,
   remoteOnly: false,
+  savedOnly: false,
   sortBy: "newest",
 };
 
@@ -86,10 +88,12 @@ export default function FilterBar({
   filters,
   onFiltersChange,
   jobs,
+  savedCount,
 }: {
   filters: Filters;
   onFiltersChange: (filters: Filters) => void;
   jobs: NormalizedJob[];
+  savedCount: number;
 }) {
   const companies = Array.from(new Set(jobs.map((j) => j.company))).sort();
   const companyOptions = companies.map((c) => ({ value: c, label: c }));
@@ -100,11 +104,11 @@ export default function FilterBar({
     filters.experienceLevels.length > 0 ||
     filters.companies.length > 0 ||
     !filters.h1bOnly ||
-    filters.remoteOnly;
+    filters.remoteOnly ||
+    filters.savedOnly;
 
   return (
     <div className="space-y-4 rounded-lg border border-(--color-border) bg-(--color-card) p-4">
-      {/* Search */}
       <div>
         <div className="relative">
           <svg
@@ -132,7 +136,6 @@ export default function FilterBar({
         </div>
       </div>
 
-      {/* Filter pills */}
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         <MultiSelect
           label="Category"
@@ -160,7 +163,6 @@ export default function FilterBar({
         />
       </div>
 
-      {/* Toggles and sort */}
       <div className="flex flex-wrap items-center gap-4">
         <label className="flex items-center gap-2 text-sm">
           <input
@@ -184,6 +186,24 @@ export default function FilterBar({
           />
           <span>Remote Only</span>
         </label>
+        <label className="flex items-center gap-2 text-sm">
+          <input
+            type="checkbox"
+            checked={filters.savedOnly}
+            onChange={(e) =>
+              onFiltersChange({ ...filters, savedOnly: e.target.checked })
+            }
+            className="rounded border-(--color-border)"
+          />
+          <span>
+            Saved Only
+            {savedCount > 0 && (
+              <span className="ml-1 rounded-full bg-red-100 px-1.5 py-0.5 text-xs font-medium text-red-600 dark:bg-red-900/30 dark:text-red-400">
+                {savedCount}
+              </span>
+            )}
+          </span>
+        </label>
 
         <div className="ml-auto flex items-center gap-2">
           <label className="text-xs text-(--color-text-muted)">Sort:</label>
@@ -198,6 +218,7 @@ export default function FilterBar({
             className="rounded border border-(--color-border) bg-(--color-bg) px-2 py-1 text-xs"
           >
             <option value="newest">Newest First</option>
+            <option value="salary">Highest Salary</option>
             <option value="company">Company A-Z</option>
           </select>
         </div>

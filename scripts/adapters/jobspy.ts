@@ -49,6 +49,11 @@ export async function fetchJobspyJobs(
           const locationStr = job.location || config.location;
           const company = job.company || "Unknown";
 
+          const salaryMin = (job as any).minAmount ?? null;
+          const salaryMax = (job as any).maxAmount ?? null;
+          const salaryCurrency = (job as any).currency ?? null;
+          const salaryInterval = (job as any).interval ?? null;
+
           return {
             id: `jobspy_${site}_${hashUrl(job.jobUrl)}`,
             title: job.title,
@@ -67,6 +72,10 @@ export async function fetchJobspyJobs(
             experienceLevel: "unknown" as const,
             category: "other" as const,
             h1bSponsorship: "unknown" as const,
+            salaryMin: typeof salaryMin === "number" ? salaryMin : null,
+            salaryMax: typeof salaryMax === "number" ? salaryMax : null,
+            salaryCurrency,
+            salaryInterval,
             atsSource: "indeed" as const,
             scrapedAt: now,
             _description: job.description || "",
